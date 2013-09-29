@@ -1,0 +1,19 @@
+# ignore the PyCharm settings directory
+ and submissions
+.idea/**
+
+#ignore any data folders too large to remotely sync
+Data/raw/**
+
+# ignore any JSON data files (file size too large)
+*.json
+
+# ignore any compiled python files
+*.pyc
+
+# ignore any zipped archives
+*.zip
+
+# ignore any temp excel files
+~*.xlsx
+~*.xls
