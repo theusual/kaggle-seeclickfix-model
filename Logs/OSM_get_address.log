@@ -1,0 +1,3968 @@
+INFO:root:Row 0, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 1, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 2, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 3, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 4, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 5, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 6, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 7, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 8, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 9, lat: 41 long: -72 -- Successful
+
+INFO:root:Row 10, lat: 41 long: -72 -- Successful
+
+INFO:root:Row 11, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 12, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 13, lat: 41 long: -72 -- Successful
+
+INFO:root:Row 14, lat: 41 long: -72 -- Successful
+
+INFO:root:Row 15, lat: 41 long: -72 -- Successful
+
+INFO:root:Row 16, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 17, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 18, lat: 41 long: -72 -- Successful
+
+INFO:root:Row 19, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 20, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 21, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 22, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 23, lat: 41 long: -72 -- Successful
+
+INFO:root:Row 24, lat: 41 long: -72 -- Successful
+
+INFO:root:Row 25, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 26, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 27, lat: 37 long: -77 -- Successful
+
+INFO:root:Row 28, lat: 41 long: -72 -- Successful
+
+INFO:root:Row 0, lat: 37.590139 long: -77.456841 -- Successful
+
+INFO:root:Row 1, lat: 37.541534 long: -77.451985 -- Successful
+
+INFO:root:Row 2, lat: 37.560369 long: -77.468661 -- Successful
+
+INFO:root:Row 3, lat: 37.553762 long: -77.474736 -- Successful
+
+INFO:root:Row 4, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 5, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 6, lat: 37.572253 long: -77.445284 -- Successful
+
+INFO:root:Row 7, lat: 37.569962 long: -77.443190 -- Successful
+
+INFO:root:Row 8, lat: 37.522722 long: -77.417146 -- Successful
+
+INFO:root:Row 9, lat: 41.298437 long: -72.929179 -- Successful
+
+INFO:root:Row 10, lat: 41.311529 long: -72.942362 -- Successful
+
+INFO:root:Row 11, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 12, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 13, lat: 41.316855 long: -72.914783 -- Successful
+
+INFO:root:Row 14, lat: 41.314586 long: -72.911397 -- Successful
+
+INFO:root:Row 15, lat: 41.314499 long: -72.891544 -- Successful
+
+INFO:root:Row 16, lat: 37.568729 long: -77.436611 -- Successful
+
+INFO:root:Row 17, lat: 37.578238 long: -77.514696 -- Successful
+
+INFO:root:Row 18, lat: 41.283208 long: -72.926974 -- Successful
+
+INFO:root:Row 19, lat: 37.583211 long: -77.457564 -- Successful
+
+INFO:root:Row 20, lat: 37.549043 long: -77.464611 -- Successful
+
+INFO:root:Row 21, lat: 37.579407 long: -77.466165 -- Successful
+
+INFO:root:Row 22, lat: 37.538100 long: -77.410783 -- Successful
+
+INFO:root:Row 23, lat: 41.289266 long: -72.931792 -- Successful
+
+INFO:root:Row 24, lat: 41.302349 long: -72.884040 -- Successful
+
+INFO:root:Row 25, lat: 37.573431 long: -77.518475 -- Successful
+
+INFO:root:Row 26, lat: 37.545036 long: -77.589259 -- Successful
+
+INFO:root:Row 27, lat: 37.572353 long: -77.518229 -- Successful
+
+INFO:root:Row 28, lat: 41.325136 long: -72.946328 -- Successful
+
+INFO:root:Row 0, lat: 37.590139 long: -77.456841 -- Successful
+
+INFO:root:Row 1, lat: 37.541534 long: -77.451985 -- Successful
+
+INFO:root:Row 2, lat: 37.560369 long: -77.468661 -- Successful
+
+INFO:root:Row 3, lat: 37.553762 long: -77.474736 -- Successful
+
+INFO:root:Row 4, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 5, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 6, lat: 37.572253 long: -77.445284 -- Successful
+
+INFO:root:Row 7, lat: 37.569962 long: -77.443190 -- Successful
+
+INFO:root:Row 8, lat: 37.522722 long: -77.417146 -- Successful
+
+INFO:root:Row 9, lat: 41.298437 long: -72.929179 -- Successful
+
+INFO:root:Row 10, lat: 41.311529 long: -72.942362 -- Successful
+
+INFO:root:Row 11, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 12, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 13, lat: 41.316855 long: -72.914783 -- Successful
+
+INFO:root:Row 14, lat: 41.314586 long: -72.911397 -- Successful
+
+INFO:root:Row 15, lat: 41.314499 long: -72.891544 -- Successful
+
+INFO:root:Row 16, lat: 37.568729 long: -77.436611 -- Successful
+
+INFO:root:Row 17, lat: 37.578238 long: -77.514696 -- Successful
+
+INFO:root:Row 18, lat: 41.283208 long: -72.926974 -- Successful
+
+INFO:root:Row 19, lat: 37.583211 long: -77.457564 -- Successful
+
+INFO:root:Row 20, lat: 37.549043 long: -77.464611 -- Successful
+
+INFO:root:Row 21, lat: 37.579407 long: -77.466165 -- Successful
+
+INFO:root:Row 22, lat: 37.538100 long: -77.410783 -- Successful
+
+INFO:root:Row 23, lat: 41.289266 long: -72.931792 -- Successful
+
+INFO:root:Row 24, lat: 41.302349 long: -72.884040 -- Successful
+
+INFO:root:Row 25, lat: 37.573431 long: -77.518475 -- Successful
+
+INFO:root:Row 26, lat: 37.545036 long: -77.589259 -- Successful
+
+INFO:root:Row 27, lat: 37.572353 long: -77.518229 -- Successful
+
+INFO:root:Row 28, lat: 41.325136 long: -72.946328 -- Successful
+
+INFO:root:Row 29, lat: 37.527645 long: -77.439812 -- Successful
+
+INFO:root:Row 30, lat: 41.300901 long: -72.911069 -- Successful
+
+INFO:root:Row 31, lat: 37.843478 long: -122.245946 -- Successful
+
+INFO:root:Row 32, lat: 37.507957 long: -77.461402 -- Successful
+
+INFO:root:Row 33, lat: 37.839588 long: -122.251488 -- Successful
+
+INFO:root:Row 34, lat: 41.325962 long: -72.915121 -- Successful
+
+INFO:root:Row 35, lat: 41.934809 long: -87.678135 -- Successful
+
+INFO:root:Row 36, lat: 37.793552 long: -122.213066 -- Successful
+
+INFO:root:Row 37, lat: 41.294959 long: -72.940570 -- Successful
+
+INFO:root:Row 38, lat: 37.519058 long: -77.393185 -- Successful
+
+INFO:root:Row 39, lat: 37.579821 long: -77.467745 -- Successful
+
+INFO:root:Row 0, lat: 37.590139 long: -77.456841 -- Successful
+
+INFO:root:Row 1, lat: 37.541534 long: -77.451985 -- Successful
+
+INFO:root:Row 2, lat: 37.560369 long: -77.468661 -- Successful
+
+INFO:root:Row 3, lat: 37.553762 long: -77.474736 -- Successful
+
+INFO:root:Row 4, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 5, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 6, lat: 37.572253 long: -77.445284 -- Successful
+
+INFO:root:Row 7, lat: 37.569962 long: -77.443190 -- Successful
+
+INFO:root:Row 8, lat: 37.522722 long: -77.417146 -- Successful
+
+INFO:root:Row 9, lat: 41.298437 long: -72.929179 -- Successful
+
+INFO:root:Row 10, lat: 41.311529 long: -72.942362 -- Successful
+
+INFO:root:Row 11, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 12, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 13, lat: 41.316855 long: -72.914783 -- Successful
+
+INFO:root:Row 14, lat: 41.314586 long: -72.911397 -- Successful
+
+INFO:root:Row 15, lat: 41.314499 long: -72.891544 -- Successful
+
+INFO:root:Row 16, lat: 37.568729 long: -77.436611 -- Successful
+
+INFO:root:Row 17, lat: 37.578238 long: -77.514696 -- Successful
+
+INFO:root:Row 18, lat: 41.283208 long: -72.926974 -- Successful
+
+INFO:root:Row 19, lat: 37.583211 long: -77.457564 -- Successful
+
+INFO:root:Row 20, lat: 37.549043 long: -77.464611 -- Successful
+
+INFO:root:Row 21, lat: 37.579407 long: -77.466165 -- Successful
+
+INFO:root:Row 22, lat: 37.538100 long: -77.410783 -- Successful
+
+INFO:root:Row 23, lat: 41.289266 long: -72.931792 -- Successful
+
+INFO:root:Row 24, lat: 41.302349 long: -72.884040 -- Successful
+
+INFO:root:Row 25, lat: 37.573431 long: -77.518475 -- Successful
+
+INFO:root:Row 26, lat: 37.545036 long: -77.589259 -- Successful
+
+INFO:root:Row 27, lat: 37.572353 long: -77.518229 -- Successful
+
+INFO:root:Row 28, lat: 41.325136 long: -72.946328 -- Successful
+
+INFO:root:Row 0, lat: 37.590139 long: -77.456841 -- Successful
+
+INFO:root:Row 1, lat: 37.541534 long: -77.451985 -- Successful
+
+INFO:root:Row 2, lat: 37.560369 long: -77.468661 -- Successful
+
+INFO:root:Row 3, lat: 37.553762 long: -77.474736 -- Successful
+
+INFO:root:Row 4, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 5, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 6, lat: 37.572253 long: -77.445284 -- Successful
+
+INFO:root:Row 7, lat: 37.569962 long: -77.443190 -- Successful
+
+INFO:root:Row 8, lat: 37.522722 long: -77.417146 -- Successful
+
+INFO:root:Row 9, lat: 41.298437 long: -72.929179 -- Successful
+
+INFO:root:Row 10, lat: 41.311529 long: -72.942362 -- Successful
+
+INFO:root:Row 11, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 12, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 13, lat: 41.316855 long: -72.914783 -- Successful
+
+INFO:root:Row 14, lat: 41.314586 long: -72.911397 -- Successful
+
+INFO:root:Row 15, lat: 41.314499 long: -72.891544 -- Successful
+
+INFO:root:Row 16, lat: 37.568729 long: -77.436611 -- Successful
+
+INFO:root:Row 17, lat: 37.578238 long: -77.514696 -- Successful
+
+INFO:root:Row 18, lat: 41.283208 long: -72.926974 -- Successful
+
+INFO:root:Row 19, lat: 37.583211 long: -77.457564 -- Successful
+
+INFO:root:Row 20, lat: 37.549043 long: -77.464611 -- Successful
+
+INFO:root:Row 21, lat: 37.579407 long: -77.466165 -- Successful
+
+INFO:root:Row 22, lat: 37.538100 long: -77.410783 -- Successful
+
+INFO:root:Row 23, lat: 41.289266 long: -72.931792 -- Successful
+
+INFO:root:Row 24, lat: 41.302349 long: -72.884040 -- Successful
+
+INFO:root:Row 25, lat: 37.573431 long: -77.518475 -- Successful
+
+INFO:root:Row 26, lat: 37.545036 long: -77.589259 -- Successful
+
+INFO:root:Row 27, lat: 37.572353 long: -77.518229 -- Successful
+
+INFO:root:Row 28, lat: 41.325136 long: -72.946328 -- Successful
+
+INFO:root:Row 29, lat: 37.527645 long: -77.439812 -- Successful
+
+INFO:root:Row 30, lat: 41.300901 long: -72.911069 -- Successful
+
+INFO:root:Row 31, lat: 37.843478 long: -122.245946 -- Successful
+
+INFO:root:Row 32, lat: 37.507957 long: -77.461402 -- Successful
+
+INFO:root:Row 33, lat: 37.839588 long: -122.251488 -- Successful
+
+INFO:root:Row 34, lat: 41.325962 long: -72.915121 -- Successful
+
+INFO:root:Row 35, lat: 41.934809 long: -87.678135 -- Successful
+
+INFO:root:Row 36, lat: 37.793552 long: -122.213066 -- Successful
+
+INFO:root:Row 37, lat: 41.294959 long: -72.940570 -- Successful
+
+INFO:root:Row 38, lat: 37.519058 long: -77.393185 -- Successful
+
+INFO:root:Row 39, lat: 37.579821 long: -77.467745 -- Successful
+
+INFO:root:Row 40, lat: 37.581441 long: -77.516211 -- Successful
+
+INFO:root:Row 41, lat: 41.316313 long: -72.966932 -- Successful
+
+INFO:root:Row 42, lat: 37.814213 long: -122.268333 -- Successful
+
+INFO:root:Row 43, lat: 37.554880 long: -77.484693 -- Successful
+
+INFO:root:Row 44, lat: 37.509921 long: -77.442723 -- Successful
+
+INFO:root:Row 45, lat: 37.541395 long: -77.488052 -- Successful
+
+INFO:root:Row 46, lat: 37.570294 long: -77.415534 -- Successful
+
+INFO:root:Row 47, lat: 37.549357 long: -77.490369 -- Successful
+
+INFO:root:Row 48, lat: 37.544911 long: -77.576178 -- Successful
+
+INFO:root:Row 49, lat: 37.502193 long: -77.485200 -- Successful
+
+INFO:root:Row 50, lat: 37.512359 long: -77.496575 -- Successful
+
+INFO:root:Row 51, lat: 37.516575 long: -77.391959 -- Successful
+
+INFO:root:Row 52, lat: 37.549938 long: -77.587883 -- Successful
+
+INFO:root:Row 53, lat: 37.575479 long: -77.431713 -- Successful
+
+INFO:root:Row 54, lat: 37.564167 long: -77.421438 -- Successful
+
+INFO:root:Row 55, lat: 37.535050 long: -77.470617 -- Successful
+
+INFO:root:Row 56, lat: 37.521739 long: -77.463706 -- Successful
+
+INFO:root:Row 57, lat: 37.561007 long: -77.425445 -- Successful
+
+INFO:root:Row 58, lat: 37.564126 long: -77.421625 -- Successful
+
+INFO:root:Row 59, lat: 37.545936 long: -77.465547 -- Successful
+
+INFO:root:Row 60, lat: 37.576957 long: -77.517594 -- Successful
+
+INFO:root:Row 61, lat: 37.505783 long: -77.460713 -- Successful
+
+INFO:root:Row 62, lat: 37.527181 long: -77.410576 -- Successful
+
+INFO:root:Row 63, lat: 37.548319 long: -77.532672 -- Successful
+
+INFO:root:Row 64, lat: 37.550192 long: -77.484786 -- Successful
+
+INFO:root:Row 65, lat: 37.464328 long: -77.468209 -- Successful
+
+INFO:root:Row 66, lat: 37.477208 long: -77.501798 -- Successful
+
+INFO:root:Row 67, lat: 37.541686 long: -77.463548 -- Successful
+
+INFO:root:Row 68, lat: 37.566394 long: -77.476854 -- Successful
+
+INFO:root:Row 69, lat: 37.494229 long: -77.435222 -- Successful
+
+INFO:root:Row 70, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 71, lat: 37.509204 long: -77.400347 -- Successful
+
+INFO:root:Row 72, lat: 37.521446 long: -77.466805 -- Successful
+
+INFO:root:Row 73, lat: 37.509204 long: -77.400347 -- Successful
+
+INFO:root:Row 74, lat: 37.565494 long: -77.493136 -- Successful
+
+INFO:root:Row 75, lat: 37.536349 long: -77.417929 -- Successful
+
+INFO:root:Row 76, lat: 37.513370 long: -77.495667 -- Successful
+
+INFO:root:Row 77, lat: 37.568733 long: -77.425030 -- Successful
+
+INFO:root:Row 78, lat: 37.504699 long: -77.503781 -- Successful
+
+INFO:root:Row 79, lat: 37.568702 long: -77.424872 -- Successful
+
+INFO:root:Row 80, lat: 37.573900 long: -77.457911 -- Successful
+
+INFO:root:Row 81, lat: 37.587725 long: -77.530296 -- Successful
+
+INFO:root:Row 82, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 83, lat: 37.465934 long: -77.493727 -- Successful
+
+INFO:root:Row 84, lat: 37.568542 long: -77.425444 -- Successful
+
+INFO:root:Row 85, lat: 37.594486 long: -77.447820 -- Successful
+
+INFO:root:Row 86, lat: 37.808846 long: -122.255119 -- Successful
+
+INFO:root:Row 87, lat: 37.597079 long: -77.451425 -- Successful
+
+INFO:root:Row 88, lat: 37.599766 long: -77.448735 -- Successful
+
+INFO:root:Row 89, lat: 37.533593 long: -77.405044 -- Successful
+
+INFO:root:Row 90, lat: 37.571475 long: -77.505649 -- Successful
+
+INFO:root:Row 91, lat: 37.498419 long: -77.495591 -- Successful
+
+INFO:root:Row 92, lat: 37.589452 long: -77.455582 -- Successful
+
+INFO:root:Row 93, lat: 37.571388 long: -77.436381 -- Successful
+
+INFO:root:Row 94, lat: 41.304368 long: -72.925841 -- Successful
+
+INFO:root:Row 0, lat: 37.590139 long: -77.456841 -- Successful
+
+INFO:root:Row 1, lat: 37.541534 long: -77.451985 -- Successful
+
+INFO:root:Row 2, lat: 37.560369 long: -77.468661 -- Successful
+
+INFO:root:Row 3, lat: 37.553762 long: -77.474736 -- Successful
+
+INFO:root:Row 4, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 5, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 6, lat: 37.572253 long: -77.445284 -- Successful
+
+INFO:root:Row 7, lat: 37.569962 long: -77.443190 -- Successful
+
+INFO:root:Row 8, lat: 37.522722 long: -77.417146 -- Successful
+
+INFO:root:Row 9, lat: 41.298437 long: -72.929179 -- Successful
+
+INFO:root:Row 10, lat: 41.311529 long: -72.942362 -- Successful
+
+INFO:root:Row 11, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 12, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 13, lat: 41.316855 long: -72.914783 -- Successful
+
+INFO:root:Row 14, lat: 41.314586 long: -72.911397 -- Successful
+
+INFO:root:Row 15, lat: 41.314499 long: -72.891544 -- Successful
+
+INFO:root:Row 16, lat: 37.568729 long: -77.436611 -- Successful
+
+INFO:root:Row 17, lat: 37.578238 long: -77.514696 -- Successful
+
+INFO:root:Row 18, lat: 41.283208 long: -72.926974 -- Successful
+
+INFO:root:Row 19, lat: 37.583211 long: -77.457564 -- Successful
+
+INFO:root:Row 20, lat: 37.549043 long: -77.464611 -- Successful
+
+INFO:root:Row 21, lat: 37.579407 long: -77.466165 -- Successful
+
+INFO:root:Row 22, lat: 37.538100 long: -77.410783 -- Successful
+
+INFO:root:Row 23, lat: 41.289266 long: -72.931792 -- Successful
+
+INFO:root:Row 24, lat: 41.302349 long: -72.884040 -- Successful
+
+INFO:root:Row 25, lat: 37.573431 long: -77.518475 -- Successful
+
+INFO:root:Row 26, lat: 37.545036 long: -77.589259 -- Successful
+
+INFO:root:Row 27, lat: 37.572353 long: -77.518229 -- Successful
+
+INFO:root:Row 28, lat: 41.325136 long: -72.946328 -- Successful
+
+INFO:root:Row 29, lat: 37.527645 long: -77.439812 -- Successful
+
+INFO:root:Row 30, lat: 41.300901 long: -72.911069 -- Successful
+
+INFO:root:Row 31, lat: 37.843478 long: -122.245946 -- Successful
+
+INFO:root:Row 32, lat: 37.507957 long: -77.461402 -- Successful
+
+INFO:root:Row 33, lat: 37.839588 long: -122.251488 -- Successful
+
+INFO:root:Row 34, lat: 41.325962 long: -72.915121 -- Successful
+
+INFO:root:Row 35, lat: 41.934809 long: -87.678135 -- Successful
+
+INFO:root:Row 36, lat: 37.793552 long: -122.213066 -- Successful
+
+INFO:root:Row 37, lat: 41.294959 long: -72.940570 -- Successful
+
+INFO:root:Row 38, lat: 37.519058 long: -77.393185 -- Successful
+
+INFO:root:Row 39, lat: 37.579821 long: -77.467745 -- Successful
+
+INFO:root:Row 40, lat: 37.581441 long: -77.516211 -- Successful
+
+INFO:root:Row 41, lat: 41.316313 long: -72.966932 -- Successful
+
+INFO:root:Row 42, lat: 37.814213 long: -122.268333 -- Successful
+
+INFO:root:Row 43, lat: 37.554880 long: -77.484693 -- Successful
+
+INFO:root:Row 44, lat: 37.509921 long: -77.442723 -- Successful
+
+INFO:root:Row 45, lat: 37.541395 long: -77.488052 -- Successful
+
+INFO:root:Row 46, lat: 37.570294 long: -77.415534 -- Successful
+
+INFO:root:Row 47, lat: 37.549357 long: -77.490369 -- Successful
+
+INFO:root:Row 48, lat: 37.544911 long: -77.576178 -- Successful
+
+INFO:root:Row 49, lat: 37.502193 long: -77.485200 -- Successful
+
+INFO:root:Row 50, lat: 37.512359 long: -77.496575 -- Successful
+
+INFO:root:Row 51, lat: 37.516575 long: -77.391959 -- Successful
+
+INFO:root:Row 52, lat: 37.549938 long: -77.587883 -- Successful
+
+INFO:root:Row 53, lat: 37.575479 long: -77.431713 -- Successful
+
+INFO:root:Row 54, lat: 37.564167 long: -77.421438 -- Successful
+
+INFO:root:Row 55, lat: 37.535050 long: -77.470617 -- Successful
+
+INFO:root:Row 56, lat: 37.521739 long: -77.463706 -- Successful
+
+INFO:root:Row 57, lat: 37.561007 long: -77.425445 -- Successful
+
+INFO:root:Row 58, lat: 37.564126 long: -77.421625 -- Successful
+
+INFO:root:Row 59, lat: 37.545936 long: -77.465547 -- Successful
+
+INFO:root:Row 60, lat: 37.576957 long: -77.517594 -- Successful
+
+INFO:root:Row 61, lat: 37.505783 long: -77.460713 -- Successful
+
+INFO:root:Row 62, lat: 37.527181 long: -77.410576 -- Successful
+
+INFO:root:Row 63, lat: 37.548319 long: -77.532672 -- Successful
+
+INFO:root:Row 64, lat: 37.550192 long: -77.484786 -- Successful
+
+INFO:root:Row 65, lat: 37.464328 long: -77.468209 -- Successful
+
+INFO:root:Row 66, lat: 37.477208 long: -77.501798 -- Successful
+
+INFO:root:Row 67, lat: 37.541686 long: -77.463548 -- Successful
+
+INFO:root:Row 68, lat: 37.566394 long: -77.476854 -- Successful
+
+INFO:root:Row 69, lat: 37.494229 long: -77.435222 -- Successful
+
+INFO:root:Row 70, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 71, lat: 37.509204 long: -77.400347 -- Successful
+
+INFO:root:Row 72, lat: 37.521446 long: -77.466805 -- Successful
+
+INFO:root:Row 73, lat: 37.509204 long: -77.400347 -- Successful
+
+INFO:root:Row 74, lat: 37.565494 long: -77.493136 -- Successful
+
+INFO:root:Row 75, lat: 37.536349 long: -77.417929 -- Successful
+
+INFO:root:Row 76, lat: 37.513370 long: -77.495667 -- Successful
+
+INFO:root:Row 77, lat: 37.568733 long: -77.425030 -- Successful
+
+INFO:root:Row 78, lat: 37.504699 long: -77.503781 -- Successful
+
+INFO:root:Row 79, lat: 37.568702 long: -77.424872 -- Successful
+
+INFO:root:Row 80, lat: 37.573900 long: -77.457911 -- Successful
+
+INFO:root:Row 81, lat: 37.587725 long: -77.530296 -- Successful
+
+INFO:root:Row 82, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 83, lat: 37.465934 long: -77.493727 -- Successful
+
+INFO:root:Row 84, lat: 37.568542 long: -77.425444 -- Successful
+
+INFO:root:Row 85, lat: 37.594486 long: -77.447820 -- Successful
+
+INFO:root:Row 86, lat: 37.808846 long: -122.255119 -- Successful
+
+INFO:root:Row 87, lat: 37.597079 long: -77.451425 -- Successful
+
+INFO:root:Row 88, lat: 37.599766 long: -77.448735 -- Successful
+
+INFO:root:Row 89, lat: 37.533593 long: -77.405044 -- Successful
+
+INFO:root:Row 90, lat: 37.571475 long: -77.505649 -- Successful
+
+INFO:root:Row 91, lat: 37.498419 long: -77.495591 -- Successful
+
+INFO:root:Row 92, lat: 37.589452 long: -77.455582 -- Successful
+
+INFO:root:Row 93, lat: 37.571388 long: -77.436381 -- Successful
+
+INFO:root:Row 94, lat: 41.304368 long: -72.925841 -- Successful
+
+INFO:root:Row 95, lat: 37.529404 long: -77.475528 -- Successful
+
+INFO:root:Row 96, lat: 37.554769 long: -77.458728 -- Successful
+
+INFO:root:Row 97, lat: 37.555342 long: -77.483885 -- Successful
+
+INFO:root:Row 98, lat: 41.306497 long: -72.890490 -- Successful
+
+INFO:root:Row 99, lat: 37.548190 long: -77.443902 -- Successful
+
+INFO:root:Row 0, lat: 37.590139 long: -77.456841 -- Successful
+
+INFO:root:Row 1, lat: 37.541534 long: -77.451985 -- Successful
+
+INFO:root:Row 2, lat: 37.560369 long: -77.468661 -- Successful
+
+INFO:root:Row 3, lat: 37.553762 long: -77.474736 -- Successful
+
+INFO:root:Row 4, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 5, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 6, lat: 37.572253 long: -77.445284 -- Successful
+
+INFO:root:Row 7, lat: 37.569962 long: -77.443190 -- Successful
+
+INFO:root:Row 8, lat: 37.522722 long: -77.417146 -- Successful
+
+INFO:root:Row 9, lat: 41.298437 long: -72.929179 -- Successful
+
+INFO:root:Row 10, lat: 41.311529 long: -72.942362 -- Successful
+
+INFO:root:Row 11, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 12, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 13, lat: 41.316855 long: -72.914783 -- Successful
+
+INFO:root:Row 14, lat: 41.314586 long: -72.911397 -- Successful
+
+INFO:root:Row 15, lat: 41.314499 long: -72.891544 -- Successful
+
+INFO:root:Row 16, lat: 37.568729 long: -77.436611 -- Successful
+
+INFO:root:Row 17, lat: 37.578238 long: -77.514696 -- Successful
+
+INFO:root:Row 18, lat: 41.283208 long: -72.926974 -- Successful
+
+INFO:root:Row 19, lat: 37.583211 long: -77.457564 -- Successful
+
+INFO:root:Row 20, lat: 37.549043 long: -77.464611 -- Successful
+
+INFO:root:Row 21, lat: 37.579407 long: -77.466165 -- Successful
+
+INFO:root:Row 22, lat: 37.538100 long: -77.410783 -- Successful
+
+INFO:root:Row 23, lat: 41.289266 long: -72.931792 -- Successful
+
+INFO:root:Row 24, lat: 41.302349 long: -72.884040 -- Successful
+
+INFO:root:Row 25, lat: 37.573431 long: -77.518475 -- Successful
+
+INFO:root:Row 26, lat: 37.545036 long: -77.589259 -- Successful
+
+INFO:root:Row 27, lat: 37.572353 long: -77.518229 -- Successful
+
+INFO:root:Row 28, lat: 41.325136 long: -72.946328 -- Successful
+
+INFO:root:Row 29, lat: 37.527645 long: -77.439812 -- Successful
+
+INFO:root:Row 30, lat: 41.300901 long: -72.911069 -- Successful
+
+INFO:root:Row 31, lat: 37.843478 long: -122.245946 -- Successful
+
+INFO:root:Row 32, lat: 37.507957 long: -77.461402 -- Successful
+
+INFO:root:Row 33, lat: 37.839588 long: -122.251488 -- Successful
+
+INFO:root:Row 34, lat: 41.325962 long: -72.915121 -- Successful
+
+INFO:root:Row 35, lat: 41.934809 long: -87.678135 -- Successful
+
+INFO:root:Row 36, lat: 37.793552 long: -122.213066 -- Successful
+
+INFO:root:Row 37, lat: 41.294959 long: -72.940570 -- Successful
+
+INFO:root:Row 38, lat: 37.519058 long: -77.393185 -- Successful
+
+INFO:root:Row 39, lat: 37.579821 long: -77.467745 -- Successful
+
+INFO:root:Row 40, lat: 37.581441 long: -77.516211 -- Successful
+
+INFO:root:Row 41, lat: 41.316313 long: -72.966932 -- Successful
+
+INFO:root:Row 42, lat: 37.814213 long: -122.268333 -- Successful
+
+INFO:root:Row 43, lat: 37.554880 long: -77.484693 -- Successful
+
+INFO:root:Row 44, lat: 37.509921 long: -77.442723 -- Successful
+
+INFO:root:Row 45, lat: 37.541395 long: -77.488052 -- Successful
+
+INFO:root:Row 46, lat: 37.570294 long: -77.415534 -- Successful
+
+INFO:root:Row 47, lat: 37.549357 long: -77.490369 -- Successful
+
+INFO:root:Row 48, lat: 37.544911 long: -77.576178 -- Successful
+
+INFO:root:Row 49, lat: 37.502193 long: -77.485200 -- Successful
+
+INFO:root:Row 50, lat: 37.512359 long: -77.496575 -- Successful
+
+INFO:root:Row 51, lat: 37.516575 long: -77.391959 -- Successful
+
+INFO:root:Row 52, lat: 37.549938 long: -77.587883 -- Successful
+
+INFO:root:Row 53, lat: 37.575479 long: -77.431713 -- Successful
+
+INFO:root:Row 54, lat: 37.564167 long: -77.421438 -- Successful
+
+INFO:root:Row 55, lat: 37.535050 long: -77.470617 -- Successful
+
+INFO:root:Row 56, lat: 37.521739 long: -77.463706 -- Successful
+
+INFO:root:Row 57, lat: 37.561007 long: -77.425445 -- Successful
+
+INFO:root:Row 58, lat: 37.564126 long: -77.421625 -- Successful
+
+INFO:root:Row 59, lat: 37.545936 long: -77.465547 -- Successful
+
+INFO:root:Row 60, lat: 37.576957 long: -77.517594 -- Successful
+
+INFO:root:Row 61, lat: 37.505783 long: -77.460713 -- Successful
+
+INFO:root:Row 62, lat: 37.527181 long: -77.410576 -- Successful
+
+INFO:root:Row 63, lat: 37.548319 long: -77.532672 -- Successful
+
+INFO:root:Row 64, lat: 37.550192 long: -77.484786 -- Successful
+
+INFO:root:Row 65, lat: 37.464328 long: -77.468209 -- Successful
+
+INFO:root:Row 66, lat: 37.477208 long: -77.501798 -- Successful
+
+INFO:root:Row 67, lat: 37.541686 long: -77.463548 -- Successful
+
+INFO:root:Row 68, lat: 37.566394 long: -77.476854 -- Successful
+
+INFO:root:Row 69, lat: 37.494229 long: -77.435222 -- Successful
+
+INFO:root:Row 70, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 71, lat: 37.509204 long: -77.400347 -- Successful
+
+INFO:root:Row 72, lat: 37.521446 long: -77.466805 -- Successful
+
+INFO:root:Row 73, lat: 37.509204 long: -77.400347 -- Successful
+
+INFO:root:Row 74, lat: 37.565494 long: -77.493136 -- Successful
+
+INFO:root:Row 75, lat: 37.536349 long: -77.417929 -- Successful
+
+INFO:root:Row 76, lat: 37.513370 long: -77.495667 -- Successful
+
+INFO:root:Row 77, lat: 37.568733 long: -77.425030 -- Successful
+
+INFO:root:Row 78, lat: 37.504699 long: -77.503781 -- Successful
+
+INFO:root:Row 79, lat: 37.568702 long: -77.424872 -- Successful
+
+INFO:root:Row 80, lat: 37.573900 long: -77.457911 -- Successful
+
+INFO:root:Row 81, lat: 37.587725 long: -77.530296 -- Successful
+
+INFO:root:Row 82, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 83, lat: 37.465934 long: -77.493727 -- Successful
+
+INFO:root:Row 84, lat: 37.568542 long: -77.425444 -- Successful
+
+INFO:root:Row 85, lat: 37.594486 long: -77.447820 -- Successful
+
+INFO:root:Row 86, lat: 37.808846 long: -122.255119 -- Successful
+
+INFO:root:Row 87, lat: 37.597079 long: -77.451425 -- Successful
+
+INFO:root:Row 88, lat: 37.599766 long: -77.448735 -- Successful
+
+INFO:root:Row 89, lat: 37.533593 long: -77.405044 -- Successful
+
+INFO:root:Row 90, lat: 37.571475 long: -77.505649 -- Successful
+
+INFO:root:Row 91, lat: 37.498419 long: -77.495591 -- Successful
+
+INFO:root:Row 92, lat: 37.589452 long: -77.455582 -- Successful
+
+INFO:root:Row 93, lat: 37.571388 long: -77.436381 -- Successful
+
+INFO:root:Row 94, lat: 41.304368 long: -72.925841 -- Successful
+
+INFO:root:Row 95, lat: 37.529404 long: -77.475528 -- Successful
+
+INFO:root:Row 96, lat: 37.554769 long: -77.458728 -- Successful
+
+INFO:root:Row 97, lat: 37.555342 long: -77.483885 -- Successful
+
+INFO:root:Row 98, lat: 41.306497 long: -72.890490 -- Successful
+
+INFO:root:Row 99, lat: 37.548190 long: -77.443902 -- Successful
+
+INFO:root:Row 100, lat: 37.577004 long: -77.503942 -- Successful
+
+INFO:root:Row 101, lat: 37.536358 long: -77.574959 -- Successful
+
+INFO:root:Row 102, lat: 37.551971 long: -77.479552 -- Successful
+
+INFO:root:Row 103, lat: 37.550968 long: -77.447666 -- Successful
+
+INFO:root:Row 104, lat: 37.482559 long: -77.441386 -- Successful
+
+INFO:root:Row 105, lat: 37.544885 long: -77.534928 -- Successful
+
+INFO:root:Row 106, lat: 37.543143 long: -77.535736 -- Successful
+
+INFO:root:Row 107, lat: 37.520718 long: -77.485131 -- Successful
+
+INFO:root:Row 108, lat: 37.528231 long: -77.415928 -- Successful
+
+INFO:root:Row 109, lat: 37.559931 long: -77.476295 -- Successful
+
+INFO:root:Row 110, lat: 37.497949 long: -77.435331 -- Successful
+
+INFO:root:Row 111, lat: 37.541894 long: -77.583993 -- Successful
+
+INFO:root:Row 112, lat: 37.527635 long: -77.416742 -- Successful
+
+INFO:root:Row 113, lat: 37.545930 long: -77.485708 -- Successful
+
+INFO:root:Row 114, lat: 37.570603 long: -77.497669 -- Successful
+
+INFO:root:Row 115, lat: 37.576438 long: -77.491272 -- Successful
+
+INFO:root:Row 116, lat: 37.550192 long: -77.484786 -- Successful
+
+INFO:root:Row 117, lat: 37.545334 long: -77.484051 -- Successful
+
+INFO:root:Row 118, lat: 37.515933 long: -77.494593 -- Successful
+
+INFO:root:Row 119, lat: 37.553817 long: -77.475854 -- Successful
+
+INFO:root:Row 120, lat: 37.552186 long: -77.530375 -- Successful
+
+INFO:root:Row 121, lat: 37.516697 long: -77.396992 -- Successful
+
+INFO:root:Row 122, lat: 37.535902 long: -77.416505 -- Successful
+
+INFO:root:Row 123, lat: 37.580339 long: -77.466168 -- Successful
+
+INFO:root:Row 124, lat: 37.536220 long: -77.417337 -- Successful
+
+INFO:root:Row 125, lat: 37.598147 long: -77.453263 -- Successful
+
+INFO:root:Row 126, lat: 37.474465 long: -77.446683 -- Successful
+
+INFO:root:Row 127, lat: 37.563276 long: -77.481125 -- Successful
+
+INFO:root:Row 128, lat: 37.578644 long: -77.450656 -- Successful
+
+INFO:root:Row 129, lat: 37.478543 long: -77.436439 -- Successful
+
+INFO:root:Row 130, lat: 37.570178 long: -77.469257 -- Successful
+
+INFO:root:Row 131, lat: 37.543113 long: -77.430227 -- Successful
+
+INFO:root:Row 132, lat: 37.557610 long: -77.463606 -- Successful
+
+INFO:root:Row 133, lat: 37.542650 long: -77.439083 -- Successful
+
+INFO:root:Row 134, lat: 37.511263 long: -77.398468 -- Successful
+
+INFO:root:Row 135, lat: 37.514392 long: -77.454051 -- Successful
+
+INFO:root:Row 136, lat: 37.536867 long: -77.405139 -- Successful
+
+INFO:root:Row 137, lat: 37.512291 long: -77.442487 -- Successful
+
+INFO:root:Row 138, lat: 37.474685 long: -77.496016 -- Successful
+
+INFO:root:Row 139, lat: 37.499794 long: -77.446028 -- Successful
+
+INFO:root:Row 140, lat: 37.798527 long: -122.282199 -- Successful
+
+INFO:root:Row 141, lat: 37.575539 long: -77.489769 -- Successful
+
+INFO:root:Row 142, lat: 37.575626 long: -77.489853 -- Successful
+
+INFO:root:Row 143, lat: 37.577771 long: -77.489512 -- Successful
+
+INFO:root:Row 144, lat: 37.577244 long: -77.489308 -- Successful
+
+INFO:root:Row 145, lat: 41.313820 long: -72.925029 -- Successful
+
+INFO:root:Row 146, lat: 37.548093 long: -77.468336 -- Successful
+
+INFO:root:Row 147, lat: 37.580010 long: -77.492016 -- Successful
+
+INFO:root:Row 148, lat: 37.545801 long: -77.486613 -- Successful
+
+INFO:root:Row 149, lat: 41.312293 long: -72.917057 -- Successful
+
+INFO:root:Row 150, lat: 37.505031 long: -77.481829 -- Successful
+
+INFO:root:Row 151, lat: 37.574957 long: -77.489028 -- Successful
+
+INFO:root:Row 152, lat: 37.519505 long: -77.481768 -- Successful
+
+INFO:root:Row 153, lat: 37.551113 long: -77.585952 -- Successful
+
+INFO:root:Row 154, lat: 37.481172 long: -77.467386 -- Successful
+
+INFO:root:Row 155, lat: 37.826334 long: -122.218322 -- Successful
+
+INFO:root:Row 156, lat: 37.594513 long: -77.447843 -- Successful
+
+INFO:root:Row 157, lat: 37.528863 long: -77.509565 -- Successful
+
+INFO:root:Row 158, lat: 37.556356 long: -77.549227 -- Successful
+
+INFO:root:Row 159, lat: 37.538013 long: -77.472615 -- Successful
+
+INFO:root:Row 160, lat: 37.552118 long: -77.526419 -- Successful
+
+INFO:root:Row 161, lat: 37.573546 long: -77.418124 -- Successful
+
+INFO:root:Row 162, lat: 37.555070 long: -77.460128 -- Successful
+
+INFO:root:Row 163, lat: 37.564752 long: -77.434011 -- Successful
+
+INFO:root:Row 164, lat: 37.511669 long: -77.398989 -- Successful
+
+INFO:root:Row 165, lat: 37.559812 long: -77.489923 -- Successful
+
+INFO:root:Row 166, lat: 37.584450 long: -77.525455 -- Successful
+
+INFO:root:Row 167, lat: 37.541120 long: -77.573176 -- Successful
+
+INFO:root:Row 168, lat: 37.530677 long: -77.493570 -- Successful
+
+INFO:root:Row 169, lat: 37.539096 long: -77.405531 -- Successful
+
+INFO:root:Row 170, lat: 37.570953 long: -77.470190 -- Successful
+
+INFO:root:Row 171, lat: 37.555408 long: -77.468903 -- Successful
+
+INFO:root:Row 172, lat: 37.585221 long: -77.442513 -- Successful
+
+INFO:root:Row 173, lat: 37.577644 long: -77.489600 -- Successful
+
+INFO:root:Row 174, lat: 37.550545 long: -77.413816 -- Successful
+
+INFO:root:Row 175, lat: 37.530435 long: -77.406719 -- Successful
+
+INFO:root:Row 176, lat: 37.530677 long: -77.493570 -- Successful
+
+INFO:root:Row 177, lat: 37.542756 long: -77.488564 -- Successful
+
+INFO:root:Row 178, lat: 37.558615 long: -77.481467 -- Successful
+
+INFO:root:Row 179, lat: 41.271882 long: -72.889608 -- Successful
+
+INFO:root:Row 180, lat: 37.574037 long: -77.456908 -- Successful
+
+INFO:root:Row 181, lat: 37.822735 long: -122.285461 -- Successful
+
+INFO:root:Row 182, lat: 37.822784 long: -122.285431 -- Successful
+
+INFO:root:Row 183, lat: 37.822769 long: -122.285400 -- Successful
+
+INFO:root:Row 184, lat: 37.536304 long: -77.420863 -- Successful
+
+INFO:root:Row 185, lat: 37.822769 long: -122.285416 -- Successful
+
+INFO:root:Row 186, lat: 37.542756 long: -77.488564 -- Successful
+
+INFO:root:Row 187, lat: 37.809684 long: -122.280332 -- Successful
+
+INFO:root:Row 188, lat: 37.542756 long: -77.488564 -- Successful
+
+INFO:root:Row 189, lat: 37.549917 long: -77.419188 -- Successful
+
+INFO:root:Row 190, lat: 37.556450 long: -77.466560 -- Successful
+
+INFO:root:Row 191, lat: 37.499847 long: -77.486522 -- Successful
+
+INFO:root:Row 192, lat: 37.571886 long: -77.436668 -- Successful
+
+INFO:root:Row 193, lat: 41.292384 long: -72.932705 -- Successful
+
+INFO:root:Row 194, lat: 37.554529 long: -77.458609 -- Successful
+
+INFO:root:Row 195, lat: 41.318545 long: -72.903021 -- Successful
+
+INFO:root:Row 196, lat: 37.535554 long: -77.468373 -- Successful
+
+INFO:root:Row 197, lat: 37.558480 long: -77.452096 -- Successful
+
+INFO:root:Row 198, lat: 37.590589 long: -77.463436 -- Successful
+
+INFO:root:Row 199, lat: 37.554031 long: -77.591320 -- Successful
+
+INFO:root:Row 200, lat: 37.465665 long: -77.443881 -- Successful
+
+INFO:root:Row 201, lat: 37.560999 long: -77.469900 -- Successful
+
+INFO:root:Row 202, lat: 37.573468 long: -77.421420 -- Successful
+
+INFO:root:Row 203, lat: 37.558509 long: -77.481445 -- Successful
+
+INFO:root:Row 204, lat: 37.509141 long: -77.438802 -- Successful
+
+INFO:root:Row 205, lat: 37.521978 long: -77.480967 -- Successful
+
+INFO:root:Row 206, lat: 37.549762 long: -77.532693 -- Successful
+
+INFO:root:Row 207, lat: 37.540550 long: -77.550798 -- Successful
+
+INFO:root:Row 208, lat: 37.574737 long: -77.453950 -- Successful
+
+INFO:root:Row 209, lat: 41.298868 long: -72.903438 -- Successful
+
+INFO:root:Row 210, lat: 41.315242 long: -72.910334 -- Successful
+
+INFO:root:Row 211, lat: 41.315725 long: -72.909616 -- Successful
+
+INFO:root:Row 212, lat: 37.474493 long: -77.495996 -- Successful
+
+INFO:root:Row 213, lat: 37.581301 long: -77.441481 -- Successful
+
+INFO:root:Row 214, lat: 37.520381 long: -77.415832 -- Successful
+
+INFO:root:Row 215, lat: 37.539124 long: -77.516272 -- Successful
+
+INFO:root:Row 216, lat: 37.563088 long: -77.474491 -- Successful
+
+INFO:root:Row 217, lat: 37.552010 long: -77.473041 -- Successful
+
+INFO:root:Row 218, lat: 37.561724 long: -77.473098 -- Successful
+
+INFO:root:Row 219, lat: 37.551971 long: -77.576291 -- Successful
+
+INFO:root:Row 220, lat: 37.799568 long: -122.283287 -- Successful
+
+INFO:root:Row 221, lat: 37.578241 long: -77.461704 -- Successful
+
+INFO:root:Row 222, lat: 37.578179 long: -77.449953 -- Successful
+
+INFO:root:Row 223, lat: 37.531557 long: -77.415772 -- Successful
+
+INFO:root:Row 224, lat: 37.561177 long: -77.420190 -- Successful
+
+INFO:root:Row 225, lat: 37.521765 long: -77.479208 -- Successful
+
+INFO:root:Row 226, lat: 37.578296 long: -77.456218 -- Successful
+
+INFO:root:Row 227, lat: 37.577347 long: -77.443947 -- Successful
+
+INFO:root:Row 228, lat: 37.498566 long: -77.470892 -- Successful
+
+INFO:root:Row 229, lat: 37.571744 long: -77.512693 -- Successful
+
+INFO:root:Row 230, lat: 37.532900 long: -77.545374 -- Successful
+
+INFO:root:Row 231, lat: 37.563217 long: -77.474525 -- Successful
+
+INFO:root:Row 232, lat: 37.554257 long: -77.475929 -- Successful
+
+INFO:root:Row 233, lat: 37.554806 long: -77.466162 -- Successful
+
+INFO:root:Row 234, lat: 37.536870 long: -77.450126 -- Successful
+
+INFO:root:Row 235, lat: 37.575468 long: -77.442295 -- Successful
+
+INFO:root:Row 236, lat: 37.499470 long: -77.436927 -- Successful
+
+INFO:root:Row 237, lat: 37.546359 long: -77.474359 -- Successful
+
+INFO:root:Row 238, lat: 37.572873 long: -77.451149 -- Successful
+
+INFO:root:Row 239, lat: 37.591186 long: -77.455564 -- Successful
+
+INFO:root:Row 240, lat: 37.570132 long: -77.411604 -- Successful
+
+INFO:root:Row 241, lat: 37.567514 long: -77.439444 -- Successful
+
+INFO:root:Row 242, lat: 37.516702 long: -77.487383 -- Successful
+
+INFO:root:Row 243, lat: 37.546803 long: -77.533421 -- Successful
+
+INFO:root:Row 244, lat: 37.549261 long: -77.404247 -- Successful
+
+INFO:root:Row 245, lat: 37.493801 long: -77.480081 -- Successful
+
+INFO:root:Row 246, lat: 37.562328 long: -77.424109 -- Successful
+
+INFO:root:Row 247, lat: 37.561733 long: -77.424957 -- Successful
+
+INFO:root:Row 248, lat: 37.463964 long: -77.427662 -- Successful
+
+INFO:root:Row 249, lat: 41.289549 long: -72.931871 -- Successful
+
+INFO:root:Row 250, lat: 37.463963 long: -77.427685 -- Successful
+
+INFO:root:Row 251, lat: 37.463963 long: -77.427685 -- Successful
+
+INFO:root:Row 252, lat: 37.463963 long: -77.427685 -- Successful
+
+INFO:root:Row 253, lat: 37.558630 long: -77.456179 -- Successful
+
+INFO:root:Row 254, lat: 37.503129 long: -77.444412 -- Successful
+
+INFO:root:Row 255, lat: 37.564119 long: -77.418245 -- Successful
+
+INFO:root:Row 256, lat: 37.533037 long: -77.413449 -- Successful
+
+INFO:root:Row 257, lat: 37.575901 long: -77.413921 -- Successful
+
+INFO:root:Row 258, lat: 37.790524 long: -122.215340 -- Successful
+
+INFO:root:Row 259, lat: 37.525891 long: -77.408280 -- Successful
+
+INFO:root:Row 260, lat: 37.556534 long: -77.479879 -- Successful
+
+INFO:root:Row 261, lat: 37.587739 long: -77.451135 -- Successful
+
+INFO:root:Row 262, lat: 37.547397 long: -77.409821 -- Successful
+
+INFO:root:Row 263, lat: 37.533887 long: -77.413181 -- Successful
+
+INFO:root:Row 264, lat: 37.537599 long: -77.472633 -- Successful
+
+INFO:root:Row 265, lat: 37.555432 long: -77.475704 -- Successful
+
+INFO:root:Row 266, lat: 37.578018 long: -77.507166 -- Successful
+
+INFO:root:Row 267, lat: 37.552726 long: -77.480006 -- Successful
+
+INFO:root:Row 268, lat: 37.520455 long: -77.396714 -- Successful
+
+INFO:root:Row 269, lat: 37.579152 long: -77.532860 -- Successful
+
+INFO:root:Row 270, lat: 37.555859 long: -77.452353 -- Successful
+
+INFO:root:Row 271, lat: 37.535573 long: -77.406357 -- Successful
+
+INFO:root:Row 272, lat: 37.518306 long: -77.390572 -- Successful
+
+INFO:root:Row 273, lat: 41.312583 long: -72.932562 -- Successful
+
+INFO:root:Row 274, lat: 37.571190 long: -77.437170 -- Successful
+
+INFO:root:Row 275, lat: 37.507134 long: -77.472159 -- Successful
+
+INFO:root:Row 276, lat: 41.319700 long: -72.928040 -- Successful
+
+INFO:root:Row 277, lat: 37.569992 long: -77.482326 -- Successful
+
+INFO:root:Row 278, lat: 37.565114 long: -77.485992 -- Successful
+
+INFO:root:Row 279, lat: 37.462115 long: -77.448045 -- Successful
+
+INFO:root:Row 280, lat: 37.461472 long: -77.449365 -- Successful
+
+INFO:root:Row 281, lat: 37.543214 long: -77.440669 -- Successful
+
+INFO:root:Row 282, lat: 37.495509 long: -77.470081 -- Successful
+
+INFO:root:Row 283, lat: 37.566725 long: -77.440561 -- Successful
+
+INFO:root:Row 284, lat: 37.565916 long: -77.498829 -- Successful
+
+INFO:root:Row 285, lat: 37.539196 long: -77.515420 -- Successful
+
+INFO:root:Row 286, lat: 37.539959 long: -77.522518 -- Successful
+
+INFO:root:Row 287, lat: 41.310937 long: -72.923800 -- Successful
+
+INFO:root:Row 288, lat: 37.552578 long: -77.474548 -- Successful
+
+INFO:root:Row 289, lat: 37.567464 long: -77.499761 -- Successful
+
+INFO:root:Row 290, lat: 37.548411 long: -77.439549 -- Successful
+
+INFO:root:Row 291, lat: 37.567857 long: -77.471602 -- Successful
+
+INFO:root:Row 292, lat: 37.562361 long: -77.499205 -- Successful
+
+INFO:root:Row 293, lat: 37.549881 long: -77.462783 -- Successful
+
+INFO:root:Row 294, lat: 37.561342 long: -77.434040 -- Successful
+
+INFO:root:Row 295, lat: 37.493266 long: -77.458407 -- Successful
+
+INFO:root:Row 296, lat: 37.543941 long: -77.409956 -- Successful
+
+INFO:root:Row 297, lat: 37.489447 long: -77.468045 -- Successful
+
+INFO:root:Row 298, lat: 37.514549 long: -77.442235 -- Successful
+
+INFO:root:Row 299, lat: 37.460971 long: -77.442410 -- Successful
+
+INFO:root:Row 300, lat: 37.492717 long: -77.457350 -- Successful
+
+INFO:root:Row 301, lat: 37.492717 long: -77.457350 -- Successful
+
+INFO:root:Row 302, lat: 37.563100 long: -77.482314 -- Successful
+
+INFO:root:Row 303, lat: 37.547839 long: -77.549500 -- Successful
+
+INFO:root:Row 304, lat: 41.321060 long: -72.962120 -- Successful
+
+INFO:root:Row 305, lat: 37.523536 long: -77.492302 -- Successful
+
+INFO:root:Row 306, lat: 37.796374 long: -122.259619 -- Successful
+
+INFO:root:Row 307, lat: 37.562040 long: -77.502201 -- Successful
+
+INFO:root:Row 308, lat: 41.327553 long: -72.937056 -- Successful
+
+INFO:root:Row 309, lat: 37.573083 long: -77.456038 -- Successful
+
+INFO:root:Row 310, lat: 37.569699 long: -77.516865 -- Successful
+
+INFO:root:Row 311, lat: 37.574255 long: -77.516104 -- Successful
+
+INFO:root:Row 312, lat: 41.312641 long: -72.946693 -- Successful
+
+INFO:root:Row 313, lat: 41.329709 long: -72.866249 -- Successful
+
+INFO:root:Row 314, lat: 37.562535 long: -77.487650 -- Successful
+
+INFO:root:Row 315, lat: 37.564220 long: -77.419702 -- Successful
+
+INFO:root:Row 316, lat: 37.563383 long: -77.482617 -- Successful
+
+INFO:root:Row 317, lat: 41.314838 long: -72.911002 -- Successful
+
+INFO:root:Row 318, lat: 37.549492 long: -77.443369 -- Successful
+
+INFO:root:Row 319, lat: 37.543359 long: -77.455132 -- Successful
+
+INFO:root:Row 320, lat: 37.548905 long: -77.455094 -- Successful
+
+INFO:root:Row 321, lat: 41.330100 long: -72.928190 -- Successful
+
+INFO:root:Row 322, lat: 41.313713 long: -72.951464 -- Successful
+
+INFO:root:Row 323, lat: 37.567353 long: -77.418297 -- Successful
+
+INFO:root:Row 324, lat: 41.320582 long: -72.874005 -- Successful
+
+INFO:root:Row 325, lat: 37.535529 long: -77.449896 -- Successful
+
+INFO:root:Row 326, lat: 37.535529 long: -77.450239 -- Successful
+
+INFO:root:Row 327, lat: 37.546417 long: -77.474494 -- Successful
+
+INFO:root:Row 328, lat: 37.824005 long: -122.282092 -- Successful
+
+INFO:root:Row 329, lat: 37.826105 long: -122.283058 -- Successful
+
+INFO:root:Row 330, lat: 37.779620 long: -122.218328 -- Successful
+
+INFO:root:Row 331, lat: 37.778961 long: -122.218831 -- Successful
+
+INFO:root:Row 332, lat: 37.486117 long: -77.442348 -- Successful
+
+INFO:root:Row 333, lat: 37.536091 long: -77.537765 -- Successful
+
+INFO:root:Row 334, lat: 37.472763 long: -77.497291 -- Successful
+
+INFO:root:Row 335, lat: 37.482850 long: -77.497879 -- Successful
+
+INFO:root:Row 336, lat: 41.283242 long: -72.926955 -- Successful
+
+INFO:root:Row 337, lat: 41.281475 long: -72.929530 -- Successful
+
+INFO:root:Row 338, lat: 37.575703 long: -77.434484 -- Successful
+
+INFO:root:Row 339, lat: 37.576018 long: -77.434015 -- Successful
+
+INFO:root:Row 340, lat: 37.497050 long: -77.442322 -- Successful
+
+INFO:root:Row 341, lat: 41.308153 long: -72.928158 -- Successful
+
+INFO:root:Row 342, lat: 41.310662 long: -72.917346 -- Successful
+
+INFO:root:Row 343, lat: 37.536349 long: -77.417929 -- Successful
+
+INFO:root:Row 344, lat: 37.571826 long: -77.437040 -- Successful
+
+INFO:root:Row 345, lat: 37.542825 long: -77.406068 -- Successful
+
+INFO:root:Row 346, lat: 37.541684 long: -77.470714 -- Successful
+
+INFO:root:Row 347, lat: 37.544008 long: -77.486591 -- Successful
+
+INFO:root:Row 348, lat: 37.579104 long: -77.426117 -- Successful
+
+INFO:root:Row 349, lat: 37.550257 long: -77.586325 -- Successful
+
+INFO:root:Row 350, lat: 37.572570 long: -77.421150 -- Successful
+
+INFO:root:Row 351, lat: 37.520307 long: -77.493367 -- Successful
+
+INFO:root:Row 352, lat: 37.499693 long: -77.444186 -- Successful
+
+INFO:root:Row 353, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 354, lat: 37.574497 long: -77.493868 -- Successful
+
+INFO:root:Row 355, lat: 37.558259 long: -77.422564 -- Successful
+
+INFO:root:Row 356, lat: 37.522840 long: -77.473651 -- Successful
+
+INFO:root:Row 357, lat: 37.586599 long: -77.452782 -- Successful
+
+INFO:root:Row 358, lat: 37.548866 long: -77.530146 -- Successful
+
+INFO:root:Row 359, lat: 37.547446 long: -77.460896 -- Successful
+
+INFO:root:Row 360, lat: 41.284054 long: -72.930349 -- Successful
+
+INFO:root:Row 361, lat: 37.570818 long: -77.416408 -- Successful
+
+INFO:root:Row 362, lat: 37.489009 long: -77.504313 -- Successful
+
+INFO:root:Row 363, lat: 37.571982 long: -77.430692 -- Successful
+
+INFO:root:Row 364, lat: 37.571599 long: -77.431878 -- Successful
+
+INFO:root:Row 365, lat: 37.508297 long: -77.474281 -- Successful
+
+INFO:root:Row 366, lat: 37.522336 long: -77.443487 -- Successful
+
+INFO:root:Row 367, lat: 37.522207 long: -77.393568 -- Successful
+
+INFO:root:Row 368, lat: 37.509603 long: -77.441235 -- Successful
+
+INFO:root:Row 369, lat: 37.492554 long: -77.496384 -- Successful
+
+INFO:root:Row 370, lat: 37.551421 long: -77.447434 -- Successful
+
+INFO:root:Row 371, lat: 37.562342 long: -77.441002 -- Successful
+
+INFO:root:Row 372, lat: 37.585988 long: -77.523118 -- Successful
+
+INFO:root:Row 373, lat: 37.567495 long: -77.483081 -- Successful
+
+INFO:root:Row 374, lat: 37.555240 long: -77.465172 -- Successful
+
+INFO:root:Row 375, lat: 37.510312 long: -77.459247 -- Successful
+
+INFO:root:Row 376, lat: 37.546330 long: -77.443246 -- Successful
+
+INFO:root:Row 377, lat: 37.518513 long: -77.463855 -- Successful
+
+INFO:root:Row 378, lat: 37.542098 long: -77.568604 -- Successful
+
+INFO:root:Row 379, lat: 37.550257 long: -77.586325 -- Successful
+
+INFO:root:Row 380, lat: 37.545416 long: -77.582348 -- Successful
+
+INFO:root:Row 381, lat: 37.548844 long: -77.583683 -- Successful
+
+INFO:root:Row 382, lat: 37.543324 long: -77.586120 -- Successful
+
+INFO:root:Row 383, lat: 37.544661 long: -77.590153 -- Successful
+
+INFO:root:Row 384, lat: 37.549956 long: -77.587550 -- Successful
+
+INFO:root:Row 385, lat: 37.552713 long: -77.590334 -- Successful
+
+INFO:root:Row 386, lat: 37.554742 long: -77.583984 -- Successful
+
+INFO:root:Row 387, lat: 37.585607 long: -77.523507 -- Successful
+
+INFO:root:Row 388, lat: 37.553255 long: -77.594923 -- Successful
+
+INFO:root:Row 389, lat: 37.557601 long: -77.461610 -- Successful
+
+INFO:root:Row 390, lat: 37.551102 long: -77.584525 -- Successful
+
+INFO:root:Row 391, lat: 37.552570 long: -77.593094 -- Successful
+
+INFO:root:Row 392, lat: 37.548337 long: -77.586116 -- Successful
+
+INFO:root:Row 393, lat: 37.547116 long: -77.586266 -- Successful
+
+INFO:root:Row 394, lat: 37.545434 long: -77.587107 -- Successful
+
+INFO:root:Row 395, lat: 37.543766 long: -77.587499 -- Successful
+
+INFO:root:Row 396, lat: 37.546950 long: -77.587773 -- Successful
+
+INFO:root:Row 397, lat: 37.546728 long: -77.585486 -- Successful
+
+INFO:root:Row 398, lat: 37.544949 long: -77.585504 -- Successful
+
+INFO:root:Row 399, lat: 37.538415 long: -77.582773 -- Successful
+
+INFO:root:Row 400, lat: 37.537792 long: -77.582696 -- Successful
+
+INFO:root:Row 401, lat: 37.534364 long: -77.585851 -- Successful
+
+INFO:root:Row 402, lat: 37.533861 long: -77.581920 -- Successful
+
+INFO:root:Row 403, lat: 37.534196 long: -77.581890 -- Successful
+
+INFO:root:Row 404, lat: 37.535021 long: -77.582551 -- Successful
+
+INFO:root:Row 405, lat: 37.536645 long: -77.585358 -- Successful
+
+INFO:root:Row 406, lat: 37.541120 long: -77.573176 -- Successful
+
+INFO:root:Row 407, lat: 37.553480 long: -77.577460 -- Successful
+
+INFO:root:Row 408, lat: 37.541646 long: -77.570093 -- Successful
+
+INFO:root:Row 409, lat: 37.541399 long: -77.569828 -- Successful
+
+INFO:root:Row 410, lat: 37.533693 long: -77.424440 -- Successful
+
+INFO:root:Row 411, lat: 37.552327 long: -77.450400 -- Successful
+
+INFO:root:Row 412, lat: 37.527498 long: -77.521533 -- Successful
+
+INFO:root:Row 413, lat: 37.558223 long: -77.548407 -- Successful
+
+INFO:root:Row 414, lat: 37.552118 long: -77.526419 -- Successful
+
+INFO:root:Row 415, lat: 37.545204 long: -77.409152 -- Successful
+
+INFO:root:Row 416, lat: 37.481941 long: -77.446880 -- Successful
+
+INFO:root:Row 417, lat: 37.510736 long: -77.464371 -- Successful
+
+INFO:root:Row 418, lat: 37.477126 long: -77.437042 -- Successful
+
+INFO:root:Row 419, lat: 37.476187 long: -77.436396 -- Successful
+
+INFO:root:Row 420, lat: 37.476692 long: -77.435258 -- Successful
+
+INFO:root:Row 421, lat: 37.553848 long: -77.595245 -- Successful
+
+INFO:root:Row 422, lat: 37.478254 long: -77.434214 -- Successful
+
+INFO:root:Row 423, lat: 37.521620 long: -77.485082 -- Successful
+
+INFO:root:Row 424, lat: 37.528136 long: -77.434487 -- Successful
+
+INFO:root:Row 425, lat: 37.528111 long: -77.408886 -- Successful
+
+INFO:root:Row 426, lat: 41.906903 long: -87.670164 -- Successful
+
+INFO:root:Row 427, lat: 41.906846 long: -87.669551 -- Successful
+
+INFO:root:Row 428, lat: 37.506304 long: -77.470797 -- Successful
+
+INFO:root:Row 429, lat: 37.506304 long: -77.470797 -- Successful
+
+INFO:root:Row 430, lat: 41.304868 long: -72.934233 -- Successful
+
+INFO:root:Row 431, lat: 37.583977 long: -77.461157 -- Successful
+
+INFO:root:Row 432, lat: 37.587933 long: -77.462945 -- Successful
+
+INFO:root:Row 433, lat: 37.586521 long: -77.463914 -- Successful
+
+INFO:root:Row 434, lat: 37.555304 long: -77.452793 -- Successful
+
+INFO:root:Row 435, lat: 41.308902 long: -72.933566 -- Successful
+
+INFO:root:Row 436, lat: 37.533850 long: -77.585503 -- Successful
+
+INFO:root:Row 437, lat: 37.591320 long: -77.463898 -- Successful
+
+INFO:root:Row 438, lat: 37.568889 long: -77.439142 -- Successful
+
+INFO:root:Row 439, lat: 37.575869 long: -77.445238 -- Successful
+
+INFO:root:Row 440, lat: 37.585388 long: -77.445967 -- Successful
+
+INFO:root:Row 441, lat: 37.585872 long: -77.446046 -- Successful
+
+INFO:root:Row 442, lat: 37.574122 long: -77.446938 -- Successful
+
+INFO:root:Row 443, lat: 37.575433 long: -77.441191 -- Successful
+
+INFO:root:Row 444, lat: 37.574192 long: -77.432196 -- Successful
+
+INFO:root:Row 445, lat: 37.573490 long: -77.437621 -- Successful
+
+INFO:root:Row 446, lat: 37.573930 long: -77.438116 -- Successful
+
+INFO:root:Row 447, lat: 37.574992 long: -77.437508 -- Successful
+
+INFO:root:Row 448, lat: 37.573277 long: -77.438797 -- Successful
+
+INFO:root:Row 449, lat: 37.572264 long: -77.437084 -- Successful
+
+INFO:root:Row 450, lat: 37.572390 long: -77.436554 -- Successful
+
+INFO:root:Row 451, lat: 37.574397 long: -77.436402 -- Successful
+
+INFO:root:Row 452, lat: 37.575796 long: -77.436801 -- Successful
+
+INFO:root:Row 453, lat: 37.575325 long: -77.435652 -- Successful
+
+INFO:root:Row 454, lat: 37.572731 long: -77.432947 -- Successful
+
+INFO:root:Row 455, lat: 37.577384 long: -77.431796 -- Successful
+
+INFO:root:Row 456, lat: 37.555956 long: -77.532015 -- Successful
+
+INFO:root:Row 457, lat: 37.547478 long: -77.460812 -- Successful
+
+INFO:root:Row 458, lat: 37.556364 long: -77.532234 -- Successful
+
+INFO:root:Row 459, lat: 37.554109 long: -77.530898 -- Successful
+
+INFO:root:Row 460, lat: 37.542857 long: -77.598219 -- Successful
+
+INFO:root:Row 461, lat: 37.559327 long: -77.549081 -- Successful
+
+INFO:root:Row 462, lat: 37.556362 long: -77.575921 -- Successful
+
+INFO:root:Row 463, lat: 37.551162 long: -77.577148 -- Successful
+
+INFO:root:Row 464, lat: 37.553202 long: -77.476942 -- Successful
+
+INFO:root:Row 465, lat: 37.584974 long: -77.443919 -- Successful
+
+INFO:root:Row 466, lat: 37.589745 long: -77.459037 -- Successful
+
+INFO:root:Row 467, lat: 37.556594 long: -77.424283 -- Successful
+
+INFO:root:Row 468, lat: 37.482830 long: -77.444775 -- Successful
+
+INFO:root:Row 469, lat: 41.315858 long: -72.947938 -- Successful
+
+INFO:root:Row 470, lat: 37.537907 long: -77.577118 -- Successful
+
+INFO:root:Row 471, lat: 37.535024 long: -77.578148 -- Successful
+
+INFO:root:Row 472, lat: 37.566853 long: -77.425177 -- Successful
+
+INFO:root:Row 473, lat: 37.566318 long: -77.424238 -- Successful
+
+INFO:root:Row 474, lat: 37.589745 long: -77.459037 -- Successful
+
+INFO:root:Row 475, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 476, lat: 37.585991 long: -77.460169 -- Successful
+
+INFO:root:Row 477, lat: 37.581738 long: -77.456839 -- Successful
+
+INFO:root:Row 478, lat: 37.555946 long: -77.452910 -- Successful
+
+INFO:root:Row 479, lat: 41.328146 long: -72.950940 -- Successful
+
+INFO:root:Row 480, lat: 41.328037 long: -72.948094 -- Successful
+
+INFO:root:Row 481, lat: 37.463688 long: -77.457695 -- Successful
+
+INFO:root:Row 482, lat: 37.780491 long: -122.209761 -- Successful
+
+INFO:root:Row 483, lat: 37.540342 long: -77.538995 -- Successful
+
+INFO:root:Row 484, lat: 37.583258 long: -77.439324 -- Successful
+
+INFO:root:Row 485, lat: 37.560529 long: -77.476876 -- Successful
+
+INFO:root:Row 486, lat: 37.539338 long: -77.541667 -- Successful
+
+INFO:root:Row 487, lat: 41.311738 long: -72.918966 -- Successful
+
+INFO:root:Row 488, lat: 41.316566 long: -72.909988 -- Successful
+
+INFO:root:Row 489, lat: 37.581241 long: -77.520899 -- Successful
+
+INFO:root:Row 490, lat: 37.574701 long: -77.505543 -- Successful
+
+INFO:root:Row 491, lat: 37.577203 long: -77.511198 -- Successful
+
+INFO:root:Row 492, lat: 37.569624 long: -77.508106 -- Successful
+
+INFO:root:Row 493, lat: 37.533569 long: -77.422006 -- Successful
+
+INFO:root:Row 494, lat: 37.528940 long: -77.411095 -- Successful
+
+INFO:root:Row 495, lat: 41.318431 long: -72.909955 -- Successful
+
+INFO:root:Row 496, lat: 37.554016 long: -77.473499 -- Successful
+
+INFO:root:Row 497, lat: 37.550869 long: -77.469334 -- Successful
+
+INFO:root:Row 498, lat: 37.550869 long: -77.469334 -- Successful
+
+INFO:root:Row 499, lat: 37.550869 long: -77.469334 -- Successful
+
+INFO:root:Row 500, lat: 37.532843 long: -77.416721 -- Successful
+
+INFO:root:Row 501, lat: 37.530856 long: -77.412338 -- Successful
+
+INFO:root:Row 502, lat: 37.559639 long: -77.515205 -- Successful
+
+INFO:root:Row 503, lat: 37.491175 long: -77.515249 -- Successful
+
+INFO:root:Row 504, lat: 37.550023 long: -77.415574 -- Successful
+
+INFO:root:Row 505, lat: 37.535905 long: -77.406428 -- Successful
+
+INFO:root:Row 506, lat: 37.563228 long: -77.416293 -- Successful
+
+INFO:root:Row 507, lat: 37.566267 long: -77.441501 -- Successful
+
+INFO:root:Row 508, lat: 37.592410 long: -77.465644 -- Successful
+
+INFO:root:Row 509, lat: 37.541051 long: -77.524704 -- Successful
+
+INFO:root:Row 510, lat: 37.577606 long: -77.417770 -- Successful
+
+INFO:root:Row 511, lat: 37.542573 long: -77.524601 -- Successful
+
+INFO:root:Row 512, lat: 37.572273 long: -77.430036 -- Successful
+
+INFO:root:Row 513, lat: 37.560261 long: -77.481857 -- Successful
+
+INFO:root:Row 514, lat: 37.510025 long: -77.464664 -- Successful
+
+INFO:root:Row 515, lat: 37.534651 long: -77.418426 -- Successful
+
+INFO:root:Row 516, lat: 37.565318 long: -77.422522 -- Successful
+
+INFO:root:Row 517, lat: 37.512162 long: -77.467884 -- Successful
+
+INFO:root:Row 518, lat: 37.572674 long: -77.423005 -- Successful
+
+INFO:root:Row 519, lat: 37.520310 long: -77.466546 -- Successful
+
+INFO:root:Row 520, lat: 37.577987 long: -77.424257 -- Successful
+
+INFO:root:Row 521, lat: 37.543562 long: -77.468605 -- Successful
+
+INFO:root:Row 522, lat: 37.552139 long: -77.494539 -- Successful
+
+INFO:root:Row 523, lat: 37.576098 long: -77.455283 -- Successful
+
+INFO:root:Row 524, lat: 37.551799 long: -77.409816 -- Successful
+
+INFO:root:Row 525, lat: 37.471436 long: -77.498195 -- Successful
+
+INFO:root:Row 526, lat: 37.548099 long: -77.565129 -- Successful
+
+INFO:root:Row 527, lat: 41.316566 long: -72.909988 -- Successful
+
+INFO:root:Row 528, lat: 37.551842 long: -77.462761 -- Successful
+
+INFO:root:Row 529, lat: 37.555631 long: -77.468062 -- Successful
+
+INFO:root:Row 530, lat: 37.510365 long: -77.440033 -- Successful
+
+INFO:root:Row 531, lat: 37.471665 long: -77.440898 -- Successful
+
+INFO:root:Row 532, lat: 37.569159 long: -77.512514 -- Successful
+
+INFO:root:Row 533, lat: 37.568394 long: -77.426123 -- Successful
+
+INFO:root:Row 534, lat: 37.506704 long: -77.461457 -- Successful
+
+INFO:root:Row 535, lat: 37.574993 long: -77.530401 -- Successful
+
+INFO:root:Row 536, lat: 37.540598 long: -77.458546 -- Successful
+
+INFO:root:Row 537, lat: 37.538258 long: -77.547553 -- Successful
+
+INFO:root:Row 538, lat: 37.587739 long: -77.451135 -- Successful
+
+INFO:root:Row 539, lat: 37.529611 long: -77.401651 -- Successful
+
+INFO:root:Row 540, lat: 37.552502 long: -77.466727 -- Successful
+
+INFO:root:Row 541, lat: 37.530815 long: -77.505211 -- Successful
+
+INFO:root:Row 542, lat: 37.571012 long: -77.519423 -- Successful
+
+INFO:root:Row 543, lat: 37.551643 long: -77.537316 -- Successful
+
+INFO:root:Row 544, lat: 41.314533 long: -72.952113 -- Successful
+
+INFO:root:Row 545, lat: 37.464123 long: -77.457731 -- Successful
+
+INFO:root:Row 546, lat: 37.519164 long: -77.406750 -- Successful
+
+INFO:root:Row 547, lat: 37.464374 long: -77.452353 -- Successful
+
+INFO:root:Row 548, lat: 37.468981 long: -77.492411 -- Successful
+
+INFO:root:Row 549, lat: 37.552622 long: -77.416385 -- Successful
+
+INFO:root:Row 550, lat: 37.590138 long: -77.440174 -- Successful
+
+INFO:root:Row 551, lat: 37.471269 long: -77.475064 -- Successful
+
+INFO:root:Row 552, lat: 37.480929 long: -77.465983 -- Successful
+
+INFO:root:Row 553, lat: 37.469294 long: -77.474559 -- Successful
+
+INFO:root:Row 554, lat: 37.541243 long: -77.509206 -- Successful
+
+INFO:root:Row 555, lat: 37.511924 long: -77.509407 -- Successful
+
+INFO:root:Row 556, lat: 37.582667 long: -77.464731 -- Successful
+
+INFO:root:Row 557, lat: 37.571251 long: -77.416070 -- Successful
+
+INFO:root:Row 558, lat: 37.490050 long: -77.479824 -- Successful
+
+INFO:root:Row 559, lat: 37.564167 long: -77.421438 -- Successful
+
+INFO:root:Row 560, lat: 37.550305 long: -77.541835 -- Successful
+
+INFO:root:Row 561, lat: 37.461521 long: -77.444956 -- Successful
+
+INFO:root:Row 562, lat: 37.521046 long: -77.394688 -- Successful
+
+INFO:root:Row 563, lat: 41.307190 long: -72.938722 -- Successful
+
+INFO:root:Row 564, lat: 37.573800 long: -77.453421 -- Successful
+
+INFO:root:Row 565, lat: 37.553792 long: -77.466595 -- Successful
+
+INFO:root:Row 566, lat: 37.542376 long: -77.446148 -- Successful
+
+INFO:root:Row 567, lat: 37.553244 long: -77.475782 -- Successful
+
+INFO:root:Row 568, lat: 37.517374 long: -77.485136 -- Successful
+
+INFO:root:Row 569, lat: 37.552709 long: -77.476083 -- Successful
+
+INFO:root:Row 570, lat: 37.553244 long: -77.475782 -- Successful
+
+INFO:root:Row 571, lat: 37.535000 long: -77.594613 -- Successful
+
+INFO:root:Row 572, lat: 37.564607 long: -77.420440 -- Successful
+
+INFO:root:Row 573, lat: 41.315953 long: -72.945199 -- Successful
+
+INFO:root:Row 574, lat: 37.566056 long: -77.477728 -- Successful
+
+INFO:root:Row 575, lat: 37.482678 long: -77.443775 -- Successful
+
+INFO:root:Row 576, lat: 37.553977 long: -77.475848 -- Successful
+
+INFO:root:Row 577, lat: 37.471897 long: -77.502752 -- Successful
+
+INFO:root:Row 578, lat: 37.553366 long: -77.457527 -- Successful
+
+INFO:root:Row 579, lat: 37.551009 long: -77.463365 -- Successful
+
+INFO:root:Row 580, lat: 37.479687 long: -77.512499 -- Successful
+
+INFO:root:Row 581, lat: 41.318329 long: -72.962752 -- Successful
+
+INFO:root:Row 582, lat: 37.538237 long: -77.522437 -- Successful
+
+INFO:root:Row 583, lat: 41.970164 long: -87.679181 -- Successful
+
+INFO:root:Row 584, lat: 37.538214 long: -77.522889 -- Successful
+
+INFO:root:Row 585, lat: 37.556222 long: -77.580906 -- Successful
+
+INFO:root:Row 586, lat: 37.528270 long: -77.417538 -- Successful
+
+INFO:root:Row 587, lat: 37.472773 long: -77.480234 -- Successful
+
+INFO:root:Row 588, lat: 37.539350 long: -77.518743 -- Successful
+
+INFO:root:Row 589, lat: 41.312903 long: -72.942521 -- Successful
+
+INFO:root:Row 590, lat: 37.598968 long: -77.450778 -- Successful
+
+INFO:root:Row 591, lat: 37.572315 long: -77.420737 -- Successful
+
+INFO:root:Row 592, lat: 37.575470 long: -77.513921 -- Successful
+
+INFO:root:Row 593, lat: 37.551764 long: -77.417669 -- Successful
+
+INFO:root:Row 594, lat: 37.511005 long: -77.474635 -- Successful
+
+INFO:root:Row 595, lat: 37.562686 long: -77.491706 -- Successful
+
+INFO:root:Row 596, lat: 37.564607 long: -77.420440 -- Successful
+
+INFO:root:Row 597, lat: 37.552443 long: -77.532171 -- Successful
+
+INFO:root:Row 598, lat: 37.553953 long: -77.530585 -- Successful
+
+INFO:root:Row 599, lat: 37.565209 long: -77.421435 -- Successful
+
+INFO:root:Row 600, lat: 37.552603 long: -77.529458 -- Successful
+
+INFO:root:Row 601, lat: 37.552880 long: -77.527430 -- Successful
+
+INFO:root:Row 602, lat: 37.552369 long: -77.527730 -- Successful
+
+INFO:root:Row 603, lat: 37.573848 long: -77.424044 -- Successful
+
+INFO:root:Row 604, lat: 37.552689 long: -77.527179 -- Successful
+
+INFO:root:Row 605, lat: 37.552499 long: -77.526926 -- Successful
+
+INFO:root:Row 606, lat: 37.552118 long: -77.526419 -- Successful
+
+INFO:root:Row 607, lat: 37.499271 long: -77.484386 -- Successful
+
+INFO:root:Row 608, lat: 37.552161 long: -77.538983 -- Successful
+
+INFO:root:Row 609, lat: 37.551687 long: -77.537761 -- Successful
+
+INFO:root:Row 610, lat: 37.552518 long: -77.537390 -- Successful
+
+INFO:root:Row 611, lat: 37.551643 long: -77.537316 -- Successful
+
+INFO:root:Row 612, lat: 37.550957 long: -77.534389 -- Successful
+
+INFO:root:Row 613, lat: 37.550761 long: -77.534542 -- Successful
+
+INFO:root:Row 614, lat: 37.542775 long: -77.525446 -- Successful
+
+INFO:root:Row 615, lat: 37.549762 long: -77.532693 -- Successful
+
+INFO:root:Row 616, lat: 37.549093 long: -77.532868 -- Successful
+
+INFO:root:Row 617, lat: 37.493287 long: -77.458643 -- Successful
+
+INFO:root:Row 618, lat: 37.542573 long: -77.524601 -- Successful
+
+INFO:root:Row 619, lat: 37.541051 long: -77.524704 -- Successful
+
+INFO:root:Row 620, lat: 37.493266 long: -77.458407 -- Successful
+
+INFO:root:Row 621, lat: 37.552510 long: -77.533655 -- Successful
+
+INFO:root:Row 622, lat: 37.550946 long: -77.526804 -- Successful
+
+INFO:root:Row 623, lat: 37.550331 long: -77.529833 -- Successful
+
+INFO:root:Row 624, lat: 37.554122 long: -77.539813 -- Successful
+
+INFO:root:Row 625, lat: 37.573699 long: -77.441696 -- Successful
+
+INFO:root:Row 626, lat: 37.554207 long: -77.539298 -- Successful
+
+INFO:root:Row 627, lat: 37.553623 long: -77.534261 -- Successful
+
+INFO:root:Row 628, lat: 37.553831 long: -77.533877 -- Successful
+
+INFO:root:Row 629, lat: 37.556785 long: -77.533584 -- Successful
+
+INFO:root:Row 630, lat: 37.580544 long: -77.452423 -- Successful
+
+INFO:root:Row 631, lat: 37.554234 long: -77.534333 -- Successful
+
+INFO:root:Row 632, lat: 37.531106 long: -77.504882 -- Successful
+
+INFO:root:Row 633, lat: 37.554683 long: -77.529603 -- Successful
+
+INFO:root:Row 634, lat: 37.511175 long: -77.463155 -- Successful
+
+INFO:root:Row 635, lat: 37.518571 long: -77.526326 -- Successful
+
+INFO:root:Row 636, lat: 37.508474 long: -77.477713 -- Successful
+
+INFO:root:Row 637, lat: 37.513588 long: -77.475583 -- Successful
+
+INFO:root:Row 638, lat: 37.507449 long: -77.478640 -- Successful
+
+INFO:root:Row 639, lat: 37.572169 long: -77.454278 -- Successful
+
+INFO:root:Row 640, lat: 37.572273 long: -77.430036 -- Successful
+
+INFO:root:Row 641, lat: 37.567295 long: -77.476538 -- Successful
+
+INFO:root:Row 642, lat: 37.554132 long: -77.548746 -- Successful
+
+INFO:root:Row 643, lat: 37.564704 long: -77.441849 -- Successful
+
+INFO:root:Row 644, lat: 37.569481 long: -77.483468 -- Successful
+
+INFO:root:Row 645, lat: 37.530048 long: -77.417206 -- Successful
+
+INFO:root:Row 646, lat: 37.585317 long: -77.443983 -- Successful
+
+INFO:root:Row 647, lat: 37.849697 long: -122.255859 -- Successful
+
+INFO:root:Row 648, lat: 37.579531 long: -77.414981 -- Successful
+
+INFO:root:Row 649, lat: 37.574103 long: -77.419433 -- Successful
+
+INFO:root:Row 650, lat: 37.557133 long: -77.478555 -- Successful
+
+INFO:root:Row 651, lat: 41.329709 long: -72.866249 -- Successful
+
+INFO:root:Row 652, lat: 37.546619 long: -77.442714 -- Successful
+
+INFO:root:Row 653, lat: 41.312769 long: -72.914181 -- Successful
+
+INFO:root:Row 654, lat: 37.779595 long: -122.218344 -- Successful
+
+INFO:root:Row 655, lat: 37.568662 long: -77.434977 -- Successful
+
+INFO:root:Row 656, lat: 37.569542 long: -77.434913 -- Successful
+
+INFO:root:Row 657, lat: 37.550968 long: -77.447666 -- Successful
+
+INFO:root:Row 658, lat: 37.535035 long: -77.435431 -- Successful
+
+INFO:root:Row 659, lat: 37.572111 long: -77.518525 -- Successful
+
+INFO:root:Row 660, lat: 37.569918 long: -77.496341 -- Successful
+
+INFO:root:Row 661, lat: 37.519347 long: -77.456536 -- Successful
+
+INFO:root:Row 662, lat: 37.527969 long: -77.419998 -- Successful
+
+INFO:root:Row 663, lat: 37.550406 long: -77.475295 -- Successful
+
+INFO:root:Row 664, lat: 37.568946 long: -77.484572 -- Successful
+
+INFO:root:Row 665, lat: 37.544519 long: -77.486068 -- Successful
+
+INFO:root:Row 666, lat: 37.470763 long: -77.481421 -- Successful
+
+INFO:root:Row 667, lat: 37.565381 long: -77.494490 -- Successful
+
+INFO:root:Row 668, lat: 37.470626 long: -77.481061 -- Successful
+
+INFO:root:Row 669, lat: 37.479491 long: -77.474582 -- Successful
+
+INFO:root:Row 670, lat: 37.507245 long: -77.441832 -- Successful
+
+INFO:root:Row 671, lat: 37.489976 long: -77.503205 -- Successful
+
+INFO:root:Row 672, lat: 37.514836 long: -77.458157 -- Successful
+
+INFO:root:Row 673, lat: 37.572314 long: -77.430665 -- Successful
+
+INFO:root:Row 674, lat: 37.515592 long: -77.457057 -- Successful
+
+INFO:root:Row 675, lat: 41.322703 long: -72.934593 -- Successful
+
+INFO:root:Row 676, lat: 37.537916 long: -77.414244 -- Successful
+
+INFO:root:Row 677, lat: 37.552601 long: -77.450897 -- Successful
+
+INFO:root:Row 678, lat: 37.586829 long: -77.441075 -- Successful
+
+INFO:root:Row 679, lat: 37.519921 long: -77.497305 -- Successful
+
+INFO:root:Row 680, lat: 37.529420 long: -77.411931 -- Successful
+
+INFO:root:Row 681, lat: 37.535438 long: -77.415604 -- Successful
+
+INFO:root:Row 682, lat: 37.802888 long: -122.263461 -- Successful
+
+INFO:root:Row 683, lat: 37.550614 long: -77.463087 -- Successful
+
+INFO:root:Row 684, lat: 37.543323 long: -77.522434 -- Successful
+
+INFO:root:Row 685, lat: 37.546863 long: -77.535339 -- Successful
+
+INFO:root:Row 686, lat: 37.529404 long: -77.475528 -- Successful
+
+INFO:root:Row 687, lat: 37.564280 long: -77.479537 -- Successful
+
+INFO:root:Row 688, lat: 37.545414 long: -77.443866 -- Successful
+
+INFO:root:Row 689, lat: 37.531283 long: -77.504389 -- Successful
+
+INFO:root:Row 690, lat: 37.493988 long: -77.443182 -- Successful
+
+INFO:root:Row 691, lat: 37.481500 long: -77.466059 -- Successful
+
+INFO:root:Row 692, lat: 37.525281 long: -77.513514 -- Successful
+
+INFO:root:Row 693, lat: 37.489562 long: -77.488034 -- Successful
+
+INFO:root:Row 694, lat: 37.476295 long: -77.434119 -- Successful
+
+INFO:root:Row 695, lat: 41.302780 long: -72.910428 -- Successful
+
+INFO:root:Row 696, lat: 37.521025 long: -77.465480 -- Successful
+
+INFO:root:Row 697, lat: 37.541148 long: -77.470637 -- Successful
+
+INFO:root:Row 698, lat: 41.308245 long: -72.927636 -- Successful
+
+INFO:root:Row 699, lat: 37.564678 long: -77.418918 -- Successful
+
+INFO:root:Row 700, lat: 37.523618 long: -77.486262 -- Successful
+
+INFO:root:Row 701, lat: 37.544579 long: -77.417167 -- Successful
+
+INFO:root:Row 702, lat: 41.310810 long: -72.947304 -- Successful
+
+INFO:root:Row 703, lat: 41.316566 long: -72.909988 -- Successful
+
+INFO:root:Row 704, lat: 41.316566 long: -72.909988 -- Successful
+
+INFO:root:Row 705, lat: 37.544320 long: -77.488453 -- Successful
+
+INFO:root:Row 706, lat: 37.548046 long: -77.407410 -- Successful
+
+INFO:root:Row 707, lat: 41.316566 long: -72.909988 -- Successful
+
+INFO:root:Row 708, lat: 41.316566 long: -72.909988 -- Successful
+
+INFO:root:Row 709, lat: 37.576018 long: -77.434015 -- Successful
+
+INFO:root:Row 710, lat: 37.559770 long: -77.469259 -- Successful
+
+INFO:root:Row 711, lat: 37.552804 long: -77.476768 -- Successful
+
+INFO:root:Row 712, lat: 41.279307 long: -72.893964 -- Successful
+
+INFO:root:Row 713, lat: 41.310849 long: -72.947333 -- Successful
+
+INFO:root:Row 714, lat: 37.588107 long: -77.462507 -- Successful
+
+INFO:root:Row 715, lat: 37.527719 long: -77.416855 -- Successful
+
+INFO:root:Row 716, lat: 41.310427 long: -72.947428 -- Successful
+
+INFO:root:Row 717, lat: 37.473204 long: -77.494781 -- Successful
+
+INFO:root:Row 718, lat: 37.523739 long: -77.486655 -- Successful
+
+INFO:root:Row 719, lat: 37.552547 long: -77.450769 -- Successful
+
+INFO:root:Row 720, lat: 37.580192 long: -77.457922 -- Successful
+
+INFO:root:Row 721, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 722, lat: 37.550359 long: -77.441051 -- Successful
+
+INFO:root:Row 723, lat: 37.520985 long: -77.400236 -- Successful
+
+INFO:root:Row 724, lat: 37.563421 long: -77.475342 -- Successful
+
+INFO:root:Row 725, lat: 37.513101 long: -77.407587 -- Successful
+
+INFO:root:Row 726, lat: 37.502193 long: -77.485200 -- Successful
+
+INFO:root:Row 727, lat: 37.558647 long: -77.530857 -- Successful
+
+INFO:root:Row 728, lat: 37.545204 long: -77.409152 -- Successful
+
+INFO:root:Row 729, lat: 41.317195 long: -72.931618 -- Successful
+
+INFO:root:Row 730, lat: 37.491093 long: -77.502011 -- Successful
+
+INFO:root:Row 731, lat: 37.530849 long: -77.416970 -- Successful
+
+INFO:root:Row 732, lat: 37.538093 long: -77.416259 -- Successful
+
+INFO:root:Row 733, lat: 37.544400 long: -77.467193 -- Successful
+
+INFO:root:Row 734, lat: 37.570680 long: -77.497818 -- Successful
+
+INFO:root:Row 735, lat: 37.568208 long: -77.493021 -- Successful
+
+INFO:root:Row 736, lat: 37.576461 long: -77.498218 -- Successful
+
+INFO:root:Row 737, lat: 37.565494 long: -77.493136 -- Successful
+
+INFO:root:Row 738, lat: 37.589371 long: -77.457490 -- Successful
+
+INFO:root:Row 739, lat: 37.582389 long: -77.462498 -- Successful
+
+INFO:root:Row 740, lat: 37.589570 long: -77.452941 -- Successful
+
+INFO:root:Row 741, lat: 37.576330 long: -77.469822 -- Successful
+
+INFO:root:Row 742, lat: 37.574424 long: -77.468798 -- Successful
+
+INFO:root:Row 743, lat: 37.570053 long: -77.466331 -- Successful
+
+INFO:root:Row 744, lat: 37.567281 long: -77.467382 -- Successful
+
+INFO:root:Row 745, lat: 37.564108 long: -77.469644 -- Successful
+
+INFO:root:Row 746, lat: 37.568721 long: -77.477748 -- Successful
+
+INFO:root:Row 747, lat: 37.577672 long: -77.489376 -- Successful
+
+INFO:root:Row 748, lat: 37.577998 long: -77.488875 -- Successful
+
+INFO:root:Row 749, lat: 37.577140 long: -77.487496 -- Successful
+
+INFO:root:Row 750, lat: 37.549043 long: -77.464611 -- Successful
+
+INFO:root:Row 751, lat: 37.789752 long: -122.260419 -- Successful
+
+INFO:root:Row 752, lat: 41.256037 long: -72.889019 -- Successful
+
+INFO:root:Row 753, lat: 37.547397 long: -77.409821 -- Successful
+
+INFO:root:Row 754, lat: 37.496689 long: -77.482900 -- Successful
+
+INFO:root:Row 755, lat: 37.539058 long: -77.451983 -- Successful
+
+INFO:root:Row 756, lat: 37.531887 long: -77.424075 -- Successful
+
+INFO:root:Row 757, lat: 41.312649 long: -72.950393 -- Successful
+
+INFO:root:Row 758, lat: 37.539560 long: -77.413082 -- Successful
+
+INFO:root:Row 759, lat: 37.531276 long: -77.424973 -- Successful
+
+INFO:root:Row 760, lat: 37.546539 long: -77.442444 -- Successful
+
+INFO:root:Row 761, lat: 37.532205 long: -77.416430 -- Successful
+
+INFO:root:Row 762, lat: 41.322313 long: -72.964401 -- Successful
+
+INFO:root:Row 763, lat: 37.590078 long: -77.441348 -- Successful
+
+INFO:root:Row 764, lat: 37.531968 long: -77.417026 -- Successful
+
+INFO:root:Row 765, lat: 37.492522 long: -77.503017 -- Successful
+
+INFO:root:Row 766, lat: 37.581637 long: -77.441069 -- Successful
+
+INFO:root:Row 767, lat: 37.550317 long: -77.441090 -- Successful
+
+INFO:root:Row 768, lat: 37.560261 long: -77.426234 -- Successful
+
+INFO:root:Row 769, lat: 37.529404 long: -77.475528 -- Successful
+
+INFO:root:Row 770, lat: 37.520583 long: -77.395543 -- Successful
+
+INFO:root:Row 771, lat: 37.583792 long: -77.526412 -- Successful
+
+INFO:root:Row 772, lat: 37.583880 long: -77.526546 -- Successful
+
+INFO:root:Row 773, lat: 37.523426 long: -77.482104 -- Successful
+
+INFO:root:Row 774, lat: 37.539414 long: -77.414430 -- Successful
+
+INFO:root:Row 775, lat: 37.527281 long: -77.512291 -- Successful
+
+INFO:root:Row 776, lat: 37.583880 long: -77.526546 -- Successful
+
+INFO:root:Row 777, lat: 37.569278 long: -77.432056 -- Successful
+
+INFO:root:Row 778, lat: 37.565381 long: -77.494490 -- Successful
+
+INFO:root:Row 779, lat: 37.544708 long: -77.446505 -- Successful
+
+INFO:root:Row 780, lat: 37.475967 long: -77.462816 -- Successful
+
+INFO:root:Row 781, lat: 37.491200 long: -77.518022 -- Successful
+
+INFO:root:Row 782, lat: 37.497133 long: -77.512742 -- Successful
+
+INFO:root:Row 783, lat: 37.482208 long: -77.504268 -- Successful
+
+INFO:root:Row 784, lat: 37.516725 long: -77.399234 -- Successful
+
+INFO:root:Row 785, lat: 37.476776 long: -77.501606 -- Successful
+
+INFO:root:Row 786, lat: 37.549390 long: -77.590772 -- Successful
+
+INFO:root:Row 787, lat: 37.569468 long: -77.506698 -- Successful
+
+INFO:root:Row 788, lat: 37.475147 long: -77.446415 -- Successful
+
+INFO:root:Row 789, lat: 37.538327 long: -77.582517 -- Successful
+
+INFO:root:Row 790, lat: 37.498735 long: -77.481899 -- Successful
+
+INFO:root:Row 791, lat: 37.507185 long: -77.447726 -- Successful
+
+INFO:root:Row 792, lat: 37.501463 long: -77.438674 -- Successful
+
+INFO:root:Row 793, lat: 37.526678 long: -77.483885 -- Successful
+
+INFO:root:Row 794, lat: 37.568157 long: -77.508664 -- Successful
+
+INFO:root:Row 795, lat: 37.555787 long: -77.471970 -- Successful
+
+INFO:root:Row 796, lat: 37.498501 long: -77.438382 -- Successful
+
+INFO:root:Row 797, lat: 37.556280 long: -77.452870 -- Successful
+
+INFO:root:Row 798, lat: 37.567977 long: -77.501826 -- Successful
+
+INFO:root:Row 799, lat: 37.532051 long: -77.401813 -- Successful
+
+INFO:root:Row 800, lat: 41.311828 long: -72.951589 -- Successful
+
+INFO:root:Row 801, lat: 37.516702 long: -77.487383 -- Successful
+
+INFO:root:Row 802, lat: 37.568931 long: -77.495209 -- Successful
+
+INFO:root:Row 803, lat: 37.555569 long: -77.452264 -- Successful
+
+INFO:root:Row 804, lat: 37.823030 long: -122.277805 -- Successful
+
+INFO:root:Row 805, lat: 37.550661 long: -77.448852 -- Successful
+
+INFO:root:Row 806, lat: 37.508057 long: -77.459350 -- Successful
+
+INFO:root:Row 807, lat: 37.591243 long: -77.530866 -- Successful
+
+INFO:root:Row 808, lat: 37.528175 long: -77.404511 -- Successful
+
+INFO:root:Row 809, lat: 37.507081 long: -77.473162 -- Successful
+
+INFO:root:Row 810, lat: 37.515336 long: -77.472416 -- Successful
+
+INFO:root:Row 811, lat: 37.507261 long: -77.472909 -- Successful
+
+INFO:root:Row 812, lat: 37.575108 long: -77.439176 -- Successful
+
+INFO:root:Row 813, lat: 37.507261 long: -77.472909 -- Successful
+
+INFO:root:Row 814, lat: 41.326377 long: -72.960906 -- Successful
+
+INFO:root:Row 815, lat: 37.511221 long: -77.500032 -- Successful
+
+INFO:root:Row 816, lat: 37.473393 long: -77.508464 -- Successful
+
+INFO:root:Row 817, lat: 37.473393 long: -77.508464 -- Successful
+
+INFO:root:Row 818, lat: 37.840360 long: -122.252190 -- Successful
+
+INFO:root:Row 819, lat: 37.847481 long: -122.252274 -- Successful
+
+INFO:root:Row 820, lat: 37.576019 long: -77.460212 -- Successful
+
+INFO:root:Row 821, lat: 37.513859 long: -77.467483 -- Successful
+
+INFO:root:Row 822, lat: 37.547593 long: -77.472723 -- Successful
+
+INFO:root:Row 823, lat: 37.552327 long: -77.448905 -- Successful
+
+INFO:root:Row 824, lat: 37.506349 long: -77.507884 -- Successful
+
+INFO:root:Row 825, lat: 37.591655 long: -77.453066 -- Successful
+
+INFO:root:Row 826, lat: 37.519637 long: -77.478033 -- Successful
+
+INFO:root:Row 827, lat: 37.501930 long: -77.436608 -- Successful
+
+INFO:root:Row 828, lat: 37.552807 long: -77.474557 -- Successful
+
+INFO:root:Row 829, lat: 37.555695 long: -77.469768 -- Successful
+
+INFO:root:Row 830, lat: 37.542839 long: -77.415690 -- Successful
+
+INFO:root:Row 831, lat: 37.557293 long: -77.464235 -- Successful
+
+INFO:root:Row 832, lat: 37.595519 long: -77.466086 -- Successful
+
+INFO:root:Row 833, lat: 37.587517 long: -77.441738 -- Successful
+
+INFO:root:Row 834, lat: 37.485531 long: -77.488993 -- Successful
+
+INFO:root:Row 835, lat: 37.543913 long: -77.585463 -- Successful
+
+INFO:root:Row 836, lat: 37.514381 long: -77.509150 -- Successful
+
+INFO:root:Row 837, lat: 37.573350 long: -77.420613 -- Successful
+
+INFO:root:Row 838, lat: 37.504731 long: -77.463899 -- Successful
+
+INFO:root:Row 839, lat: 37.533693 long: -77.407217 -- Successful
+
+INFO:root:Row 840, lat: 37.494217 long: -77.514287 -- Successful
+
+INFO:root:Row 841, lat: 37.802113 long: -122.279343 -- Successful
+
+INFO:root:Row 842, lat: 37.575406 long: -77.496982 -- Successful
+
+INFO:root:Row 843, lat: 37.547162 long: -77.451548 -- Successful
+
+INFO:root:Row 844, lat: 37.516063 long: -77.463422 -- Successful
+
+INFO:root:Row 845, lat: 37.508272 long: -77.492220 -- Successful
+
+INFO:root:Row 846, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 847, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 848, lat: 37.545598 long: -77.411421 -- Successful
+
+INFO:root:Row 849, lat: 37.503825 long: -77.444409 -- Successful
+
+INFO:root:Row 850, lat: 37.552807 long: -77.474557 -- Successful
+
+INFO:root:Row 851, lat: 37.556762 long: -77.500933 -- Successful
+
+INFO:root:Row 852, lat: 37.561304 long: -77.500247 -- Successful
+
+INFO:root:Row 853, lat: 37.560352 long: -77.501019 -- Successful
+
+INFO:root:Row 854, lat: 37.557239 long: -77.491471 -- Successful
+
+INFO:root:Row 855, lat: 37.557571 long: -77.469072 -- Successful
+
+INFO:root:Row 856, lat: 37.533852 long: -77.419189 -- Successful
+
+INFO:root:Row 857, lat: 37.571118 long: -77.523775 -- Successful
+
+INFO:root:Row 858, lat: 37.542411 long: -77.405229 -- Successful
+
+INFO:root:Row 859, lat: 37.497941 long: -77.481602 -- Successful
+
+INFO:root:Row 860, lat: 37.544557 long: -77.466215 -- Successful
+
+INFO:root:Row 861, lat: 37.502193 long: -77.485200 -- Successful
+
+INFO:root:Row 862, lat: 37.554562 long: -77.504216 -- Successful
+
+INFO:root:Row 863, lat: 37.506274 long: -77.437221 -- Successful
+
+INFO:root:Row 864, lat: 37.568609 long: -77.507554 -- Successful
+
+INFO:root:Row 865, lat: 37.550383 long: -77.471515 -- Successful
+
+INFO:root:Row 866, lat: 37.546228 long: -77.472382 -- Successful
+
+INFO:root:Row 867, lat: 37.509786 long: -77.460054 -- Successful
+
+INFO:root:Row 868, lat: 37.487033 long: -77.444085 -- Successful
+
+INFO:root:Row 869, lat: 37.510285 long: -77.460539 -- Successful
+
+INFO:root:Row 870, lat: 37.514896 long: -77.494255 -- Successful
+
+INFO:root:Row 871, lat: 37.572873 long: -77.451149 -- Successful
+
+INFO:root:Row 872, lat: 37.475374 long: -77.447778 -- Successful
+
+INFO:root:Row 873, lat: 41.304896 long: -72.896580 -- Successful
+
+INFO:root:Row 874, lat: 37.527912 long: -77.511972 -- Successful
+
+INFO:root:Row 875, lat: 37.544105 long: -77.433556 -- Successful
+
+INFO:root:Row 876, lat: 37.523593 long: -77.402406 -- Successful
+
+INFO:root:Row 877, lat: 37.494942 long: -77.460744 -- Successful
+
+INFO:root:Row 878, lat: 37.592452 long: -77.450062 -- Successful
+
+INFO:root:Row 879, lat: 37.591202 long: -77.452862 -- Successful
+
+INFO:root:Row 880, lat: 37.584487 long: -77.445194 -- Successful
+
+INFO:root:Row 881, lat: 37.548319 long: -77.456935 -- Successful
+
+INFO:root:Row 882, lat: 41.303203 long: -72.927761 -- Successful
+
+INFO:root:Row 883, lat: 41.305124 long: -72.923584 -- Successful
+
+INFO:root:Row 884, lat: 41.304007 long: -72.927971 -- Successful
+
+INFO:root:Row 885, lat: 41.314420 long: -72.874059 -- Successful
+
+INFO:root:Row 886, lat: 37.553494 long: -77.419148 -- Successful
+
+INFO:root:Row 887, lat: 37.554627 long: -77.471910 -- Successful
+
+INFO:root:Row 888, lat: 37.562200 long: -77.502502 -- Successful
+
+INFO:root:Row 889, lat: 37.558971 long: -77.498425 -- Successful
+
+INFO:root:Row 890, lat: 37.559664 long: -77.499830 -- Successful
+
+INFO:root:Row 891, lat: 41.316719 long: -72.956824 -- Successful
+
+INFO:root:Row 892, lat: 37.554856 long: -77.588083 -- Successful
+
+INFO:root:Row 893, lat: 37.523971 long: -77.448566 -- Successful
+
+INFO:root:Row 894, lat: 41.322661 long: -72.964240 -- Successful
+
+INFO:root:Row 895, lat: 37.480327 long: -77.475959 -- Successful
+
+INFO:root:Row 896, lat: 41.303435 long: -72.908617 -- Successful
+
+INFO:root:Row 897, lat: 37.553673 long: -77.448382 -- Successful
+
+INFO:root:Row 898, lat: 41.322897 long: -72.882299 -- Successful
+
+INFO:root:Row 899, lat: 37.547266 long: -77.517627 -- Successful
+
+INFO:root:Row 900, lat: 37.552400 long: -77.464553 -- Successful
+
+INFO:root:Row 901, lat: 37.560735 long: -77.433031 -- Successful
+
+INFO:root:Row 902, lat: 37.557571 long: -77.469072 -- Successful
+
+INFO:root:Row 903, lat: 37.558618 long: -77.465274 -- Successful
+
+INFO:root:Row 904, lat: 37.556904 long: -77.462293 -- Successful
+
+INFO:root:Row 905, lat: 37.556321 long: -77.460764 -- Successful
+
+INFO:root:Row 906, lat: 37.523228 long: -77.464358 -- Successful
+
+INFO:root:Row 907, lat: 37.555070 long: -77.484593 -- Successful
+
+INFO:root:Row 908, lat: 37.544116 long: -77.583097 -- Successful
+
+INFO:root:Row 909, lat: 37.558439 long: -77.454359 -- Successful
+
+INFO:root:Row 910, lat: 37.555478 long: -77.465668 -- Successful
+
+INFO:root:Row 911, lat: 37.556483 long: -77.430403 -- Successful
+
+INFO:root:Row 912, lat: 37.557384 long: -77.431225 -- Successful
+
+INFO:root:Row 913, lat: 37.556623 long: -77.430395 -- Successful
+
+INFO:root:Row 914, lat: 37.557678 long: -77.431089 -- Successful
+
+INFO:root:Row 915, lat: 37.525241 long: -77.487749 -- Successful
+
+INFO:root:Row 916, lat: 37.524053 long: -77.497234 -- Successful
+
+INFO:root:Row 917, lat: 37.520307 long: -77.439464 -- Successful
+
+INFO:root:Row 918, lat: 42.004587 long: -87.667271 -- Successful
+
+INFO:root:Row 919, lat: 37.498983 long: -77.462130 -- Successful
+
+INFO:root:Row 920, lat: 37.570593 long: -77.413484 -- Successful
+
+INFO:root:Row 921, lat: 37.474904 long: -77.503246 -- Successful
+
+INFO:root:Row 922, lat: 37.541225 long: -77.439005 -- Successful
+
+INFO:root:Row 923, lat: 37.518834 long: -77.495523 -- Successful
+
+INFO:root:Row 924, lat: 37.577000 long: -77.456760 -- Successful
+
+INFO:root:Row 925, lat: 37.576651 long: -77.456766 -- Successful
+
+INFO:root:Row 926, lat: 37.578203 long: -77.454774 -- Successful
+
+INFO:root:Row 927, lat: 37.516703 long: -77.462798 -- Successful
+
+INFO:root:Row 928, lat: 37.546324 long: -77.413150 -- Successful
+
+INFO:root:Row 929, lat: 37.517937 long: -77.483341 -- Successful
+
+INFO:root:Row 930, lat: 41.306243 long: -72.917753 -- Successful
+
+INFO:root:Row 931, lat: 37.492595 long: -77.513729 -- Successful
+
+INFO:root:Row 932, lat: 37.552327 long: -77.450400 -- Successful
+
+INFO:root:Row 933, lat: 37.494513 long: -77.505425 -- Successful
+
+INFO:root:Row 934, lat: 37.578171 long: -77.449944 -- Successful
+
+INFO:root:Row 935, lat: 37.521501 long: -77.489304 -- Successful
+
+INFO:root:Row 936, lat: 37.522602 long: -77.435445 -- Successful
+
+INFO:root:Row 937, lat: 37.551238 long: -77.441633 -- Successful
+
+INFO:root:Row 938, lat: 37.550317 long: -77.441090 -- Successful
+
+INFO:root:Row 939, lat: 37.578238 long: -77.514696 -- Successful
+
+INFO:root:Row 940, lat: 37.551421 long: -77.447434 -- Successful
+
+INFO:root:Row 941, lat: 37.546366 long: -77.580966 -- Successful
+
+INFO:root:Row 942, lat: 41.308857 long: -72.918774 -- Successful
+
+INFO:root:Row 943, lat: 37.526474 long: -77.493824 -- Successful
+
+INFO:root:Row 944, lat: 37.481289 long: -77.478682 -- Successful
+
+INFO:root:Row 945, lat: 37.534901 long: -77.433964 -- Successful
+
+INFO:root:Row 946, lat: 37.550729 long: -77.550740 -- Successful
+
+INFO:root:Row 947, lat: 37.546700 long: -77.518797 -- Successful
+
+INFO:root:Row 948, lat: 37.554486 long: -77.529360 -- Successful
+
+INFO:root:Row 949, lat: 37.552118 long: -77.526419 -- Successful
+
+INFO:root:Row 950, lat: 37.547131 long: -77.527496 -- Successful
+
+INFO:root:Row 951, lat: 37.572087 long: -77.418427 -- Successful
+
+INFO:root:Row 952, lat: 37.572076 long: -77.417982 -- Successful
+
+INFO:root:Row 953, lat: 37.479078 long: -77.493946 -- Successful
+
+INFO:root:Row 954, lat: 37.534901 long: -77.433106 -- Successful
+
+INFO:root:Row 955, lat: 37.534424 long: -77.432044 -- Successful
+
+INFO:root:Row 956, lat: 37.482746 long: -77.469199 -- Successful
+
+INFO:root:Row 957, lat: 37.532774 long: -77.429297 -- Successful
+
+INFO:root:Row 958, lat: 37.533505 long: -77.430939 -- Successful
+
+INFO:root:Row 959, lat: 37.532331 long: -77.428664 -- Successful
+
+INFO:root:Row 960, lat: 37.550843 long: -77.499411 -- Successful
+
+INFO:root:Row 961, lat: 37.533412 long: -77.430381 -- Successful
+
+INFO:root:Row 962, lat: 37.581257 long: -77.466179 -- Successful
+
+INFO:root:Row 963, lat: 37.532884 long: -77.427849 -- Successful
+
+INFO:root:Row 964, lat: 37.533071 long: -77.427698 -- Successful
+
+INFO:root:Row 965, lat: 37.552451 long: -77.467444 -- Successful
+
+INFO:root:Row 966, lat: 37.567533 long: -77.447975 -- Successful
+
+INFO:root:Row 967, lat: 41.310373 long: -72.941411 -- Successful
+
+INFO:root:Row 968, lat: 37.568248 long: -77.501040 -- Successful
+
+INFO:root:Row 969, lat: 41.314957 long: -72.951345 -- Successful
+
+INFO:root:Row 970, lat: 41.316060 long: -72.954267 -- Successful
+
+INFO:root:Row 971, lat: 37.561387 long: -77.469455 -- Successful
+
+INFO:root:Row 972, lat: 41.311403 long: -72.876235 -- Successful
+
+INFO:root:Row 973, lat: 37.472177 long: -77.455323 -- Successful
+
+INFO:root:Row 974, lat: 37.556762 long: -77.450844 -- Successful
+
+INFO:root:Row 975, lat: 41.314865 long: -72.918228 -- Successful
+
+INFO:root:Row 976, lat: 41.312951 long: -72.916070 -- Successful
+
+INFO:root:Row 977, lat: 41.323556 long: -72.957076 -- Successful
+
+INFO:root:Row 978, lat: 37.548642 long: -77.467283 -- Successful
+
+INFO:root:Row 979, lat: 41.326797 long: -72.958427 -- Successful
+
+INFO:root:Row 980, lat: 37.596007 long: -77.450679 -- Successful
+
+INFO:root:Row 981, lat: 37.529404 long: -77.475528 -- Successful
+
+INFO:root:Row 982, lat: 37.550366 long: -77.475528 -- Successful
+
+INFO:root:Row 983, lat: 37.573831 long: -77.497543 -- Successful
+
+INFO:root:Row 984, lat: 37.810090 long: -122.240806 -- Successful
+
+INFO:root:Row 985, lat: 37.810090 long: -122.240806 -- Successful
+
+INFO:root:Row 986, lat: 37.461521 long: -77.444956 -- Successful
+
+INFO:root:Row 987, lat: 37.561839 long: -77.470450 -- Successful
+
+INFO:root:Row 988, lat: 37.809471 long: -122.238602 -- Successful
+
+INFO:root:Row 989, lat: 37.521979 long: -77.454906 -- Successful
+
+INFO:root:Row 990, lat: 37.548720 long: -77.455565 -- Successful
+
+INFO:root:Row 991, lat: 37.551025 long: -77.470608 -- Successful
+
+INFO:root:Row 992, lat: 37.588965 long: -77.460666 -- Successful
+
+INFO:root:Row 993, lat: 37.540969 long: -77.432979 -- Successful
+
+INFO:root:Row 994, lat: 37.553223 long: -77.476271 -- Successful
+
+INFO:root:Row 995, lat: 41.321760 long: -72.930830 -- Successful
+
+INFO:root:Row 996, lat: 37.551212 long: -77.471966 -- Successful
+
+INFO:root:Row 997, lat: 37.550657 long: -77.480296 -- Successful
+
+INFO:root:Row 998, lat: 37.792507 long: -122.240217 -- Successful
+
+INFO:root:Row 999, lat: 37.793372 long: -122.239423 -- Successful
+
+INFO:root:Row 1000, lat: 37.818006 long: -122.199190 -- Successful
+
+INFO:root:Row 1001, lat: 37.822091 long: -122.206657 -- Successful
+
+INFO:root:Row 1002, lat: 41.314997 long: -72.951061 -- Successful
+
+INFO:root:Row 1003, lat: 37.562040 long: -77.502201 -- Successful
+
+INFO:root:Row 1004, lat: 37.523148 long: -77.454120 -- Successful
+
+INFO:root:Row 1005, lat: 37.820972 long: -122.260470 -- Successful
+
+INFO:root:Row 1006, lat: 37.551526 long: -77.445410 -- Successful
+
+INFO:root:Row 1007, lat: 37.815195 long: -122.263259 -- Successful
+
+INFO:root:Row 1008, lat: 37.554831 long: -77.459988 -- Successful
+
+INFO:root:Row 1009, lat: 37.555520 long: -77.461132 -- Successful
+
+INFO:root:Row 1010, lat: 37.555341 long: -77.460835 -- Successful
+
+INFO:root:Row 1011, lat: 37.556816 long: -77.462469 -- Successful
+
+INFO:root:Row 1012, lat: 37.555866 long: -77.472359 -- Successful
+
+INFO:root:Row 1013, lat: 37.556367 long: -77.470798 -- Successful
+
+INFO:root:Row 1014, lat: 37.554795 long: -77.464463 -- Successful
+
+INFO:root:Row 1015, lat: 37.461521 long: -77.444956 -- Successful
+
+INFO:root:Row 1016, lat: 37.462005 long: -77.445013 -- Successful
+
+INFO:root:Row 1017, lat: 37.837770 long: -122.205799 -- Successful
+
+INFO:root:Row 1018, lat: 37.546824 long: -77.430923 -- Successful
+
+INFO:root:Row 1019, lat: 37.570265 long: -77.486775 -- Successful
+
+INFO:root:Row 1020, lat: 37.554329 long: -77.476321 -- Successful
+
+INFO:root:Row 1021, lat: 37.558953 long: -77.455666 -- Successful
+
+INFO:root:Row 1022, lat: 37.504626 long: -77.439302 -- Successful
+
+INFO:root:Row 1023, lat: 37.553111 long: -77.437524 -- Successful
+
+INFO:root:Row 1024, lat: 37.548022 long: -77.405394 -- Successful
+
+INFO:root:Row 1025, lat: 37.556340 long: -77.483811 -- Successful
+
+INFO:root:Row 1026, lat: 37.466586 long: -77.464124 -- Successful
+
+INFO:root:Row 1027, lat: 37.548396 long: -77.466403 -- Successful
+
+INFO:root:Row 1028, lat: 37.548123 long: -77.466556 -- Successful
+
+INFO:root:Row 1029, lat: 37.549498 long: -77.469695 -- Successful
+
+INFO:root:Row 1030, lat: 37.796921 long: -122.253410 -- Successful
+
+INFO:root:Row 1031, lat: 37.515731 long: -77.496368 -- Successful
+
+INFO:root:Row 1032, lat: 37.563900 long: -77.487026 -- Successful
+
+INFO:root:Row 1033, lat: 37.535261 long: -77.440747 -- Successful
+
+INFO:root:Row 1034, lat: 37.547235 long: -77.464015 -- Successful
+
+INFO:root:Row 1035, lat: 37.547914 long: -77.468207 -- Successful
+
+INFO:root:Row 1036, lat: 37.547571 long: -77.467103 -- Successful
+
+INFO:root:Row 1037, lat: 37.548049 long: -77.484153 -- Successful
+
+INFO:root:Row 1038, lat: 37.548049 long: -77.484153 -- Successful
+
+INFO:root:Row 1039, lat: 37.551134 long: -77.586960 -- Successful
+
+INFO:root:Row 1040, lat: 37.550968 long: -77.447666 -- Successful
+
+INFO:root:Row 1041, lat: 37.549093 long: -77.471857 -- Successful
+
+INFO:root:Row 1042, lat: 37.586271 long: -77.530065 -- Successful
+
+INFO:root:Row 1043, lat: 37.566394 long: -77.476854 -- Successful
+
+INFO:root:Row 1044, lat: 37.550051 long: -77.476879 -- Successful
+
+INFO:root:Row 1045, lat: 37.565670 long: -77.478445 -- Successful
+
+INFO:root:Row 1046, lat: 37.799273 long: -122.218107 -- Successful
+
+INFO:root:Row 1047, lat: 37.553669 long: -77.474884 -- Successful
+
+INFO:root:Row 1048, lat: 37.573431 long: -77.483517 -- Successful
+
+INFO:root:Row 1049, lat: 37.516569 long: -77.483821 -- Successful
+
+INFO:root:Row 1050, lat: 37.514392 long: -77.454051 -- Successful
+
+INFO:root:Row 1051, lat: 37.500396 long: -77.436892 -- Successful
+
+INFO:root:Row 1052, lat: 37.586099 long: -77.528935 -- Successful
+
+INFO:root:Row 1053, lat: 37.507670 long: -77.471330 -- Successful
+
+INFO:root:Row 1054, lat: 37.510666 long: -77.462962 -- Successful
+
+INFO:root:Row 1055, lat: 37.532348 long: -77.410546 -- Successful
+
+INFO:root:Row 1056, lat: 37.529211 long: -77.410059 -- Successful
+
+INFO:root:Row 1057, lat: 37.575710 long: -77.455985 -- Successful
+
+INFO:root:Row 1058, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 1059, lat: 37.566719 long: -77.427853 -- Successful
+
+INFO:root:Row 1060, lat: 37.549248 long: -77.437576 -- Successful
+
+INFO:root:Row 1061, lat: 37.536480 long: -77.575529 -- Successful
+
+INFO:root:Row 1062, lat: 37.512162 long: -77.467884 -- Successful
+
+INFO:root:Row 1063, lat: 37.536914 long: -77.417384 -- Successful
+
+INFO:root:Row 1064, lat: 37.559880 long: -77.425808 -- Successful
+
+INFO:root:Row 1065, lat: 37.549043 long: -77.464611 -- Successful
+
+INFO:root:Row 1066, lat: 37.559250 long: -77.478219 -- Successful
+
+INFO:root:Row 1067, lat: 37.465599 long: -77.474958 -- Successful
+
+INFO:root:Row 1068, lat: 37.548718 long: -77.470104 -- Successful
+
+INFO:root:Row 1069, lat: 37.549333 long: -77.471501 -- Successful
+
+INFO:root:Row 1070, lat: 37.549441 long: -77.470993 -- Successful
+
+INFO:root:Row 1071, lat: 37.514950 long: -77.491689 -- Successful
+
+INFO:root:Row 1072, lat: 37.558259 long: -77.422564 -- Successful
+
+INFO:root:Row 1073, lat: 37.557551 long: -77.465542 -- Successful
+
+INFO:root:Row 1074, lat: 37.574125 long: -77.422606 -- Successful
+
+INFO:root:Row 1075, lat: 37.485448 long: -77.508766 -- Successful
+
+INFO:root:Row 1076, lat: 37.464793 long: -77.466842 -- Successful
+
+INFO:root:Row 1077, lat: 37.561034 long: -77.470649 -- Successful
+
+INFO:root:Row 1078, lat: 37.555584 long: -77.461235 -- Successful
+
+INFO:root:Row 1079, lat: 37.559775 long: -77.435748 -- Successful
+
+INFO:root:Row 1080, lat: 37.549507 long: -77.582809 -- Successful
+
+INFO:root:Row 1081, lat: 37.539323 long: -77.517912 -- Successful
+
+INFO:root:Row 1082, lat: 37.570697 long: -77.495789 -- Successful
+
+INFO:root:Row 1083, lat: 37.570956 long: -77.496296 -- Successful
+
+INFO:root:Row 1084, lat: 37.582782 long: -77.436424 -- Successful
+
+INFO:root:Row 1085, lat: 37.582950 long: -77.435551 -- Successful
+
+INFO:root:Row 1086, lat: 37.547644 long: -77.532814 -- Successful
+
+INFO:root:Row 1087, lat: 37.579575 long: -77.515969 -- Successful
+
+INFO:root:Row 1088, lat: 37.539265 long: -77.450799 -- Successful
+
+INFO:root:Row 1089, lat: 37.551753 long: -77.485308 -- Successful
+
+INFO:root:Row 1090, lat: 37.534463 long: -77.472843 -- Successful
+
+INFO:root:Row 1091, lat: 37.537577 long: -77.539677 -- Successful
+
+INFO:root:Row 1092, lat: 37.476295 long: -77.434119 -- Successful
+
+INFO:root:Row 1093, lat: 37.559377 long: -77.457173 -- Successful
+
+INFO:root:Row 1094, lat: 37.562980 long: -77.502227 -- Successful
+
+INFO:root:Row 1095, lat: 37.566421 long: -77.446502 -- Successful
+
+INFO:root:Row 1096, lat: 37.552369 long: -77.527730 -- Successful
+
+INFO:root:Row 1097, lat: 37.550901 long: -77.480326 -- Successful
+
+INFO:root:Row 1098, lat: 37.539378 long: -77.518978 -- Successful
+
+INFO:root:Row 1099, lat: 37.593514 long: -77.458373 -- Successful
+
+INFO:root:Row 1100, lat: 37.549219 long: -77.530248 -- Successful
+
+INFO:root:Row 1101, lat: 37.549510 long: -77.458260 -- Successful
+
+INFO:root:Row 1102, lat: 37.549219 long: -77.530248 -- Successful
+
+INFO:root:Row 1103, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 1104, lat: 37.590138 long: -77.440174 -- Successful
+
+INFO:root:Row 1105, lat: 37.574330 long: -77.435207 -- Successful
+
+INFO:root:Row 1106, lat: 37.531501 long: -77.433220 -- Successful
+
+INFO:root:Row 1107, lat: 37.551117 long: -77.447058 -- Successful
+
+INFO:root:Row 1108, lat: 37.545507 long: -77.416203 -- Successful
+
+INFO:root:Row 1109, lat: 37.546925 long: -77.414118 -- Successful
+
+INFO:root:Row 1110, lat: 37.548013 long: -77.412878 -- Successful
+
+INFO:root:Row 1111, lat: 37.548267 long: -77.412721 -- Successful
+
+INFO:root:Row 1112, lat: 37.545915 long: -77.414766 -- Successful
+
+INFO:root:Row 1113, lat: 37.536538 long: -77.470236 -- Successful
+
+INFO:root:Row 1114, lat: 37.562670 long: -77.433504 -- Successful
+
+INFO:root:Row 1115, lat: 37.553052 long: -77.558204 -- Successful
+
+INFO:root:Row 1116, lat: 37.548153 long: -77.444483 -- Successful
+
+INFO:root:Row 1117, lat: 37.527562 long: -77.488329 -- Successful
+
+INFO:root:Row 1118, lat: 37.481400 long: -77.470691 -- Successful
+
+INFO:root:Row 1119, lat: 37.466842 long: -77.464579 -- Successful
+
+INFO:root:Row 1120, lat: 37.470216 long: -77.483068 -- Successful
+
+INFO:root:Row 1121, lat: 41.292035 long: -72.932699 -- Successful
+
+INFO:root:Row 1122, lat: 37.521631 long: -77.478742 -- Successful
+
+INFO:root:Row 1123, lat: 37.804203 long: -122.251968 -- Successful
+
+INFO:root:Row 1124, lat: 37.762540 long: -122.151450 -- Successful
+
+INFO:root:Row 1125, lat: 37.743207 long: -122.147243 -- Successful
+
+INFO:root:Row 1126, lat: 37.530806 long: -77.414175 -- Successful
+
+INFO:root:Row 1127, lat: 37.530806 long: -77.414175 -- Successful
+
+INFO:root:Row 1128, lat: 37.555723 long: -77.478358 -- Successful
+
+INFO:root:Row 1129, lat: 37.545637 long: -77.431406 -- Successful
+
+INFO:root:Row 1130, lat: 37.568040 long: -77.437418 -- Successful
+
+INFO:root:Row 1131, lat: 37.466586 long: -77.464124 -- Successful
+
+INFO:root:Row 1132, lat: 37.522498 long: -77.435111 -- Successful
+
+INFO:root:Row 1133, lat: 37.475147 long: -77.446415 -- Successful
+
+INFO:root:Row 1134, lat: 37.549368 long: -77.467111 -- Successful
+
+INFO:root:Row 1135, lat: 37.553387 long: -77.472096 -- Successful
+
+INFO:root:Row 1136, lat: 37.552202 long: -77.468424 -- Successful
+
+INFO:root:Row 1137, lat: 37.550422 long: -77.464454 -- Successful
+
+INFO:root:Row 1138, lat: 37.548085 long: -77.458253 -- Successful
+
+INFO:root:Row 1139, lat: 37.547835 long: -77.457194 -- Successful
+
+INFO:root:Row 1140, lat: 37.549688 long: -77.454696 -- Successful
+
+INFO:root:Row 1141, lat: 41.312302 long: -72.917137 -- Successful
+
+INFO:root:Row 1142, lat: 37.534446 long: -77.585495 -- Successful
+
+INFO:root:Row 1143, lat: 37.558124 long: -77.549734 -- Successful
+
+INFO:root:Row 1144, lat: 37.524084 long: -77.489327 -- Successful
+
+INFO:root:Row 1145, lat: 37.476295 long: -77.434119 -- Successful
+
+INFO:root:Row 1146, lat: 41.327430 long: -72.960474 -- Successful
+
+INFO:root:Row 1147, lat: 37.553920 long: -77.564561 -- Successful
+
+INFO:root:Row 1148, lat: 37.471665 long: -77.440898 -- Successful
+
+INFO:root:Row 1149, lat: 37.537638 long: -77.409991 -- Successful
+
+INFO:root:Row 1150, lat: 41.303688 long: -72.888928 -- Successful
+
+INFO:root:Row 1151, lat: 37.525679 long: -77.492324 -- Successful
+
+INFO:root:Row 1152, lat: 37.508172 long: -77.444365 -- Successful
+
+INFO:root:Row 1153, lat: 37.557658 long: -77.463683 -- Successful
+
+INFO:root:Row 1154, lat: 37.549830 long: -77.488744 -- Successful
+
+INFO:root:Row 1155, lat: 37.542566 long: -77.528664 -- Successful
+
+INFO:root:Row 1156, lat: 37.517147 long: -77.488873 -- Successful
+
+INFO:root:Row 1157, lat: 37.579300 long: -77.415809 -- Successful
+
+INFO:root:Row 1158, lat: 37.516028 long: -77.498028 -- Successful
+
+INFO:root:Row 1159, lat: 37.527700 long: -77.489026 -- Successful
+
+INFO:root:Row 1160, lat: 37.542650 long: -77.439083 -- Successful
+
+INFO:root:Row 1161, lat: 37.560343 long: -77.432598 -- Successful
+
+INFO:root:Row 1162, lat: 37.545294 long: -77.468514 -- Successful
+
+INFO:root:Row 1163, lat: 37.566659 long: -77.434204 -- Successful
+
+INFO:root:Row 1164, lat: 37.535685 long: -77.408252 -- Successful
+
+INFO:root:Row 1165, lat: 37.593829 long: -77.460745 -- Successful
+
+INFO:root:Row 1166, lat: 37.523235 long: -77.497025 -- Successful
+
+INFO:root:Row 1167, lat: 37.557658 long: -77.463683 -- Successful
+
+INFO:root:Row 1168, lat: 41.305082 long: -72.930212 -- Successful
+
+INFO:root:Row 1169, lat: 37.506312 long: -77.437735 -- Successful
+
+INFO:root:Row 1170, lat: 41.303345 long: -72.923988 -- Successful
+
+INFO:root:Row 1171, lat: 37.754277 long: -122.197795 -- Successful
+
+INFO:root:Row 1172, lat: 37.578631 long: -77.427129 -- Successful
+
+INFO:root:Row 1173, lat: 37.557135 long: -77.486250 -- Successful
+
+INFO:root:Row 1174, lat: 37.547835 long: -77.457194 -- Successful
+
+INFO:root:Row 1175, lat: 37.551465 long: -77.415891 -- Successful
+
+INFO:root:Row 1176, lat: 37.500758 long: -77.440603 -- Successful
+
+INFO:root:Row 1177, lat: 37.560720 long: -77.490495 -- Successful
+
+INFO:root:Row 1178, lat: 37.533776 long: -77.399559 -- Successful
+
+INFO:root:Row 1179, lat: 37.541650 long: -77.453133 -- Successful
+
+INFO:root:Row 1180, lat: 37.568294 long: -77.438558 -- Successful
+
+INFO:root:Row 1181, lat: 37.572653 long: -77.442446 -- Successful
+
+INFO:root:Row 1182, lat: 37.572396 long: -77.424372 -- Successful
+
+INFO:root:Row 1183, lat: 37.560740 long: -77.476272 -- Successful
+
+INFO:root:Row 1184, lat: 37.561086 long: -77.476992 -- Successful
+
+INFO:root:Row 1185, lat: 37.575519 long: -77.429372 -- Successful
+
+INFO:root:Row 1186, lat: 37.471436 long: -77.498195 -- Successful
+
+INFO:root:Row 1187, lat: 37.534767 long: -77.434047 -- Successful
+
+INFO:root:Row 1188, lat: 37.529077 long: -77.500573 -- Successful
+
+INFO:root:Row 1189, lat: 37.516566 long: -77.492167 -- Successful
+
+INFO:root:Row 1190, lat: 37.487393 long: -77.477420 -- Successful
+
+INFO:root:Row 1191, lat: 37.470216 long: -77.483068 -- Successful
+
+INFO:root:Row 1192, lat: 37.484013 long: -77.467424 -- Successful
+
+INFO:root:Row 1193, lat: 37.585643 long: -77.530078 -- Successful
+
+INFO:root:Row 1194, lat: 37.570601 long: -77.504244 -- Successful
+
+INFO:root:Row 1195, lat: 37.569475 long: -77.426363 -- Successful
+
+INFO:root:Row 1196, lat: 37.522851 long: -77.484729 -- Successful
+
+INFO:root:Row 1197, lat: 37.498733 long: -77.438787 -- Successful
+
+INFO:root:Row 1198, lat: 37.499007 long: -77.439038 -- Successful
+
+INFO:root:Row 1199, lat: 37.573503 long: -77.427206 -- Successful
+
+INFO:root:Row 1200, lat: 37.482118 long: -77.489477 -- Successful
+
+INFO:root:Row 1201, lat: 37.575944 long: -77.522698 -- Successful
+
+INFO:root:Row 1202, lat: 37.551126 long: -77.476853 -- Successful
+
+INFO:root:Row 1203, lat: 37.566369 long: -77.435611 -- Successful
+
+INFO:root:Row 1204, lat: 37.551296 long: -77.477273 -- Successful
+
+INFO:root:Row 1205, lat: 37.567705 long: -77.431342 -- Successful
+
+INFO:root:Row 1206, lat: 41.335187 long: -72.935033 -- Successful
+
+INFO:root:Row 1207, lat: 37.576673 long: -77.504033 -- Successful
+
+INFO:root:Row 1208, lat: 37.547079 long: -77.444187 -- Successful
+
+INFO:root:Row 1209, lat: 37.542918 long: -77.394712 -- Successful
+
+INFO:root:Row 1210, lat: 37.556198 long: -77.472620 -- Successful
+
+INFO:root:Row 1211, lat: 37.585317 long: -77.443983 -- Successful
+
+INFO:root:Row 1212, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 1213, lat: 37.546310 long: -77.472602 -- Successful
+
+INFO:root:Row 1214, lat: 37.546112 long: -77.438553 -- Successful
+
+INFO:root:Row 1215, lat: 41.309083 long: -72.889827 -- Successful
+
+INFO:root:Row 1216, lat: 41.914086 long: -87.683204 -- Successful
+
+INFO:root:Row 1217, lat: 37.591610 long: -77.458214 -- Successful
+
+INFO:root:Row 1218, lat: 37.526771 long: -77.494454 -- Successful
+
+INFO:root:Row 1219, lat: 37.546164 long: -77.445380 -- Successful
+
+INFO:root:Row 1220, lat: 37.590070 long: -77.462601 -- Successful
+
+INFO:root:Row 1221, lat: 37.573791 long: -77.492685 -- Successful
+
+INFO:root:Row 1222, lat: 37.588900 long: -77.462262 -- Successful
+
+INFO:root:Row 1223, lat: 37.533454 long: -77.419008 -- Successful
+
+INFO:root:Row 1224, lat: 37.559775 long: -77.435748 -- Successful
+
+INFO:root:Row 1225, lat: 37.508629 long: -77.477931 -- Successful
+
+INFO:root:Row 1226, lat: 37.508709 long: -77.459547 -- Successful
+
+INFO:root:Row 1227, lat: 37.517361 long: -77.497926 -- Successful
+
+INFO:root:Row 1228, lat: 37.470216 long: -77.483068 -- Successful
+
+INFO:root:Row 1229, lat: 41.303842 long: -72.919630 -- Successful
+
+INFO:root:Row 1230, lat: 37.552984 long: -77.472678 -- Successful
+
+INFO:root:Row 1231, lat: 37.576902 long: -77.495896 -- Successful
+
+INFO:root:Row 1232, lat: 37.580996 long: -77.455139 -- Successful
+
+INFO:root:Row 1233, lat: 37.577691 long: -77.523501 -- Successful
+
+INFO:root:Row 1234, lat: 37.578018 long: -77.507166 -- Successful
+
+INFO:root:Row 1235, lat: 37.521917 long: -77.447804 -- Successful
+
+INFO:root:Row 1236, lat: 37.556949 long: -77.482956 -- Successful
+
+INFO:root:Row 1237, lat: 37.596786 long: -77.453582 -- Successful
+
+INFO:root:Row 1238, lat: 37.562592 long: -77.494520 -- Successful
+
+INFO:root:Row 1239, lat: 37.564921 long: -77.490667 -- Successful
+
+INFO:root:Row 1240, lat: 37.563025 long: -77.494980 -- Successful
+
+INFO:root:Row 1241, lat: 37.562592 long: -77.494520 -- Successful
+
+INFO:root:Row 1242, lat: 41.309438 long: -72.927121 -- Successful
+
+INFO:root:Row 1243, lat: 37.516417 long: -77.488045 -- Successful
+
+INFO:root:Row 1244, lat: 37.514330 long: -77.497006 -- Successful
+
+INFO:root:Row 1245, lat: 37.556222 long: -77.580906 -- Successful
+
+INFO:root:Row 1246, lat: 37.556003 long: -77.580578 -- Successful
+
+INFO:root:Row 1247, lat: 37.488979 long: -77.485825 -- Successful
+
+INFO:root:Row 1248, lat: 37.488979 long: -77.485825 -- Successful
+
+INFO:root:Row 1249, lat: 37.487033 long: -77.444085 -- Successful
+
+INFO:root:Row 1250, lat: 37.534905 long: -77.470174 -- Successful
+
+INFO:root:Row 1251, lat: 37.790803 long: -122.253338 -- Successful
+
+INFO:root:Row 1252, lat: 37.555218 long: -77.417796 -- Successful
+
+INFO:root:Row 1253, lat: 37.554722 long: -77.416743 -- Successful
+
+INFO:root:Row 1254, lat: 37.555825 long: -77.417798 -- Successful
+
+INFO:root:Row 1255, lat: 37.555349 long: -77.414756 -- Successful
+
+INFO:root:Row 1256, lat: 37.552059 long: -77.463597 -- Successful
+
+INFO:root:Row 1257, lat: 37.518451 long: -77.480834 -- Successful
+
+INFO:root:Row 1258, lat: 37.567649 long: -77.438088 -- Successful
+
+INFO:root:Row 1259, lat: 37.800154 long: -122.269335 -- Successful
+
+INFO:root:Row 1260, lat: 37.551290 long: -77.448740 -- Successful
+
+INFO:root:Row 1261, lat: 37.577124 long: -77.489286 -- Successful
+
+INFO:root:Row 1262, lat: 37.806786 long: -122.255943 -- Successful
+
+INFO:root:Row 1263, lat: 37.519596 long: -77.444024 -- Successful
+
+INFO:root:Row 1264, lat: 37.558620 long: -77.479906 -- Successful
+
+INFO:root:Row 1265, lat: 37.553843 long: -77.475919 -- Successful
+
+INFO:root:Row 1266, lat: 37.551384 long: -77.495259 -- Successful
+
+INFO:root:Row 1267, lat: 37.541101 long: -77.466902 -- Successful
+
+INFO:root:Row 1268, lat: 37.541342 long: -77.462582 -- Successful
+
+INFO:root:Row 1269, lat: 37.589546 long: -77.442676 -- Successful
+
+INFO:root:Row 1270, lat: 37.526771 long: -77.494454 -- Successful
+
+INFO:root:Row 1271, lat: 37.518860 long: -77.524717 -- Successful
+
+INFO:root:Row 1272, lat: 37.553843 long: -77.475919 -- Successful
+
+INFO:root:Row 1273, lat: 37.546902 long: -77.436559 -- Successful
+
+INFO:root:Row 1274, lat: 37.556441 long: -77.549206 -- Successful
+
+INFO:root:Row 1275, lat: 37.516083 long: -77.523202 -- Successful
+
+INFO:root:Row 1276, lat: 37.520100 long: -77.499816 -- Successful
+
+INFO:root:Row 1277, lat: 37.498066 long: -77.438134 -- Successful
+
+INFO:root:Row 1278, lat: 37.549064 long: -77.412778 -- Successful
+
+INFO:root:Row 1279, lat: 37.576382 long: -77.423347 -- Successful
+
+INFO:root:Row 1280, lat: 37.575222 long: -77.421631 -- Successful
+
+INFO:root:Row 1281, lat: 37.575543 long: -77.423849 -- Successful
+
+INFO:root:Row 1282, lat: 37.574125 long: -77.423983 -- Successful
+
+INFO:root:Row 1283, lat: 37.504561 long: -77.467611 -- Successful
+
+INFO:root:Row 1284, lat: 37.562176 long: -77.472706 -- Successful
+
+INFO:root:Row 1285, lat: 37.505539 long: -77.465781 -- Successful
+
+INFO:root:Row 1286, lat: 37.578688 long: -77.427453 -- Successful
+
+INFO:root:Row 1287, lat: 37.575113 long: -77.434888 -- Successful
+
+INFO:root:Row 1288, lat: 37.572390 long: -77.436554 -- Successful
+
+INFO:root:Row 1289, lat: 37.493007 long: -77.475318 -- Successful
+
+INFO:root:Row 1290, lat: 37.531633 long: -77.411225 -- Successful
+
+INFO:root:Row 1291, lat: 37.517263 long: -77.477593 -- Successful
+
+INFO:root:Row 1292, lat: 37.562279 long: -77.475061 -- Successful
+
+INFO:root:Row 1293, lat: 37.543714 long: -77.521806 -- Successful
+
+INFO:root:Row 1294, lat: 37.531676 long: -77.422935 -- Successful
+
+INFO:root:Row 1295, lat: 37.534782 long: -77.411798 -- Successful
+
+INFO:root:Row 1296, lat: 37.561968 long: -77.455478 -- Successful
+
+INFO:root:Row 1297, lat: 37.553817 long: -77.475854 -- Successful
+
+INFO:root:Row 1298, lat: 37.546803 long: -77.533421 -- Successful
+
+INFO:root:Row 1299, lat: 37.498938 long: -77.441892 -- Successful
+
+INFO:root:Row 1300, lat: 37.500758 long: -77.440603 -- Successful
+
+INFO:root:Row 1301, lat: 37.518618 long: -77.467454 -- Successful
+
+INFO:root:Row 1302, lat: 37.471677 long: -77.476281 -- Successful
+
+INFO:root:Row 1303, lat: 37.517987 long: -77.468487 -- Successful
+
+INFO:root:Row 1304, lat: 41.299015 long: -72.932067 -- Successful
+
+INFO:root:Row 1305, lat: 37.551931 long: -77.463005 -- Successful
+
+INFO:root:Row 1306, lat: 37.507923 long: -77.447814 -- Successful
+
+INFO:root:Row 1307, lat: 37.598488 long: -77.450115 -- Successful
+
+INFO:root:Row 1308, lat: 37.580243 long: -77.438666 -- Successful
+
+INFO:root:Row 1309, lat: 37.564150 long: -77.418676 -- Successful
+
+INFO:root:Row 1310, lat: 37.542053 long: -77.469500 -- Successful
+
+INFO:root:Row 1311, lat: 41.322343 long: -72.908339 -- Successful
+
+INFO:root:Row 1312, lat: 37.511280 long: -77.470150 -- Successful
+
+INFO:root:Row 1313, lat: 37.571203 long: -77.488348 -- Successful
+
+INFO:root:Row 1314, lat: 37.540479 long: -77.418676 -- Successful
+
+INFO:root:Row 1315, lat: 41.330708 long: -72.931829 -- Successful
+
+INFO:root:Row 1316, lat: 37.574805 long: -77.415422 -- Successful
+
+INFO:root:Row 1317, lat: 41.315051 long: -72.890392 -- Successful
+
+INFO:root:Row 1318, lat: 41.314954 long: -72.890392 -- Successful
+
+INFO:root:Row 1319, lat: 37.500524 long: -77.438774 -- Successful
+
+INFO:root:Row 1320, lat: 37.502356 long: -77.437184 -- Successful
+
+INFO:root:Row 1321, lat: 37.487470 long: -77.443679 -- Successful
+
+INFO:root:Row 1322, lat: 37.565058 long: -77.486422 -- Successful
+
+INFO:root:Row 1323, lat: 37.529404 long: -77.486422 -- Successful
+
+INFO:root:Row 1324, lat: 37.523723 long: -77.506540 -- Successful
+
+INFO:root:Row 1325, lat: 41.299470 long: -72.939220 -- Successful
+
+INFO:root:Row 1326, lat: 37.550503 long: -77.458080 -- Successful
+
+INFO:root:Row 1327, lat: 37.536339 long: -77.517677 -- Successful
+
+INFO:root:Row 1328, lat: 37.573884 long: -77.424285 -- Successful
+
+INFO:root:Row 1329, lat: 37.824887 long: -122.252834 -- Successful
+
+INFO:root:Row 1330, lat: 41.324696 long: -72.968460 -- Successful
+
+INFO:root:Row 1331, lat: 37.566015 long: -77.424829 -- Successful
+
+INFO:root:Row 1332, lat: 37.577067 long: -77.427657 -- Successful
+
+INFO:root:Row 1333, lat: 41.258032 long: -72.890849 -- Successful
+
+INFO:root:Row 1334, lat: 37.546270 long: -77.416451 -- Successful
+
+INFO:root:Row 1335, lat: 37.534526 long: -77.413783 -- Successful
+
+INFO:root:Row 1336, lat: 37.533092 long: -77.403339 -- Successful
+
+INFO:root:Row 1337, lat: 37.533092 long: -77.403339 -- Successful
+
+INFO:root:Row 1338, lat: 37.537832 long: -77.438033 -- Successful
+
+INFO:root:Row 1339, lat: 37.551308 long: -77.476388 -- Successful
+
+INFO:root:Row 1340, lat: 37.558619 long: -77.431215 -- Successful
+
+INFO:root:Row 1341, lat: 37.540808 long: -77.451334 -- Successful
+
+INFO:root:Row 1342, lat: 37.517823 long: -77.452855 -- Successful
+
+INFO:root:Row 1343, lat: 37.513984 long: -77.399537 -- Successful
+
+INFO:root:Row 1344, lat: 41.305481 long: -72.924396 -- Successful
+
+INFO:root:Row 1345, lat: 37.534747 long: -77.509259 -- Successful
+
+INFO:root:Row 1346, lat: 37.536257 long: -77.435327 -- Successful
+
+INFO:root:Row 1347, lat: 37.809216 long: -122.194051 -- Successful
+
+INFO:root:Row 1348, lat: 37.549595 long: -77.467746 -- Successful
+
+INFO:root:Row 1349, lat: 37.484750 long: -77.440332 -- Successful
+
+INFO:root:Row 1350, lat: 37.546181 long: -77.536426 -- Successful
+
+INFO:root:Row 1351, lat: 37.546640 long: -77.536673 -- Successful
+
+INFO:root:Row 1352, lat: 41.331638 long: -72.919053 -- Successful
+
+INFO:root:Row 1353, lat: 37.465038 long: -77.495240 -- Successful
+
+INFO:root:Row 1354, lat: 37.543042 long: -77.405856 -- Successful
+
+INFO:root:Row 1355, lat: 37.534353 long: -77.424616 -- Successful
+
+INFO:root:Row 1356, lat: 37.573822 long: -77.419178 -- Successful
+
+INFO:root:Row 1357, lat: 37.574330 long: -77.435207 -- Successful
+
+INFO:root:Row 1358, lat: 37.546480 long: -77.414444 -- Successful
+
+INFO:root:Row 1359, lat: 37.542728 long: -77.394616 -- Successful
+
+INFO:root:Row 1360, lat: 41.305501 long: -72.933617 -- Successful
+
+INFO:root:Row 1361, lat: 37.548569 long: -77.466127 -- Successful
+
+INFO:root:Row 1362, lat: 37.486246 long: -77.497450 -- Successful
+
+INFO:root:Row 1363, lat: 37.572315 long: -77.420737 -- Successful
+
+INFO:root:Row 1364, lat: 37.513568 long: -77.459652 -- Successful
+
+INFO:root:Row 1365, lat: 37.520920 long: -77.522322 -- Successful
+
+INFO:root:Row 1366, lat: 37.499659 long: -77.466396 -- Successful
+
+INFO:root:Row 1367, lat: 41.262327 long: -72.893605 -- Successful
+
+INFO:root:Row 1368, lat: 41.262577 long: -72.892186 -- Successful
+
+INFO:root:Row 1369, lat: 37.516189 long: -77.397801 -- Successful
+
+INFO:root:Row 1370, lat: 37.492563 long: -77.513442 -- Successful
+
+INFO:root:Row 1371, lat: 37.570746 long: -77.417929 -- Successful
+
+INFO:root:Row 1372, lat: 37.570922 long: -77.417788 -- Successful
+
+INFO:root:Row 1373, lat: 37.478638 long: -77.504187 -- Successful
+
+INFO:root:Row 1374, lat: 37.566767 long: -77.468101 -- Successful
+
+INFO:root:Row 1375, lat: 37.546513 long: -77.467475 -- Successful
+
+INFO:root:Row 1376, lat: 37.523594 long: -77.493184 -- Successful
+
+INFO:root:Row 1377, lat: 37.515751 long: -77.524843 -- Successful
+
+INFO:root:Row 1378, lat: 37.568001 long: -77.488372 -- Successful
+
+INFO:root:Row 1379, lat: 37.568294 long: -77.438558 -- Successful
+
+INFO:root:Row 1380, lat: 37.507923 long: -77.447814 -- Successful
+
+INFO:root:Row 1381, lat: 37.533464 long: -77.449736 -- Successful
+
+INFO:root:Row 1382, lat: 37.578190 long: -77.418779 -- Successful
+
+INFO:root:Row 1383, lat: 41.327343 long: -72.916992 -- Successful
+
+INFO:root:Row 1384, lat: 37.525084 long: -77.492661 -- Successful
+
+INFO:root:Row 1385, lat: 37.529237 long: -77.402074 -- Successful
+
+INFO:root:Row 1386, lat: 37.486000 long: -77.489329 -- Successful
+
+INFO:root:Row 1387, lat: 37.557216 long: -77.427732 -- Successful
+
+INFO:root:Row 1388, lat: 37.486822 long: -77.469205 -- Successful
+
+INFO:root:Row 1389, lat: 37.529262 long: -77.406336 -- Successful
+
+INFO:root:Row 1390, lat: 37.548897 long: -77.467949 -- Successful
+
+INFO:root:Row 1391, lat: 37.568222 long: -77.478068 -- Successful
+
+INFO:root:Row 1392, lat: 37.538986 long: -77.465520 -- Successful
+
+INFO:root:Row 1393, lat: 37.529192 long: -77.402930 -- Successful
+
+INFO:root:Row 1394, lat: 37.541650 long: -77.520108 -- Successful
+
+INFO:root:Row 1395, lat: 41.326816 long: -72.936491 -- Successful
+
+INFO:root:Row 1396, lat: 37.519483 long: -77.502459 -- Successful
+
+INFO:root:Row 1397, lat: 37.573884 long: -77.424285 -- Successful
+
+INFO:root:Row 1398, lat: 37.498702 long: -77.475948 -- Successful
+
+INFO:root:Row 1399, lat: 37.562067 long: -77.460357 -- Successful
+
+INFO:root:Row 1400, lat: 37.579819 long: -77.508612 -- Successful
+
+INFO:root:Row 1401, lat: 37.562893 long: -77.495748 -- Successful
+
+INFO:root:Row 1402, lat: 37.486199 long: -77.496004 -- Successful
+
+INFO:root:Row 1403, lat: 37.568122 long: -77.492858 -- Successful
+
+INFO:root:Row 1404, lat: 37.571362 long: -77.499817 -- Successful
+
+INFO:root:Row 1405, lat: 37.570680 long: -77.497818 -- Successful
+
+INFO:root:Row 1406, lat: 37.576867 long: -77.509606 -- Successful
+
+INFO:root:Row 1407, lat: 37.565986 long: -77.480615 -- Successful
+
+INFO:root:Row 1408, lat: 37.568833 long: -77.504935 -- Successful
+
+INFO:root:Row 1409, lat: 37.568833 long: -77.504935 -- Successful
+
+INFO:root:Row 1410, lat: 37.505031 long: -77.436551 -- Successful
+
+INFO:root:Row 1411, lat: 41.327107 long: -72.961546 -- Successful
+
+INFO:root:Row 1412, lat: 37.561790 long: -77.432538 -- Successful
+
+INFO:root:Row 1413, lat: 37.778967 long: -122.179909 -- Successful
+
+INFO:root:Row 1414, lat: 37.586380 long: -77.528293 -- Successful
+
+INFO:root:Row 1415, lat: 37.531102 long: -77.413005 -- Successful
+
+INFO:root:Row 1416, lat: 41.310452 long: -72.951192 -- Successful
+
+INFO:root:Row 1417, lat: 37.466310 long: -77.499332 -- Successful
+
+INFO:root:Row 1418, lat: 41.298437 long: -72.929179 -- Successful
+
+INFO:root:Row 1419, lat: 37.545266 long: -77.457579 -- Successful
+
+INFO:root:Row 1420, lat: 37.546396 long: -77.457231 -- Successful
+
+INFO:root:Row 1421, lat: 37.837730 long: -122.254166 -- Successful
+
+INFO:root:Row 1422, lat: 37.803547 long: -122.291214 -- Successful
+
+INFO:root:Row 1423, lat: 37.548799 long: -77.456204 -- Successful
+
+INFO:root:Row 1424, lat: 41.307262 long: -72.924095 -- Successful
+
+INFO:root:Row 1425, lat: 37.595856 long: -77.457516 -- Successful
+
+INFO:root:Row 1426, lat: 41.328100 long: -72.981285 -- Successful
+
+INFO:root:Row 1427, lat: 37.555409 long: -77.453342 -- Successful
+
+INFO:root:Row 1428, lat: 37.555393 long: -77.452270 -- Successful
+
+INFO:root:Row 1429, lat: 37.498295 long: -77.440672 -- Successful
+
+INFO:root:Row 1430, lat: 37.491548 long: -77.466946 -- Successful
+
+INFO:root:Row 1431, lat: 41.334404 long: -72.938425 -- Successful
+
+INFO:root:Row 1432, lat: 41.316899 long: -72.912205 -- Successful
+
+INFO:root:Row 1433, lat: 37.548609 long: -77.434323 -- Successful
+
+INFO:root:Row 1434, lat: 41.333421 long: -72.936744 -- Successful
+
+INFO:root:Row 1435, lat: 37.828217 long: -122.268761 -- Successful
+
+INFO:root:Row 1436, lat: 37.827007 long: -122.269325 -- Successful
+
+INFO:root:Row 1437, lat: 41.299933 long: -72.925817 -- Successful
+
+INFO:root:Row 1438, lat: 41.301359 long: -72.924429 -- Successful
+
+INFO:root:Row 1439, lat: 37.536660 long: -77.510869 -- Successful
+
+INFO:root:Row 1440, lat: 37.513976 long: -77.469227 -- Successful
+
+INFO:root:Row 1441, lat: 37.514037 long: -77.468569 -- Successful
+
+INFO:root:Row 1442, lat: 37.513869 long: -77.468621 -- Successful
+
+INFO:root:Row 1443, lat: 37.833535 long: -122.252948 -- Successful
+
+INFO:root:Row 1444, lat: 37.811132 long: -122.245377 -- Successful
+
+INFO:root:Row 1445, lat: 37.828501 long: -122.189636 -- Successful
+
+INFO:root:Row 1446, lat: 37.527969 long: -77.419998 -- Successful
+
+INFO:root:Row 1447, lat: 41.304284 long: -72.923008 -- Successful
+
+INFO:root:Row 1448, lat: 37.843801 long: -122.244535 -- Successful
+
+INFO:root:Row 1449, lat: 37.532117 long: -77.395505 -- Successful
+
+INFO:root:Row 1450, lat: 37.530048 long: -77.417206 -- Successful
+
+INFO:root:Row 1451, lat: 37.530048 long: -77.417206 -- Successful
+
+INFO:root:Row 1452, lat: 37.492039 long: -77.517397 -- Successful
+
+INFO:root:Row 1453, lat: 37.594486 long: -77.447820 -- Successful
+
+INFO:root:Row 1454, lat: 37.542230 long: -77.485832 -- Successful
+
+INFO:root:Row 1455, lat: 37.551683 long: -77.409307 -- Successful
+
+INFO:root:Row 1456, lat: 37.552446 long: -77.440181 -- Successful
+
+INFO:root:Row 1457, lat: 37.516016 long: -77.511877 -- Successful
+
+INFO:root:Row 1458, lat: 37.503108 long: -77.444751 -- Successful
+
+INFO:root:Row 1459, lat: 37.560531 long: -77.482020 -- Successful
+
+INFO:root:Row 1460, lat: 37.575699 long: -77.507261 -- Successful
+
+INFO:root:Row 1461, lat: 37.544748 long: -77.439742 -- Successful
+
+INFO:root:Row 1462, lat: 37.510205 long: -77.510044 -- Successful
+
+INFO:root:Row 1463, lat: 37.496826 long: -77.507658 -- Successful
+
+INFO:root:Row 1464, lat: 37.513307 long: -77.404100 -- Successful
+
+INFO:root:Row 1465, lat: 37.509013 long: -77.441050 -- Successful
+
+INFO:root:Row 1466, lat: 37.506344 long: -77.445254 -- Successful
+
+INFO:root:Row 1467, lat: 37.510507 long: -77.438978 -- Successful
+
+INFO:root:Row 1468, lat: 37.504519 long: -77.438592 -- Successful
+
+INFO:root:Row 1469, lat: 37.509085 long: -77.464675 -- Successful
+
+INFO:root:Row 1470, lat: 37.555553 long: -77.469356 -- Successful
+
+INFO:root:Row 1471, lat: 41.316900 long: -72.908442 -- Successful
+
+INFO:root:Row 1472, lat: 37.584450 long: -77.525455 -- Successful
+
+INFO:root:Row 1473, lat: 37.568257 long: -77.485060 -- Successful
+
+INFO:root:Row 1474, lat: 37.527592 long: -77.483546 -- Successful
+
+INFO:root:Row 1475, lat: 37.466842 long: -77.464579 -- Successful
+
+INFO:root:Row 1476, lat: 37.470508 long: -77.472597 -- Successful
+
+INFO:root:Row 1477, lat: 37.537329 long: -77.412114 -- Successful
+
+INFO:root:Row 1478, lat: 37.471436 long: -77.498195 -- Successful
+
+INFO:root:Row 1479, lat: 37.470314 long: -77.481770 -- Successful
+
+INFO:root:Row 1480, lat: 37.553346 long: -77.474463 -- Successful
+
+INFO:root:Row 1481, lat: 37.553652 long: -77.473708 -- Successful
+
+INFO:root:Row 1482, lat: 37.548918 long: -77.471421 -- Successful
+
+INFO:root:Row 1483, lat: 37.547884 long: -77.467764 -- Successful
+
+INFO:root:Row 1484, lat: 37.547655 long: -77.467947 -- Successful
+
+INFO:root:Row 1485, lat: 37.547717 long: -77.467671 -- Successful
+
+INFO:root:Row 1486, lat: 37.517792 long: -77.492994 -- Successful
+
+INFO:root:Row 1487, lat: 37.555762 long: -77.467799 -- Successful
+
+INFO:root:Row 1488, lat: 37.550627 long: -77.472242 -- Successful
+
+INFO:root:Row 1489, lat: 37.550725 long: -77.463396 -- Successful
+
+INFO:root:Row 1490, lat: 37.545467 long: -77.409923 -- Successful
+
+INFO:root:Row 1491, lat: 37.541141 long: -77.443411 -- Successful
+
+INFO:root:Row 1492, lat: 37.548378 long: -77.400787 -- Successful
+
+INFO:root:Row 1493, lat: 37.576018 long: -77.434015 -- Successful
+
+INFO:root:Row 1494, lat: 37.558322 long: -77.455743 -- Successful
+
+INFO:root:Row 1495, lat: 37.555574 long: -77.469437 -- Successful
+
+INFO:root:Row 1496, lat: 37.570956 long: -77.496296 -- Successful
+
+INFO:root:Row 1497, lat: 37.550672 long: -77.413737 -- Successful
+
+INFO:root:Row 1498, lat: 37.555997 long: -77.452068 -- Successful
+
+INFO:root:Row 1499, lat: 37.549797 long: -77.471588 -- Successful
+
+INFO:root:Row 1500, lat: 37.513635 long: -77.465409 -- Successful
+
+INFO:root:Row 1501, lat: 37.566806 long: -77.446446 -- Successful
+
+INFO:root:Row 1502, lat: 37.512249 long: -77.468340 -- Successful
+
+INFO:root:Row 1503, lat: 37.535918 long: -77.408645 -- Successful
+
+INFO:root:Row 1504, lat: 37.535939 long: -77.402400 -- Successful
+
+INFO:root:Row 1505, lat: 37.522878 long: -77.502410 -- Successful
+
+INFO:root:Row 1506, lat: 37.471243 long: -77.481744 -- Successful
+
+INFO:root:Row 1507, lat: 37.486886 long: -77.473766 -- Successful
+
+INFO:root:Row 1508, lat: 37.485776 long: -77.472918 -- Successful
+
+INFO:root:Row 1509, lat: 37.555792 long: -77.458361 -- Successful
+
+INFO:root:Row 1510, lat: 37.540962 long: -77.403740 -- Successful
+
+INFO:root:Row 1511, lat: 37.557831 long: -77.484762 -- Successful
+
+INFO:root:Row 1512, lat: 37.558647 long: -77.530857 -- Successful
+
+INFO:root:Row 1513, lat: 37.570517 long: -77.421726 -- Successful
+
+INFO:root:Row 1514, lat: 37.578275 long: -77.517908 -- Successful
+
+INFO:root:Row 1515, lat: 37.509649 long: -77.463059 -- Successful
+
+INFO:root:Row 1516, lat: 37.503540 long: -77.469767 -- Successful
+
+INFO:root:Row 1517, lat: 37.582662 long: -77.466639 -- Successful
+
+INFO:root:Row 1518, lat: 37.549128 long: -77.550828 -- Successful
+
+INFO:root:Row 1519, lat: 37.503219 long: -77.468931 -- Successful
+
+INFO:root:Row 1520, lat: 37.510312 long: -77.459247 -- Successful
+
+INFO:root:Row 1521, lat: 37.512308 long: -77.492840 -- Successful
+
+INFO:root:Row 1522, lat: 37.504167 long: -77.481163 -- Successful
+
+INFO:root:Row 1523, lat: 37.503335 long: -77.481192 -- Successful
+
+INFO:root:Row 1524, lat: 37.551799 long: -77.409816 -- Successful
+
+INFO:root:Row 1525, lat: 37.503219 long: -77.468931 -- Successful
+
+INFO:root:Row 1526, lat: 37.776702 long: -122.237417 -- Successful
+
+INFO:root:Row 1527, lat: 37.557880 long: -77.484734 -- Successful
+
+INFO:root:Row 1528, lat: 37.508474 long: -77.477713 -- Successful
+
+INFO:root:Row 1529, lat: 37.566611 long: -77.446534 -- Successful
+
+INFO:root:Row 1530, lat: 37.532341 long: -77.400459 -- Successful
+
+INFO:root:Row 1531, lat: 37.531001 long: -77.398430 -- Successful
+
+INFO:root:Row 1532, lat: 37.531001 long: -77.398430 -- Successful
+
+INFO:root:Row 1533, lat: 37.522631 long: -77.474519 -- Successful
+
+INFO:root:Row 1534, lat: 37.531960 long: -77.420021 -- Successful
+
+INFO:root:Row 1535, lat: 37.511160 long: -77.395533 -- Successful
+
+INFO:root:Row 0, lat: 37.590139 long: -77.456841 -- Successful
+
+INFO:root:Row 1, lat: 37.541534 long: -77.451985 -- Successful
+
+INFO:root:Row 2, lat: 37.560369 long: -77.468661 -- Successful
+
+INFO:root:Row 3, lat: 37.553762 long: -77.474736 -- Successful
+
+INFO:root:Row 4, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 5, lat: 37.538814 long: -77.437136 -- Successful
+
+INFO:root:Row 6, lat: 37.572253 long: -77.445284 -- Successful
+
+INFO:root:Row 7, lat: 37.569962 long: -77.443190 -- Successful
+
+INFO:root:Row 8, lat: 37.522722 long: -77.417146 -- Successful
+
+INFO:root:Row 9, lat: 41.298437 long: -72.929179 -- Successful
+
+INFO:root:Row 10, lat: 41.311529 long: -72.942362 -- Successful
+
+INFO:root:Row 11, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 12, lat: 37.518310 long: -77.443088 -- Successful
+
+INFO:root:Row 13, lat: 41.316855 long: -72.914783 -- Successful
+
+INFO:root:Row 14, lat: 41.314586 long: -72.911397 -- Successful
+
+INFO:root:Row 15, lat: 41.314499 long: -72.891544 -- Successful
+
+INFO:root:Row 16, lat: 37.568729 long: -77.436611 -- Successful
+
+INFO:root:Row 17, lat: 37.578238 long: -77.514696 -- Successful
+
+INFO:root:Row 18, lat: 41.283208 long: -72.926974 -- Successful
+
+INFO:root:Row 19, lat: 37.583211 long: -77.457564 -- Successful
+
+INFO:root:Row 20, lat: 37.549043 long: -77.464611 -- Successful
+
+INFO:root:Row 21, lat: 37.579407 long: -77.466165 -- Successful
+
+INFO:root:Row 22, lat: 37.538100 long: -77.410783 -- Successful
+
+INFO:root:Row 23, lat: 41.289266 long: -72.931792 -- Successful
+
+INFO:root:Row 24, lat: 41.302349 long: -72.884040 -- Successful
+
+INFO:root:Row 25, lat: 37.573431 long: -77.518475 -- Successful
+
+INFO:root:Row 26, lat: 37.545036 long: -77.589259 -- Successful
+
+INFO:root:Row 27, lat: 37.572353 long: -77.518229 -- Successful
+
+INFO:root:Row 28, lat: 41.325136 long: -72.946328 -- Successful
+
+INFO:root:Row 29, lat: 37.527645 long: -77.439812 -- Successful
+
+INFO:root:Row 30, lat: 41.300901 long: -72.911069 -- Successful
+
+INFO:root:Row 31, lat: 37.843478 long: -122.245946 -- Successful
+
+INFO:root:Row 32, lat: 37.507957 long: -77.461402 -- Successful
+
+INFO:root:Row 33, lat: 37.839588 long: -122.251488 -- Successful
+
+INFO:root:Row 34, lat: 41.325962 long: -72.915121 -- Successful
+
+INFO:root:Row 35, lat: 41.934809 long: -87.678135 -- Successful
+
+INFO:root:Row 36, lat: 37.793552 long: -122.213066 -- Successful
+
+INFO:root:Row 37, lat: 41.294959 long: -72.940570 -- Successful
+
+INFO:root:Row 38, lat: 37.519058 long: -77.393185 -- Successful
+
+INFO:root:Row 39, lat: 37.579821 long: -77.467745 -- Successful
+
+INFO:root:Row 40, lat: 37.581441 long: -77.516211 -- Successful
+
+INFO:root:Row 41, lat: 41.316313 long: -72.966932 -- Successful
+
+INFO:root:Row 42, lat: 37.814213 long: -122.268333 -- Successful
+
+INFO:root:Row 43, lat: 37.554880 long: -77.484693 -- Successful
+
+INFO:root:Row 44, lat: 37.509921 long: -77.442723 -- Successful
+
+INFO:root:Row 45, lat: 37.541395 long: -77.488052 -- Successful
+
+INFO:root:Row 46, lat: 37.570294 long: -77.415534 -- Successful
+
+INFO:root:Row 47, lat: 37.549357 long: -77.490369 -- Successful
+
+INFO:root:Row 48, lat: 37.544911 long: -77.576178 -- Successful
+
+INFO:root:Row 49, lat: 37.502193 long: -77.485200 -- Successful
+
+INFO:root:Row 50, lat: 37.512359 long: -77.496575 -- Successful
+
+INFO:root:Row 51, lat: 37.516575 long: -77.391959 -- Successful
+
+INFO:root:Row 52, lat: 37.549938 long: -77.587883 -- Successful
+
+INFO:root:Row 53, lat: 37.575479 long: -77.431713 -- Successful
+
+INFO:root:Row 54, lat: 37.564167 long: -77.421438 -- Successful
+
+INFO:root:Row 55, lat: 37.535050 long: -77.470617 -- Successful
+
+INFO:root:Row 56, lat: 37.521739 long: -77.463706 -- Successful
+
+INFO:root:Row 57, lat: 37.561007 long: -77.425445 -- Successful
+
+INFO:root:Row 58, lat: 37.564126 long: -77.421625 -- Successful
+
+INFO:root:Row 59, lat: 37.545936 long: -77.465547 -- Successful
+
+INFO:root:Row 60, lat: 37.576957 long: -77.517594 -- Successful
+
+INFO:root:Row 61, lat: 37.505783 long: -77.460713 -- Successful
+
+INFO:root:Row 62, lat: 37.527181 long: -77.410576 -- Successful
+
+INFO:root:Row 63, lat: 37.548319 long: -77.532672 -- Successful
+
+INFO:root:Row 64, lat: 37.550192 long: -77.484786 -- Successful
+
+INFO:root:Row 65, lat: 37.464328 long: -77.468209 -- Successful
+
+INFO:root:Row 66, lat: 37.477208 long: -77.501798 -- Successful
+
+INFO:root:Row 67, lat: 37.541686 long: -77.463548 -- Successful
+
+INFO:root:Row 68, lat: 37.566394 long: -77.476854 -- Successful
+
+INFO:root:Row 69, lat: 37.494229 long: -77.435222 -- Successful
+
+INFO:root:Row 70, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 71, lat: 37.509204 long: -77.400347 -- Successful
+
+INFO:root:Row 72, lat: 37.521446 long: -77.466805 -- Successful
+
+INFO:root:Row 73, lat: 37.509204 long: -77.400347 -- Successful
+
+INFO:root:Row 74, lat: 37.565494 long: -77.493136 -- Successful
+
+INFO:root:Row 75, lat: 37.536349 long: -77.417929 -- Successful
+
+INFO:root:Row 76, lat: 37.513370 long: -77.495667 -- Successful
+
+INFO:root:Row 77, lat: 37.568733 long: -77.425030 -- Successful
+
+INFO:root:Row 78, lat: 37.504699 long: -77.503781 -- Successful
+
+INFO:root:Row 79, lat: 37.568702 long: -77.424872 -- Successful
+
+INFO:root:Row 80, lat: 37.573900 long: -77.457911 -- Successful
+
+INFO:root:Row 81, lat: 37.587725 long: -77.530296 -- Successful
+
+INFO:root:Row 82, lat: 37.540725 long: -77.436048 -- Successful
+
+INFO:root:Row 83, lat: 37.465934 long: -77.493727 -- Successful
+
+INFO:root:Row 84, lat: 37.568542 long: -77.425444 -- Successful
+
+INFO:root:Row 85, lat: 37.594486 long: -77.447820 -- Successful
+
+INFO:root:Row 86, lat: 37.808846 long: -122.255119 -- Successful
+
+INFO:root:Row 87, lat: 37.597079 long: -77.451425 -- Successful
+
+INFO:root:Row 88, lat: 37.599766 long: -77.448735 -- Successful
+
+INFO:root:Row 89, lat: 37.533593 long: -77.405044 -- Successful
+
+INFO:root:Row 90, lat: 37.571475 long: -77.505649 -- Successful
+
+INFO:root:Row 91, lat: 37.498419 long: -77.495591 -- Successful
+
+INFO:root:Row 92, lat: 37.589452 long: -77.455582 -- Successful
+
+INFO:root:Row 93, lat: 37.571388 long: -77.436381 -- Successful
+
+INFO:root:Row 94, lat: 41.304368 long: -72.925841 -- Successful
+
+INFO:root:Row 95, lat: 37.529404 long: -77.475528 -- Successful
+
+INFO:root:Row 96, lat: 37.554769 long: -77.458728 -- Successful
+
+INFO:root:Row 97, lat: 37.555342 long: -77.483885 -- Successful
+
+INFO:root:Row 98, lat: 41.306497 long: -72.890490 -- Successful
+
+INFO:root:Row 99, lat: 37.548190 long: -77.443902 -- Successful
+
+INFO:root:Row 100, lat: 37.577004 long: -77.503942 -- Successful
+
+INFO:root:Row 101, lat: 37.536358 long: -77.574959 -- Successful
+
+INFO:root:Row 102, lat: 37.551971 long: -77.479552 -- Successful
+
+INFO:root:Row 103, lat: 37.550968 long: -77.447666 -- Successful
+
+INFO:root:Row 104, lat: 37.482559 long: -77.441386 -- Successful
+
+INFO:root:Row 105, lat: 37.544885 long: -77.534928 -- Successful
+
+INFO:root:Row 106, lat: 37.543143 long: -77.535736 -- Successful
+
+INFO:root:Row 107, lat: 37.520718 long: -77.485131 -- Successful
+
+INFO:root:Row 108, lat: 37.528231 long: -77.415928 -- Successful
+
+INFO:root:Row 109, lat: 37.559931 long: -77.476295 -- Successful
+
+INFO:root:Row 110, lat: 37.497949 long: -77.435331 -- Successful
+
+INFO:root:Row 111, lat: 37.541894 long: -77.583993 -- Successful
+
+INFO:root:Row 112, lat: 37.527635 long: -77.416742 -- Successful
+
+INFO:root:Row 113, lat: 37.545930 long: -77.485708 -- Successful
+
+INFO:root:Row 114, lat: 37.570603 long: -77.497669 -- Successful
+
+INFO:root:Row 115, lat: 37.576438 long: -77.491272 -- Successful
+
+INFO:root:Row 116, lat: 37.550192 long: -77.484786 -- Successful
+
+INFO:root:Row 117, lat: 37.545334 long: -77.484051 -- Successful
+
+INFO:root:Row 118, lat: 37.515933 long: -77.494593 -- Successful
+
+INFO:root:Row 119, lat: 37.553817 long: -77.475854 -- Successful
+
+INFO:root:Row 120, lat: 37.552186 long: -77.530375 -- Successful
+
+INFO:root:Row 121, lat: 37.516697 long: -77.396992 -- Successful
+
+INFO:root:Row 122, lat: 37.535902 long: -77.416505 -- Successful
+
+INFO:root:Row 123, lat: 37.580339 long: -77.466168 -- Successful
+
+INFO:root:Row 124, lat: 37.536220 long: -77.417337 -- Successful
+
+INFO:root:Row 125, lat: 37.598147 long: -77.453263 -- Successful
+

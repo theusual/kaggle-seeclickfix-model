@@ -2,14 +2,7 @@
 Kaggle+Hackathon!
 
 TODO:
--DONE: Clean duplicate issues and other noise
--DONE: Create age in days
--DONE: City
--DONE: NLP on summary, NLP on description
--DONE: dictvectorizer on tag_type
--DONE: dictvectorizer on source
--DONE: Round long/lat to hundredths and create vector
--DONE: Create day of week as binary vector
+-DONE:
 -Add feature for length of description
 -Break apart Sum+Descr into 2 feature vectors
 -Data subsets for each city
