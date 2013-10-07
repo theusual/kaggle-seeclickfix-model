@@ -5,6 +5,9 @@
 #ignore any data folders too large to remotely sync
 Data/raw/**
 
+#ignore the Data-old folder -- used for storing old data files not actively used
+Data-old/**
+
 # ignore any JSON data files (file size too large)
 *.json
 
