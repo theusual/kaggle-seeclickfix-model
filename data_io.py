@@ -44,7 +44,10 @@ def save_predictions(dfTest,clf_name,model_name,submission_no):
     #---Perform any manual predictions cleanup that may be necessary---#
 
     #save predictions
-    dfTest['predictions_'+clf_name] = [x[0] for x in dfTest['predictions_'+clf_name]]
+    try:
+        dfTest['predictions_'+clf_name] = [x[0] for x in dfTest['predictions_'+clf_name]]
+    except IndexError:
+        dfTest['predictions_'+clf_name] = [x for x in dfTest['predictions_'+clf_name]]
     dfTest.ix[:,['id','predictions_'+clf_name]].to_csv(filename, index=False)
     print 'Submission file saved as ',filename
 

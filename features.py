@@ -26,16 +26,16 @@ def hours(df):
 
 def age(df):
     #---Calc age in days---#
-    df['age'] = [(datetime.now() - x).days for x in df['created_date']]
+    df['age'] = [(datetime.now().date() - x).days for x in df['created_date']]
 
 def city(df):
     df['city'] = 'Chicago'
     for idx in df.index:
-        if round(df['longitude'][idx],0) == -77.0:
+        if df['longitude'][idx] < -77 and df['longitude'][idx] > -78:
             df['city'][idx]='Richmond'
-        if round(df['longitude'][idx],0) == -122.0:
+        if df['longitude'][idx] < -122 and df['longitude'][idx] > -123:
             df['city'][idx]='Oakland'
-        if round(df['longitude'][idx],0) == -73.0:
+        if df['longitude'][idx] < -72 and df['longitude'][idx] > -73:
             df['city'][idx]='New Haven'
 
 def lat_long(df):
@@ -46,17 +46,13 @@ def lat_long(df):
 def dayofweek(df):
     df['dayofweek'] = [str(x.weekday()) for x in df['created_date']]
 
-def month(df):
-    df['month'] = [str(x.month) for x in df['created_date']]
+def weekend_fg(df):
+    df['weekend_fg'] = [0 if x < 4 else 1 for x in df['dayofweek']]
 
 def standardize(df,features):
     #---------------------------------------------------------------------
     #Standardize list of quant features (remove mean and scale to unit variance)
     #---------------------------------------------------------------------
-    ###Remove the target if it exists, to keep it from getting included in the feature matrix
-    if 'label' in df.keys():
-        del df['label'];
-
     scaler = preprocessing.StandardScaler()
     if features == 'all':
         mtx = scaler.fit_transform(df.as_matrix())
@@ -76,4 +72,12 @@ def holidays(df,holidays_list):
 
 def description_length(df):
     #calc length of description
-    df['description_len'] = [len(x) for x in df.description]
+    df['description_length'] = [-70 if x == 'zzzzzz' else len(x) for x in df.description]
+
+def description_fg(df):
+    #flag if no description
+    df['description_fg'] = [0 if x == 'zzzzzz' else 1 for x in df.description]
+
+def tagtype_fg(df):
+    #flag if no description
+    df['tagtype_fg'] = [0 if x == 'na' else 1 for x in df.tag_type]

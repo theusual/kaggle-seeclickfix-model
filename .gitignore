@@ -1,6 +1,9 @@
-# ignore the PyCharm settings directory
- and submissions
+# ignore the PyCharm settings directory 
 .idea/**
+
+#ignore the submissions and data directories
+Submits/**
+Data/**
 
 #ignore any data folders too large to remotely sync
 Data/raw/**
