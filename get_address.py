@@ -27,7 +27,7 @@ import time
 import pandas as pd
 
 def main():
-    #---Get command line params---#
+    #---Command line params---#
     input_file = sys.argv[1]
     output_file = sys.argv[2]
     log_file = sys.argv[3]

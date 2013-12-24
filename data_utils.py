@@ -7,7 +7,7 @@ __date__ = '09-06-2013'
 
 import gc
 
-def data_garbage_collection(dfTrn,dfTest,dfAll):
+def garbage_collection(dfTrn,dfTest,dfAll):
     # Clean up unused frames:
     dfTrn[0] = '';dfTrn[2] = '';
     dfTest[0] = '';dfTest[2] = '';

@@ -3,7 +3,6 @@
 
 #ignore the submissions and data directories due to size contraints
 Submits/**
-Data/**
 
 #ignore the Data-old folder -- used for storing old data files not actively used
 Data-old/**

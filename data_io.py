@@ -37,35 +37,33 @@ def load_flatfile_to_df(file_path, delimiter=''):
     else:
         return pd.read_csv(file_path, delimiter)
 
-def save_predictions(dfTest,clf_name,model_name,submission_no):
-    timestamp = datetime.now().strftime("--%d-%m-%y_%H%M")
-    filename = 'Submits/'+'Sub'+str(submission_no)+timestamp+'--'+model_name+'.csv'
-
+def save_predictions(dfTest,model,note=''):
+    timestamp = datetime.now().strftime("%m-%d-%y_%H%M")
+    filename = 'Submits/'+timestamp+'--'+model.model_name+'_'+model.classifier_name+'_'+note+'.csv'
     #---Perform any manual predictions cleanup that may be necessary---#
 
     #save predictions
     try:
-        dfTest['predictions_'+clf_name] = [x[0] for x in dfTest['predictions_'+clf_name]]
+        dfTest[model.target] = [x[0] for x in dfTest[model.target]]
     except IndexError:
-        dfTest['predictions_'+clf_name] = [x for x in dfTest['predictions_'+clf_name]]
-    dfTest.ix[:,['id','predictions_'+clf_name]].to_csv(filename, index=False)
+        dfTest[model.target] = [x for x in dfTest[model.target]]
+    dfTest.ix[:,['id',model.target]].to_csv(filename, index=False)
     print 'Submission file saved as ',filename
 
-def save_predictions_benchmark(dfTest_Benchmark,benchmark_name,submission_no):
-    timestamp = datetime.now().strftime("--%d-%m-%y_%H%M")
-    filename = 'Submissions/'+'Submission'+submission_no+timestamp+'--'+benchmark_name+'.csv'
-
+def save_predictions_benchmark(dfTest_Benchmark,benchmark_name):
+    timestamp = datetime.now().strftime("%d-%m-%y_%H%M")
+    filename = 'Submissions/'+timestamp+'--'+benchmark_name+'.csv'
     #save predictions
     dfTest_Benchmark.ix[:,['RecommendationId','benchmark_'+benchmark_name]].to_csv(filename,cols=['RecommendationId','stars'], index=False)
     print 'Submission file saved as ',filename
 
-def save_model(clf,clfname):
+def save_cached_object(clf,filename):
     timestamp = datetime.now().strftime("%d-%m-%y_%H%M")
-    filename = 'Models/'+timestamp+'--'+clfname+'.joblib.pk1'
+    filename = 'Cache/'+timestamp+'--'+filename+'.pkl'
     joblib.dump(clf, filename, compress=9)
-    print 'Model saved as ',filename
+    print 'Object saved as /Cache/',filename
 
-def load_model(filename):
+def load_cached_object(filename):
     return joblib.load(filename)
 
 def save_text_features( output_file, feature_names ):

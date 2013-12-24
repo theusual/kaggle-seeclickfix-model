@@ -44,40 +44,16 @@ dfTrn = data_io.load_flatfile_to_df("Data/train_addr_inc_pop.csv")
 dfTest = data_io.load_flatfile_to_df("Data/test_addr_inc_pop.csv")
 
 #--Clean the data--#
-dfTrn = munge.clean(dfTrn)
-dfTest = munge.clean(dfTest)
+munge.clean(dfTrn)
+munge.clean(dfTest)
 
 #------------------------------------------------#
 #-------Feature creation-------------------------#
 #------------------------------------------------#
 
 #---Add hand crafted features---#
-features.hours(dfTrn)
-features.hours(dfTest)
-
-features.age(dfTrn)
-features.age(dfTest)
-
-features.city(dfTrn)
-features.city(dfTest)
-
-features.lat_long(dfTrn)
-features.lat_long(dfTest)
-
-features.dayofweek(dfTrn)
-features.dayofweek(dfTest)
-
-features.description_length(dfTrn)
-features.description_length(dfTest)
-
-features.description_fg(dfTrn)
-features.description_fg(dfTest)
-
-features.tagtype_fg(dfTrn)
-features.tagtype_fg(dfTest)
-
-features.weekend_fg(dfTrn)
-features.weekend_fg(dfTest)
+features.add(dfTrn)
+features.add(dfTest)
 
 #-------------------------------------------------------#
 #----Create data subsets--------------------------------#
@@ -214,6 +190,11 @@ mtxTest_weekend = dfTest.ix[:,['weekend_fg']].as_matrix()
 mtxTrn_tagtype_fg = dfTrn.ix[:,['tagtype_fg']].as_matrix()
 mtxTest_tagtype_fg = dfTest.ix[:,['tagtype_fg']].as_matrix()
 
+#---Neighborhood+LongLat ---#
+nbr_longlat_vec = DictVectorizer().fit([{'feature':value} for value in np.append(dfTrn.nbr_longlat,dfTest.nbr_longlat)])
+mtxTrn_nbr_longlat = nbr_longlat_vec.transform([{'feature':value} for value in dfTrn.nbr_longlat])
+mtxTest_nbr_longlat = nbr_longlat_vec.transform([{'feature':value} for value in dfTest.nbr_longlat])
+
 #---Unused----#
 #---Vectorize Hours-#
 hrs_vec = DictVectorizer().fit([{'feature':value} for value in np.append(dfTrn.created_time_hrs,dfTest.created_time_hrs)])
@@ -253,7 +234,7 @@ clf = ensemble.AdaBoostRegressor(base_estimator=tree.DecisionTreeRegressor(compu
 
 #---select, scale, and combine features to use---#
 #Select quant features.  ----  Unused quant_features : []
-quant_features = ['description_length',]  # ['tot_income']
+quant_features = ['description_length']  # ['tot_income']
 dfTrn_ML=dfTrn;dfTest_ML= dfTest;
 
 #mtxTrn=mtxTrn_Text;mtxTest=mtxTest_Text
@@ -319,12 +300,19 @@ train.cross_validate_using_benchmark('global_mean',dfTrn, mtxTrn,mtxTrnTarget,fo
 #---Returns a list of all training records with their average variance---#
 train.calc_cv_preds_var(dfTrn,cv_preds)
 
-#--Use classifier for predictions--#
-dfTest, clf = train.predict(mtxTrn,mtxTrnTarget.ravel(),mtxTest,dfTest,clf,clf_name) #may require mtxTest.toarray()
-dfTest, clf = train.predict(mtxTrn.todense(),mtxTrnTarget.ravel(),mtxTest.todense(),dfTest,clf,clf_name) #may require mtxTest.toarray()
+#--Use estimator for predictions--#
+try:
+    #make predictions on test data and store them in the test data frame
+    clf.fit(mtxTrn, mtxTrnTarget)
+    dfTest['predictions_'+clf_name] = [x for x in clf.predict(mtxTest)]
+except TypeError:
+    clf.fit(mtxTrn.todense(), mtxTrnTarget)
+    dfTest['predictions_'+clf_name] = [x for x in clf.predict(mtxTest.todense())]
+#If target variable has been transformed, transform predictions back to original state
+dfTest['predictions_'+clf_name] = [np.exp(x) - 1 for x in dfTest['predictions_'+clf_name]]
 
 #--Save predictions to file--#
-data_io.save_predictions(dfTest,clf_name,'_Views_Rich_GBM_GoogAPIcleaned_Source&Nbr&Weekend&Hrs&DescrLen',submission_no)
+data_io.save_predictions(dfTest,clf_name,'_Views_Rich_GBM_GoogAPIcleaned_Source&NbrLongLat&Weekend&Hrs&DescrLen&',submission_no)
 data_io.save_predictions(dfTest,clf_name,'_Votes_Rich_SGD_GoogAPIcleaned_Source&Nbr&Weekend&Hrs&DescrLen&LongLat&Tagtype',submission_no)
 data_io.save_predictions(dfTest,clf_name,'_Cmts_Rich_GBM_GoogAPIcleaned_Source&Nbr&Weekend&Hrs&DescrLen&LongLat',submission_no)
 data_io.save_predictions(dfTest,clf_name,'_Views_Oak_GBM_GoogAPIcleaned_Source&Nbr&Weekend&Hrs&DescrLen&Longlat&Tagtype',submission_no)
@@ -352,10 +340,10 @@ dump_svmlight_file(mtxTrn, y_trn, f = "Data/Views_trn.svm", zero_based = False )
 dump_svmlight_file(mtxTest, y_test, f = "Data/Views_test.svm", zero_based = False )
 
 #--Save a model to joblib file--#
-data_io.save_model(clf,'rf_500_TextAll')
+data_io.save_cached_object(clf,'rf_500_TextAll')
 
 #--Load a model from joblib file--#
-data_io.load_model('Models/040513--rf_500_TextAll.joblib.pk1')
+data_io.load_cached_object('Models/040513--rf_500_TextAll.joblib.pk1')
 
 #--Save text feature names list for later reference--#
 data_io.save_text_features("Data/text_url_features.txt",tfidf_vec.get_feature_names())
