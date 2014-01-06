@@ -1,6 +1,6 @@
 Prize Winning Model for Kaggle See-Click-Fix Contest
 ============================================================
-Prize-winning solution for Kaggle contest "SeeClickPredictFix". The purpose of the contest was to train a model (as scored by RMSLE) using supervised learning that will accurately predict the views, votes, and comments that an issue posted to the www.seeclickfix.com website will receive.  This code uses a segment based ensemble to generate predictions for the 3 targets (views, votes, and comments).  My teammate and I used this model in combination with his to create a winning model for the contest, defeating >500 other teams.
+Prize-winning solution for Kaggle contest "SeeClickPredictFix". The purpose of the contest was to train a model (as scored by RMSLE) using supervised learning that will accurately predict the views, votes, and comments that an issue posted to the www.seeclickfix.com website will receive.  This code uses a segment based ensemble to generate predictions for the 3 targets (views, votes, and comments).  My teammate and I used this model in combination with his to create a winning model for the contest, defeating >500 other teams and winning a purse of $1,0000.
 
 More contest info: http://www.kaggle.com/c/see-click-predict-fix
 
