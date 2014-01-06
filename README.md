@@ -1,3 +1,1 @@
-Code for Kaggle contest "SeeClickPredict"
-The purpose of the contest is to train a model (as scored by RMSLE) using supervised learning that will accurately
-predict the views, votes, and comments that an issue posted to the www.seeclickfix.com website will receive.
+Prize-winning model code for Kaggle contest "SeeClickPredictFix". The purpose of the contest is to train a model (as scored by RMSLE) using supervised learning that will accurately predict the views, votes, and comments that an issue posted to the www.seeclickfix.com website will receive.  This code uses a segment based ensemble to generate predictions for the 3 targets (views, votes, and comments).  My teammate and I used this model in combination with his to create a winning model for the contest, defeating >500 other teams.
