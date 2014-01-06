@@ -1,0 +1,441 @@
+2014-01-05 14:18:59,180 - INFO - ********New program instance started********
+2014-01-05 14:24:22,395--INFO--main--********New program instance started********
+2014-01-05 14:29:06,659--INFO--main--********New program instance started********
+2014-01-05 14:31:04,631--INFO--main--********New program instance started********
+2014-01-05 14:31:47,329--INFO--main--********Program ran successfully. Exiting********
+2014-01-05 14:35:08,602--INFO--main--********New program instance started********
+2014-01-05 14:36:19,651--INFO--main--********New program instance started********
+2014-01-05 14:38:02,251--INFO--main--********New program instance started********
+2014-01-05 14:38:37,530--INFO--main--********New program instance started********
+2014-01-05 14:39:25,115--INFO--main--********Program ran successfully. Exiting********
+2014-01-05 14:39:39,753--INFO--main--********New program instance started********
+2014-01-05 14:40:31,994--INFO--main--********Program ran successfully. Exiting********
+2014-01-05 14:45:43,572--INFO--main--********New program instance started********
+2014-01-05 15:17:26,324--INFO--main--********New program instance started********
+2014-01-05 15:17:26,325--INFO--utils--=============LOADING SETTINGS===============
+2014-01-05 15:17:26,325--INFO--utils--ENVIRONMENT SETTINGS: 
+2014-01-05 15:17:26,325--INFO--utils--{u'cv_method': u'april', u'export_cached_models': u'y', u'export_cv_predictions_new_models': u'n', u'file_data_train': u'Data/train_addr_inc_pop.csv', u'use_cached_data': u'y', u'export_cached_features': u'n', u'export_cv_predictions_all_models': u'n', u'export_cv_predictions_total': u'n', u'file_data_test': u'Data/test_addr_inc_pop.csv', u'dir_submissions': u'Output/', u'export_predictions_all_models': u'n', u'export_predictions_total': u'y', u'file_model_settings': u'MODELS.json', u'export_predictions_new_models': u'n', u'dir_cache': u'Cache/'}
+2014-01-05 15:17:26,326--INFO--main--==========LOADING CACHED FEATURES===========
+2014-01-05 15:17:33,701--INFO--data_io--Successfully loaded object from: Cache/dfTrn.pkl
+2014-01-05 15:17:40,189--INFO--data_io--Successfully loaded object from: Cache/dfTest.pkl
+2014-01-05 15:17:40,214--INFO--main--=========LOADING CACHED MODELS==============
+2014-01-05 15:17:41,515--INFO--data_io--Successfully loaded object from: Cache/segment_models.pkl
+2014-01-05 15:17:41,518--INFO--main--=======INITIALIZING UN-CACHED MODELS========
+2014-01-05 15:17:41,518--INFO--main--Model richmond_views intialized at index 1
+2014-01-05 15:17:41,519--INFO--main--=======GENERATING TEST PREDICTIONS==========
+2014-01-05 15:17:41,519--INFO--main--Cached test predictions found for model chicago_other_cmts.  Using cached predictions.
+2014-01-05 15:17:41,519--INFO--main--============================================
+2014-01-05 15:17:41,949--INFO--train--Predictions started at: 01-05-14 15:17
+2014-01-05 15:18:08,104--INFO--train--Prediction metrics: mean=4.128360, std dev=3.398810, min/max= 0.400048/83.011797
+2014-01-05 15:18:08,104--INFO--train--Predictions completed at: 01-05-14 15:18.  Total runtime: 0:00:26.153091
+2014-01-05 15:18:08,105--INFO--main--============================================
+2014-01-05 15:18:08,106--INFO--main--Cached test predictions found for model remote_api_views.  Using cached predictions.
+2014-01-05 15:18:08,106--INFO--main--Cached test predictions found for model oakland_other_cmts.  Using cached predictions.
+2014-01-05 15:18:08,106--INFO--main--Cached test predictions found for model oakland_other_votes.  Using cached predictions.
+2014-01-05 15:18:08,106--INFO--main--Cached test predictions found for model new_haven_cmts.  Using cached predictions.
+2014-01-05 15:18:08,106--INFO--main--Cached test predictions found for model richmond_votes.  Using cached predictions.
+2014-01-05 15:18:08,106--INFO--main--Cached test predictions found for model new_haven_votes.  Using cached predictions.
+2014-01-05 15:18:08,107--INFO--main--Cached test predictions found for model oakland_other_views.  Using cached predictions.
+2014-01-05 15:18:08,107--INFO--main--Cached test predictions found for model chicago_other_views.  Using cached predictions.
+2014-01-05 15:18:08,107--INFO--main--Cached test predictions found for model chicago_other_votes.  Using cached predictions.
+2014-01-05 15:18:08,107--INFO--main--Cached test predictions found for model new_haven_views.  Using cached predictions.
+2014-01-05 15:18:08,107--INFO--main--Cached test predictions found for model richmond_cmts.  Using cached predictions.
+2014-01-05 15:18:08,107--INFO--main--==========EXPORTING CACHED MODELS===========
+2014-01-05 15:18:08,113--INFO--data_io--Cached object already exists with given filename, archiving old object to: Cache/Archive/segment_models--01-05-14_1440.pkl
+2014-01-05 15:18:23,719--INFO--data_io--New object cached to: Cache/segment_models.pkl
+2014-01-05 15:18:28,283--INFO--main--Test predictions merged and saved to: Output/bryan_test_predictions01-05-14_1518.csv
+2014-01-05 15:18:28,283--INFO--main--********Program ran successfully. Exiting********
+2014-01-05 15:23:25,088--INFO--main--********New program instance started********
+2014-01-05 15:23:25,089--INFO--utils--=============LOADING SETTINGS===============
+2014-01-05 15:23:25,089--INFO--utils--ENVIRONMENT SETTINGS: 
+2014-01-05 15:23:25,089--INFO--utils--{u'cv_method': u'april', u'export_cached_models': u'y', u'export_cv_predictions_new_models': u'n', u'file_data_train': u'Data/train_addr_inc_pop.csv', u'use_cached_data': u'y', u'export_cached_features': u'n', u'export_cv_predictions_all_models': u'n', u'export_cv_predictions_total': u'n', u'file_data_test': u'Data/test_addr_inc_pop.csv', u'dir_submissions': u'Output/', u'export_predictions_all_models': u'n', u'export_predictions_total': u'y', u'file_model_settings': u'MODELS.json', u'export_predictions_new_models': u'n', u'dir_cache': u'Cache/'}
+2014-01-05 15:23:25,089--INFO--main--==========LOADING CACHED FEATURES===========
+2014-01-05 15:23:32,445--INFO--data_io--Successfully loaded object from: Cache/dfTrn.pkl
+2014-01-05 15:23:38,956--INFO--data_io--Successfully loaded object from: Cache/dfTest.pkl
+2014-01-05 15:23:38,980--INFO--main--=========LOADING CACHED MODELS==============
+2014-01-05 15:23:40,583--INFO--data_io--Successfully loaded object from: Cache/segment_models.pkl
+2014-01-05 15:23:40,585--INFO--main--=======INITIALIZING UN-CACHED MODELS========
+2014-01-05 15:23:40,588--INFO--main--Model richmond_views intialized at index 1
+2014-01-05 15:23:40,588--INFO--main--=======GENERATING TEST PREDICTIONS==========
+2014-01-05 15:23:40,588--INFO--main--Cached test predictions found for model chicago_other_cmts.  Using cached predictions.
+2014-01-05 15:23:40,589--INFO--main--============================================
+2014-01-05 15:23:40,589--INFO--main--MODEL: richmond_views    SEGMENT: Richmond     TARGET: num_views 
+2014-01-05 15:23:40,589--INFO--main--FEATURES: ['description_length_log', 'neighborhood', 'source']
+2014-01-05 15:23:40,589--INFO--main--ESTIMATOR CLASS: GradientBoostingRegressor(alpha=0.9, init=None, learning_rate=0.1, loss=ls,
+             max_depth=1, max_features=None, min_samples_leaf=1,
+             min_samples_split=2, n_estimators=700, random_state=888,
+             subsample=1.0, verbose=0) 
+2014-01-05 15:23:40,589--INFO--main--POST-PROCESS SCALAR: 0.51 
+2014-01-05 15:23:41,023--INFO--train--Predictions started at: 01-05-14 15:23
+2014-01-05 15:24:06,947--INFO--train--Prediction metrics: mean=3.289787, std dev=2.708427, min/max= 0.318788/66.150026
+2014-01-05 15:24:06,947--INFO--train--Predictions completed at: 01-05-14 15:24.  Total runtime: 0:00:25.923102
+2014-01-05 15:24:06,949--INFO--main--============================================
+2014-01-05 15:24:06,949--INFO--main--Cached test predictions found for model remote_api_views.  Using cached predictions.
+2014-01-05 15:24:06,949--INFO--main--Cached test predictions found for model oakland_other_cmts.  Using cached predictions.
+2014-01-05 15:24:06,949--INFO--main--Cached test predictions found for model oakland_other_votes.  Using cached predictions.
+2014-01-05 15:24:06,949--INFO--main--Cached test predictions found for model new_haven_cmts.  Using cached predictions.
+2014-01-05 15:24:06,950--INFO--main--Cached test predictions found for model richmond_votes.  Using cached predictions.
+2014-01-05 15:24:06,950--INFO--main--Cached test predictions found for model new_haven_votes.  Using cached predictions.
+2014-01-05 15:24:06,950--INFO--main--Cached test predictions found for model oakland_other_views.  Using cached predictions.
+2014-01-05 15:24:06,950--INFO--main--Cached test predictions found for model chicago_other_views.  Using cached predictions.
+2014-01-05 15:24:06,950--INFO--main--Cached test predictions found for model chicago_other_votes.  Using cached predictions.
+2014-01-05 15:24:06,950--INFO--main--Cached test predictions found for model new_haven_views.  Using cached predictions.
+2014-01-05 15:24:06,951--INFO--main--Cached test predictions found for model richmond_cmts.  Using cached predictions.
+2014-01-05 15:24:06,951--INFO--main--==========EXPORTING CACHED MODELS===========
+2014-01-05 15:24:06,956--INFO--data_io--Cached object already exists with given filename, archiving old object to: Cache/Archive/segment_models--01-05-14_1518.pkl
+2014-01-05 15:24:22,497--INFO--data_io--New object cached to: Cache/segment_models.pkl
+2014-01-05 15:24:27,013--INFO--main--Test predictions merged and saved to: Output/bryan_test_predictions01-05-14_1524.csv
+2014-01-05 15:24:27,014--INFO--main--********Program ran successfully. Exiting********
+2014-01-05 15:31:53,577--INFO--main--********New program instance started********
+2014-01-05 15:31:53,577--INFO--utils--=============LOADING SETTINGS===============
+2014-01-05 15:31:53,577--INFO--utils--ENVIRONMENT SETTINGS: 
+2014-01-05 15:31:53,578--INFO--utils--{u'cv_method': u'april', u'export_cached_models': u'y', u'export_cv_predictions_new_models': u'n', u'file_data_train': u'Data/train_addr_inc_pop.csv', u'use_cached_data': u'y', u'export_cached_features': u'n', u'export_cv_predictions_all_models': u'n', u'export_cv_predictions_total': u'n', u'file_data_test': u'Data/test_addr_inc_pop.csv', u'dir_submissions': u'Output/', u'export_predictions_all_models': u'n', u'export_predictions_total': u'y', u'file_model_settings': u'MODELS.json', u'export_predictions_new_models': u'n', u'dir_cache': u'Cache/'}
+2014-01-05 15:31:53,578--INFO--main--==========LOADING CACHED FEATURES===========
+2014-01-05 15:32:00,887--INFO--data_io--Successfully loaded object from: Cache/dfTrn.pkl
+2014-01-05 15:32:07,348--INFO--data_io--Successfully loaded object from: Cache/dfTest.pkl
+2014-01-05 15:32:07,372--INFO--main--=========LOADING CACHED MODELS==============
+2014-01-05 15:32:08,987--INFO--data_io--Successfully loaded object from: Cache/segment_models.pkl
+2014-01-05 15:32:08,989--INFO--main--=======INITIALIZING UN-CACHED MODELS========
+2014-01-05 15:32:08,992--INFO--main--Model richmond_views intialized at index 1
+2014-01-05 15:32:08,992--INFO--main--=======GENERATING TEST PREDICTIONS==========
+2014-01-05 15:32:08,993--INFO--main--Cached test predictions found for model chicago_other_cmts.  Using cached predictions.
+2014-01-05 15:32:08,993--INFO--main--============================================
+2014-01-05 15:32:08,993--INFO--main--MODEL: richmond_views    SEGMENT: Richmond     TARGET: num_views 
+2014-01-05 15:32:08,993--INFO--main--FEATURES: ['neighborhood', 'weekend_fg']
+2014-01-05 15:32:08,993--INFO--main--ESTIMATOR CLASS: SVR(C=1.0, cache_size=16000, coef0=0.0, degree=3, epsilon=0.1, gamma=0.0,
+  kernel=linear, max_iter=-1, probability=False, random_state=8888,
+  shrinking=True, tol=0.001, verbose=False) 
+2014-01-05 15:32:08,994--INFO--main--POST-PROCESS SCALAR: 0.51 
+2014-01-05 15:32:09,283--INFO--train--Predictions started at: 01-05-14 15:32
+2014-01-05 15:32:22,312--INFO--train--Prediction metrics: mean=2.607814, std dev=2.490898, min/max= 0.617313/37.321947
+2014-01-05 15:32:22,312--INFO--train--Predictions completed at: 01-05-14 15:32.  Total runtime: 0:00:13.026828
+2014-01-05 15:32:22,314--INFO--main--============================================
+2014-01-05 15:32:22,314--INFO--main--Cached test predictions found for model remote_api_views.  Using cached predictions.
+2014-01-05 15:32:22,314--INFO--main--Cached test predictions found for model oakland_other_cmts.  Using cached predictions.
+2014-01-05 15:32:22,314--INFO--main--Cached test predictions found for model oakland_other_votes.  Using cached predictions.
+2014-01-05 15:32:22,314--INFO--main--Cached test predictions found for model new_haven_cmts.  Using cached predictions.
+2014-01-05 15:32:22,314--INFO--main--Cached test predictions found for model richmond_votes.  Using cached predictions.
+2014-01-05 15:32:22,315--INFO--main--Cached test predictions found for model new_haven_votes.  Using cached predictions.
+2014-01-05 15:32:22,315--INFO--main--Cached test predictions found for model oakland_other_views.  Using cached predictions.
+2014-01-05 15:32:22,315--INFO--main--Cached test predictions found for model chicago_other_views.  Using cached predictions.
+2014-01-05 15:32:22,315--INFO--main--Cached test predictions found for model chicago_other_votes.  Using cached predictions.
+2014-01-05 15:32:22,315--INFO--main--Cached test predictions found for model new_haven_views.  Using cached predictions.
+2014-01-05 15:32:22,315--INFO--main--Cached test predictions found for model richmond_cmts.  Using cached predictions.
+2014-01-05 15:32:22,316--INFO--main--==========EXPORTING CACHED MODELS===========
+2014-01-05 15:32:22,322--INFO--data_io--Cached object already exists with given filename, archiving old object to: Cache/Archive/segment_models--01-05-14_1524.pkl
+2014-01-05 15:32:37,063--INFO--data_io--New object cached to: Cache/segment_models.pkl
+2014-01-05 15:32:37,064--INFO--main--===MERGING TEST PREDICTIONS FROM SEGMENTS===
+2014-01-05 15:32:41,586--INFO--main--Test predictions merged and saved to: Output/bryan_test_predictions01-05-14_1532.csv
+2014-01-05 15:32:41,586--INFO--main--********Program ran successfully. Exiting********
+2014-01-05 15:53:13,823--INFO--main--********New program instance started********
+2014-01-05 15:53:13,823--INFO--utils--=============LOADING SETTINGS===============
+2014-01-05 15:53:13,823--INFO--utils--ENVIRONMENT SETTINGS: 
+2014-01-05 15:53:13,823--INFO--utils--{u'cv_method': u'april', u'export_cached_models': u'y', u'export_cv_predictions_new_models': u'n', u'file_data_train': u'Data/train_addr_inc_pop.csv', u'use_cached_data': u'y', u'export_cached_features': u'n', u'export_cv_predictions_all_models': u'n', u'export_cv_predictions_total': u'n', u'file_data_test': u'Data/test_addr_inc_pop.csv', u'dir_submissions': u'Output/', u'export_predictions_all_models': u'n', u'export_predictions_total': u'y', u'file_model_settings': u'MODELS.json', u'export_predictions_new_models': u'n', u'dir_cache': u'Cache/'}
+2014-01-05 15:53:13,824--INFO--main--==========LOADING CACHED FEATURES===========
+2014-01-05 15:53:21,078--INFO--data_io--Successfully loaded object from: Cache/dfTrn.pkl
+2014-01-05 15:53:27,501--INFO--data_io--Successfully loaded object from: Cache/dfTest.pkl
+2014-01-05 15:53:27,524--INFO--main--=========LOADING CACHED MODELS==============
+2014-01-05 15:53:28,801--INFO--data_io--Successfully loaded object from: Cache/segment_models.pkl
+2014-01-05 15:53:28,803--INFO--main--=======INITIALIZING UN-CACHED MODELS========
+2014-01-05 15:53:28,804--INFO--main--Model richmond_views intialized at index 1
+2014-01-05 15:53:28,804--INFO--main--=======GENERATING TEST PREDICTIONS==========
+2014-01-05 15:53:28,804--INFO--main--Cached test predictions found for model chicago_other_cmts.  Using cached predictions.
+2014-01-05 15:53:28,804--INFO--main--============================================
+2014-01-05 15:53:28,804--INFO--main--MODEL: richmond_views    SEGMENT: Richmond     TARGET: num_views 
+2014-01-05 15:53:28,805--INFO--main--FEATURES: ['neighborhood', 'weekend_fg']
+2014-01-05 15:53:28,805--INFO--main--ESTIMATOR CLASS: SVR(C=1.0, cache_size=16000, coef0=0.0, degree=3, epsilon=0.1, gamma=0.0,
+  kernel=linear, max_iter=-1, probability=False, random_state=8888,
+  shrinking=True, tol=0.001, verbose=False) 
+2014-01-05 15:53:28,805--INFO--main--POST-PROCESS SCALAR: 0.45 
+2014-01-05 15:53:29,101--INFO--train--Predictions started at: 01-05-14 15:53
+2014-01-05 15:53:41,733--INFO--train--Prediction metrics: mean=2.301013, std dev=2.197851, min/max= 0.544688/32.931130
+2014-01-05 15:53:41,733--INFO--train--Predictions completed at: 01-05-14 15:53.  Total runtime: 0:00:12.630673
+2014-01-05 15:53:41,735--INFO--main--============================================
+2014-01-05 15:53:41,735--INFO--main--Cached test predictions found for model remote_api_views.  Using cached predictions.
+2014-01-05 15:53:41,735--INFO--main--Cached test predictions found for model oakland_other_cmts.  Using cached predictions.
+2014-01-05 15:53:41,735--INFO--main--Cached test predictions found for model oakland_other_votes.  Using cached predictions.
+2014-01-05 15:53:41,736--INFO--main--Cached test predictions found for model new_haven_cmts.  Using cached predictions.
+2014-01-05 15:53:41,736--INFO--main--Cached test predictions found for model richmond_votes.  Using cached predictions.
+2014-01-05 15:53:41,736--INFO--main--Cached test predictions found for model new_haven_votes.  Using cached predictions.
+2014-01-05 15:53:41,736--INFO--main--Cached test predictions found for model oakland_other_views.  Using cached predictions.
+2014-01-05 15:53:41,736--INFO--main--Cached test predictions found for model chicago_other_views.  Using cached predictions.
+2014-01-05 15:53:41,736--INFO--main--Cached test predictions found for model chicago_other_votes.  Using cached predictions.
+2014-01-05 15:53:41,737--INFO--main--Cached test predictions found for model new_haven_views.  Using cached predictions.
+2014-01-05 15:53:41,737--INFO--main--Cached test predictions found for model richmond_cmts.  Using cached predictions.
+2014-01-05 15:53:41,737--INFO--main--==========EXPORTING CACHED MODELS===========
+2014-01-05 15:53:41,743--INFO--data_io--Cached object already exists with given filename, archiving old object to: Cache/Archive/segment_models--01-05-14_1532.pkl
+2014-01-05 15:53:56,485--INFO--data_io--New object cached to: Cache/segment_models.pkl
+2014-01-05 15:53:56,486--INFO--main--===MERGING TEST PREDICTIONS FROM SEGMENTS===
+2014-01-05 15:54:01,009--INFO--main--Test predictions merged and saved to: Output/bryan_test_predictions01-05-14_1554.csv
+2014-01-05 15:54:01,009--INFO--main--********Program ran successfully. Exiting********
+2014-01-05 15:57:07,565--INFO--main--********New program instance started********
+2014-01-05 15:57:07,565--INFO--utils--=============LOADING SETTINGS===============
+2014-01-05 15:57:07,565--INFO--utils--ENVIRONMENT SETTINGS: 
+2014-01-05 15:57:07,565--INFO--utils--{u'cv_method': u'april', u'export_cached_models': u'y', u'export_cv_predictions_new_models': u'n', u'file_data_train': u'Data/train_addr_inc_pop.csv', u'use_cached_data': u'y', u'export_cached_features': u'n', u'export_cv_predictions_all_models': u'n', u'export_cv_predictions_total': u'n', u'file_data_test': u'Data/test_addr_inc_pop.csv', u'dir_submissions': u'Output/', u'export_predictions_all_models': u'n', u'export_predictions_total': u'y', u'file_model_settings': u'MODELS.json', u'export_predictions_new_models': u'n', u'dir_cache': u'Cache/'}
+2014-01-05 15:57:07,566--INFO--main--==========LOADING CACHED FEATURES===========
+2014-01-05 15:57:14,846--INFO--data_io--Successfully loaded object from: Cache/dfTrn.pkl
+2014-01-05 15:57:21,287--INFO--data_io--Successfully loaded object from: Cache/dfTest.pkl
+2014-01-05 15:57:21,311--INFO--main--=========LOADING CACHED MODELS==============
+2014-01-05 15:57:22,603--INFO--data_io--Successfully loaded object from: Cache/segment_models.pkl
+2014-01-05 15:57:22,606--INFO--main--=======INITIALIZING UN-CACHED MODELS========
+2014-01-05 15:57:22,606--INFO--main--Model richmond_views intialized at index 1
+2014-01-05 15:57:22,606--INFO--main--=======GENERATING TEST PREDICTIONS==========
+2014-01-05 15:57:22,606--INFO--main--Cached test predictions found for model chicago_other_cmts.  Using cached predictions.
+2014-01-05 15:57:22,606--INFO--main--============================================
+2014-01-05 15:57:22,607--INFO--main--MODEL: richmond_views    SEGMENT: Richmond     TARGET: num_views 
+2014-01-05 15:57:22,607--INFO--main--FEATURES: ['neighborhood', 'weekend_fg']
+2014-01-05 15:57:22,607--INFO--main--ESTIMATOR CLASS: SVR(C=1.0, cache_size=16000, coef0=0.0, degree=3, epsilon=0.1, gamma=0.0,
+  kernel=linear, max_iter=-1, probability=False, random_state=8888,
+  shrinking=True, tol=0.001, verbose=False) 
+2014-01-05 15:57:22,607--INFO--main--POST-PROCESS SCALAR: 0.6 
+2014-01-05 15:57:22,906--INFO--train--Predictions started at: 01-05-14 15:57
+2014-01-05 15:57:35,585--INFO--train--Prediction metrics: mean=3.068017, std dev=2.930468, min/max= 0.726251/43.908173
+2014-01-05 15:57:35,586--INFO--train--Predictions completed at: 01-05-14 15:57.  Total runtime: 0:00:12.677825
+2014-01-05 15:57:35,587--INFO--main--============================================
+2014-01-05 15:57:35,587--INFO--main--Cached test predictions found for model remote_api_views.  Using cached predictions.
+2014-01-05 15:57:35,588--INFO--main--Cached test predictions found for model oakland_other_cmts.  Using cached predictions.
+2014-01-05 15:57:35,588--INFO--main--Cached test predictions found for model oakland_other_votes.  Using cached predictions.
+2014-01-05 15:57:35,588--INFO--main--Cached test predictions found for model new_haven_cmts.  Using cached predictions.
+2014-01-05 15:57:35,588--INFO--main--Cached test predictions found for model richmond_votes.  Using cached predictions.
+2014-01-05 15:57:35,588--INFO--main--Cached test predictions found for model new_haven_votes.  Using cached predictions.
+2014-01-05 15:57:35,588--INFO--main--Cached test predictions found for model oakland_other_views.  Using cached predictions.
+2014-01-05 15:57:35,588--INFO--main--Cached test predictions found for model chicago_other_views.  Using cached predictions.
+2014-01-05 15:57:35,589--INFO--main--Cached test predictions found for model chicago_other_votes.  Using cached predictions.
+2014-01-05 15:57:35,589--INFO--main--Cached test predictions found for model new_haven_views.  Using cached predictions.
+2014-01-05 15:57:35,589--INFO--main--Cached test predictions found for model richmond_cmts.  Using cached predictions.
+2014-01-05 15:57:35,589--INFO--main--==========EXPORTING CACHED MODELS===========
+2014-01-05 15:57:35,595--INFO--data_io--Cached object already exists with given filename, archiving old object to: Cache/Archive/segment_models--01-05-14_1553.pkl
+2014-01-05 15:57:50,414--INFO--data_io--New object cached to: Cache/segment_models.pkl
+2014-01-05 15:57:50,416--INFO--main--===MERGING TEST PREDICTIONS FROM SEGMENTS===
+2014-01-05 15:57:55,095--INFO--main--Test predictions merged and saved to: Output/bryan_test_predictions01-05-14_1557.csv
+2014-01-05 15:57:55,095--INFO--main--********Program ran successfully. Exiting********
+2014-01-05 16:06:35,695--INFO--main--********New program instance started********
+2014-01-05 16:06:35,696--INFO--utils--=============LOADING SETTINGS===============
+2014-01-05 16:06:35,696--INFO--utils--ENVIRONMENT SETTINGS: 
+2014-01-05 16:06:35,696--INFO--utils--{u'cv_method': u'april', u'export_cached_models': u'y', u'export_cv_predictions_new_models': u'n', u'file_data_train': u'Data/train_addr_inc_pop.csv', u'use_cached_data': u'y', u'export_cached_features': u'n', u'export_cv_predictions_all_models': u'n', u'export_cv_predictions_total': u'n', u'file_data_test': u'Data/test_addr_inc_pop.csv', u'dir_submissions': u'Output/', u'export_predictions_all_models': u'n', u'export_predictions_total': u'y', u'file_model_settings': u'MODELS.json', u'export_predictions_new_models': u'n', u'dir_cache': u'Cache/'}
+2014-01-05 16:06:35,696--INFO--main--==========LOADING CACHED FEATURES===========
+2014-01-05 16:06:43,121--INFO--data_io--Successfully loaded object from: Cache/dfTrn.pkl
+2014-01-05 16:06:49,624--INFO--data_io--Successfully loaded object from: Cache/dfTest.pkl
+2014-01-05 16:06:49,647--INFO--main--=========LOADING CACHED MODELS==============
+2014-01-05 16:06:50,952--INFO--data_io--Successfully loaded object from: Cache/segment_models.pkl
+2014-01-05 16:06:50,955--INFO--main--=======INITIALIZING UN-CACHED MODELS========
+2014-01-05 16:06:50,955--INFO--main--Model richmond_views intialized at index 1
+2014-01-05 16:06:50,955--INFO--main--=======GENERATING TEST PREDICTIONS==========
+2014-01-05 16:06:50,955--INFO--main--Cached test predictions found for model chicago_other_cmts.  Using cached predictions.
+2014-01-05 16:06:50,956--INFO--main--============================================
+2014-01-05 16:06:50,956--INFO--main--MODEL: richmond_views    SEGMENT: Richmond     TARGET: num_views 
+2014-01-05 16:06:50,956--INFO--main--FEATURES: ['neighborhood', 'weekend_fg']
+2014-01-05 16:06:50,956--INFO--main--ESTIMATOR CLASS: SVR(C=1.0, cache_size=16000, coef0=0.0, degree=3, epsilon=0.1, gamma=0.0,
+  kernel=linear, max_iter=-1, probability=False, random_state=8888,
+  shrinking=True, tol=0.001, verbose=False) 
+2014-01-05 16:06:50,956--INFO--main--POST-PROCESS SCALAR: 0.51 
+2014-01-05 16:06:51,264--INFO--train--Predictions started at: 01-05-14 16:06
+2014-01-05 16:07:04,024--INFO--train--Prediction metrics: mean=2.607814, std dev=2.490898, min/max= 0.617313/37.321947
+2014-01-05 16:07:04,024--INFO--train--Predictions completed at: 01-05-14 16:07.  Total runtime: 0:00:12.758104
+2014-01-05 16:07:04,027--INFO--main--============================================
+2014-01-05 16:07:04,027--INFO--main--Cached test predictions found for model remote_api_views.  Using cached predictions.
+2014-01-05 16:07:04,027--INFO--main--Cached test predictions found for model oakland_other_cmts.  Using cached predictions.
+2014-01-05 16:07:04,028--INFO--main--Cached test predictions found for model oakland_other_votes.  Using cached predictions.
+2014-01-05 16:07:04,028--INFO--main--Cached test predictions found for model new_haven_cmts.  Using cached predictions.
+2014-01-05 16:07:04,028--INFO--main--Cached test predictions found for model richmond_votes.  Using cached predictions.
+2014-01-05 16:07:04,028--INFO--main--Cached test predictions found for model new_haven_votes.  Using cached predictions.
+2014-01-05 16:07:04,029--INFO--main--Cached test predictions found for model oakland_other_views.  Using cached predictions.
+2014-01-05 16:07:04,029--INFO--main--Cached test predictions found for model chicago_other_views.  Using cached predictions.
+2014-01-05 16:07:04,029--INFO--main--Cached test predictions found for model chicago_other_votes.  Using cached predictions.
+2014-01-05 16:07:04,029--INFO--main--Cached test predictions found for model new_haven_views.  Using cached predictions.
+2014-01-05 16:07:04,029--INFO--main--Cached test predictions found for model richmond_cmts.  Using cached predictions.
+2014-01-05 16:07:04,029--INFO--main--==========EXPORTING CACHED MODELS===========
+2014-01-05 16:07:04,039--INFO--data_io--Cached object already exists with given filename, archiving old object to: Cache/Archive/segment_models--01-05-14_1557.pkl
+2014-01-05 16:07:18,845--INFO--data_io--New object cached to: Cache/segment_models.pkl
+2014-01-05 16:07:18,847--INFO--main--===MERGING TEST PREDICTIONS FROM SEGMENTS===
+2014-01-05 16:07:23,354--INFO--main--Test predictions merged and saved to: Output/bryan_test_predictions01-05-14_1607.csv
+2014-01-05 16:07:23,355--INFO--main--********Program ran successfully. Exiting********
+2014-01-05 16:17:00,622--INFO--main--********New program instance started********
+2014-01-05 16:17:00,623--INFO--utils--=============LOADING SETTINGS===============
+2014-01-05 16:17:00,623--INFO--utils--ENVIRONMENT SETTINGS: 
+2014-01-05 16:17:00,623--INFO--utils--{u'cv_method': u'april', u'export_cached_models': u'y', u'export_cv_predictions_new_models': u'n', u'file_data_train': u'Data/train_addr_inc_pop.csv', u'use_cached_data': u'y', u'export_cached_features': u'n', u'export_cv_predictions_all_models': u'n', u'export_cv_predictions_total': u'n', u'file_data_test': u'Data/test_addr_inc_pop.csv', u'dir_submissions': u'Output/', u'export_predictions_all_models': u'n', u'export_predictions_total': u'y', u'file_model_settings': u'MODELS.json', u'export_predictions_new_models': u'n', u'dir_cache': u'Cache/'}
+2014-01-05 16:17:00,624--INFO--main--==========LOADING CACHED FEATURES===========
+2014-01-05 16:17:08,089--INFO--data_io--Successfully loaded object from: Cache/dfTrn.pkl
+2014-01-05 16:17:14,534--INFO--data_io--Successfully loaded object from: Cache/dfTest.pkl
+2014-01-05 16:17:14,558--INFO--main--=========LOADING CACHED MODELS==============
+2014-01-05 16:17:15,835--INFO--data_io--Successfully loaded object from: Cache/segment_models.pkl
+2014-01-05 16:17:15,837--INFO--main--=======INITIALIZING UN-CACHED MODELS========
+2014-01-05 16:17:15,838--INFO--main--=======GENERATING TEST PREDICTIONS==========
+2014-01-05 16:17:15,838--INFO--main--Cached test predictions found for model chicago_other_cmts.  Using cached predictions.
+2014-01-05 16:17:15,838--INFO--main--Cached test predictions found for model richmond_views.  Using cached predictions.
+2014-01-05 16:17:15,838--INFO--main--Cached test predictions found for model remote_api_views.  Using cached predictions.
+2014-01-05 16:17:15,838--INFO--main--Cached test predictions found for model oakland_other_cmts.  Using cached predictions.
+2014-01-05 16:17:15,838--INFO--main--Cached test predictions found for model oakland_other_votes.  Using cached predictions.
+2014-01-05 16:17:15,839--INFO--main--Cached test predictions found for model new_haven_cmts.  Using cached predictions.
+2014-01-05 16:17:15,839--INFO--main--Cached test predictions found for model richmond_votes.  Using cached predictions.
+2014-01-05 16:17:15,839--INFO--main--Cached test predictions found for model new_haven_votes.  Using cached predictions.
+2014-01-05 16:17:15,839--INFO--main--Cached test predictions found for model oakland_other_views.  Using cached predictions.
+2014-01-05 16:17:15,839--INFO--main--Cached test predictions found for model chicago_other_views.  Using cached predictions.
+2014-01-05 16:17:15,839--INFO--main--Cached test predictions found for model chicago_other_votes.  Using cached predictions.
+2014-01-05 16:17:15,840--INFO--main--Cached test predictions found for model new_haven_views.  Using cached predictions.
+2014-01-05 16:17:15,840--INFO--main--Cached test predictions found for model richmond_cmts.  Using cached predictions.
+2014-01-05 16:17:15,840--INFO--main--==========EXPORTING CACHED MODELS===========
+2014-01-05 16:17:15,846--INFO--data_io--Cached object already exists with given filename, archiving old object to: Cache/Archive/segment_models--01-05-14_1607.pkl
+2014-01-05 16:17:30,681--INFO--data_io--New object cached to: Cache/segment_models.pkl
+2014-01-05 16:17:30,683--INFO--main--===MERGING TEST PREDICTIONS FROM SEGMENTS===
+2014-01-05 16:17:34,746--INFO--data_io--File already exists with given filename, archiving old file to: Output/Archive/bryan_test_predictions--01-05-14_1607.pkl
+2014-01-05 16:17:35,316--INFO--data_io--Submission file saved: bryan_test_predictions.csv
+2014-01-05 16:20:46,828--INFO--main--********New program instance started********
+2014-01-05 16:20:46,828--INFO--utils--=============LOADING SETTINGS===============
+2014-01-05 16:20:46,829--INFO--utils--ENVIRONMENT SETTINGS: 
+2014-01-05 16:20:46,829--INFO--utils--{u'cv_method': u'april', u'export_cached_models': u'y', u'export_cv_predictions_new_models': u'n', u'file_data_train': u'Data/train_addr_inc_pop.csv', u'use_cached_data': u'y', u'export_cached_features': u'n', u'export_cv_predictions_all_models': u'n', u'export_cv_predictions_total': u'n', u'file_data_test': u'Data/test_addr_inc_pop.csv', u'dir_submissions': u'Output/', u'export_predictions_all_models': u'n', u'export_predictions_total': u'y', u'file_model_settings': u'MODELS.json', u'export_predictions_new_models': u'n', u'dir_cache': u'Cache/'}
+2014-01-05 16:20:46,829--INFO--main--==========LOADING CACHED FEATURES===========
+2014-01-05 16:20:54,266--INFO--data_io--Successfully loaded object from: Cache/dfTrn.pkl
+2014-01-05 16:21:00,769--INFO--data_io--Successfully loaded object from: Cache/dfTest.pkl
+2014-01-05 16:21:00,792--INFO--main--=========LOADING CACHED MODELS==============
+2014-01-05 16:21:02,091--INFO--data_io--Successfully loaded object from: Cache/segment_models.pkl
+2014-01-05 16:21:02,093--INFO--main--=======INITIALIZING UN-CACHED MODELS========
+2014-01-05 16:21:02,093--INFO--main--=======GENERATING TEST PREDICTIONS==========
+2014-01-05 16:21:02,093--INFO--main--Cached test predictions found for model chicago_other_cmts.  Using cached predictions.
+2014-01-05 16:21:02,094--INFO--main--Cached test predictions found for model richmond_views.  Using cached predictions.
+2014-01-05 16:21:02,094--INFO--main--Cached test predictions found for model remote_api_views.  Using cached predictions.
+2014-01-05 16:21:02,094--INFO--main--Cached test predictions found for model oakland_other_cmts.  Using cached predictions.
+2014-01-05 16:21:02,094--INFO--main--Cached test predictions found for model oakland_other_votes.  Using cached predictions.
+2014-01-05 16:21:02,094--INFO--main--Cached test predictions found for model new_haven_cmts.  Using cached predictions.
+2014-01-05 16:21:02,094--INFO--main--Cached test predictions found for model richmond_votes.  Using cached predictions.
+2014-01-05 16:21:02,095--INFO--main--Cached test predictions found for model new_haven_votes.  Using cached predictions.
+2014-01-05 16:21:02,095--INFO--main--Cached test predictions found for model oakland_other_views.  Using cached predictions.
+2014-01-05 16:21:02,095--INFO--main--Cached test predictions found for model chicago_other_views.  Using cached predictions.
+2014-01-05 16:21:02,095--INFO--main--Cached test predictions found for model chicago_other_votes.  Using cached predictions.
+2014-01-05 16:21:02,095--INFO--main--Cached test predictions found for model new_haven_views.  Using cached predictions.
+2014-01-05 16:21:02,096--INFO--main--Cached test predictions found for model richmond_cmts.  Using cached predictions.
+2014-01-05 16:21:02,096--INFO--main--==========EXPORTING CACHED MODELS===========
+2014-01-05 16:21:02,105--INFO--data_io--Cached object already exists with given filename, archiving old object to: Cache/Archive/segment_models--01-05-14_1617.pkl
+2014-01-05 16:21:16,950--INFO--data_io--New object cached to: Cache/segment_models.pkl
+2014-01-05 16:21:16,952--INFO--main--===MERGING TEST PREDICTIONS FROM SEGMENTS===
+2014-01-05 16:21:20,860--INFO--data_io--File already exists with given filename, archiving old file to: Output/Archive/bryan_test_predictions--01-05-14_1617.csv
+2014-01-05 16:21:21,441--INFO--data_io--Submission file saved: bryan_test_predictions.csv
+2014-01-05 16:21:21,441--INFO--main--Test predictions merged and saved to: Output/bryan_test_predictions.csv
+2014-01-05 16:21:21,441--INFO--main--********Program ran successfully. Exiting********
+2014-01-05 16:23:59,400--INFO--main--********New program instance started********
+2014-01-05 16:23:59,400--INFO--utils--=============LOADING SETTINGS===============
+2014-01-05 16:23:59,401--INFO--utils--ENVIRONMENT SETTINGS: 
+2014-01-05 16:23:59,401--INFO--utils--{u'cv_method': u'april', u'export_cached_models': u'y', u'export_cv_predictions_new_models': u'n', u'file_data_train': u'Data/train_addr_inc_pop.csv', u'use_cached_data': u'y', u'export_cached_features': u'n', u'export_cv_predictions_all_models': u'n', u'export_cv_predictions_total': u'n', u'file_data_test': u'Data/test_addr_inc_pop.csv', u'dir_submissions': u'Output/', u'export_predictions_all_models': u'n', u'export_predictions_total': u'y', u'file_model_settings': u'MODELS.json', u'export_predictions_new_models': u'n', u'dir_cache': u'Cache/'}
+2014-01-05 16:23:59,401--INFO--main--==========LOADING CACHED FEATURES===========
+2014-01-05 16:24:06,884--INFO--data_io--Successfully loaded object from: Cache/dfTrn.pkl
+2014-01-05 16:24:13,500--INFO--data_io--Successfully loaded object from: Cache/dfTest.pkl
+2014-01-05 16:24:13,524--INFO--main--=========LOADING CACHED MODELS==============
+2014-01-05 16:24:14,826--INFO--data_io--Successfully loaded object from: Cache/segment_models.pkl
+2014-01-05 16:24:14,829--INFO--main--=======INITIALIZING UN-CACHED MODELS========
+2014-01-05 16:24:14,829--INFO--main--=======GENERATING TEST PREDICTIONS==========
+2014-01-05 16:24:14,829--INFO--main--Cached test predictions found for model chicago_other_cmts.  Using cached predictions.
+2014-01-05 16:24:14,829--INFO--main--Cached test predictions found for model richmond_views.  Using cached predictions.
+2014-01-05 16:24:14,830--INFO--main--Cached test predictions found for model remote_api_views.  Using cached predictions.
+2014-01-05 16:24:14,830--INFO--main--Cached test predictions found for model oakland_other_cmts.  Using cached predictions.
+2014-01-05 16:24:14,830--INFO--main--Cached test predictions found for model oakland_other_votes.  Using cached predictions.
+2014-01-05 16:24:14,830--INFO--main--Cached test predictions found for model new_haven_cmts.  Using cached predictions.
+2014-01-05 16:24:14,830--INFO--main--Cached test predictions found for model richmond_votes.  Using cached predictions.
+2014-01-05 16:24:14,830--INFO--main--Cached test predictions found for model new_haven_votes.  Using cached predictions.
+2014-01-05 16:24:14,831--INFO--main--Cached test predictions found for model oakland_other_views.  Using cached predictions.
+2014-01-05 16:24:14,831--INFO--main--Cached test predictions found for model chicago_other_views.  Using cached predictions.
+2014-01-05 16:24:14,831--INFO--main--Cached test predictions found for model chicago_other_votes.  Using cached predictions.
+2014-01-05 16:24:14,831--INFO--main--Cached test predictions found for model new_haven_views.  Using cached predictions.
+2014-01-05 16:24:14,831--INFO--main--Cached test predictions found for model richmond_cmts.  Using cached predictions.
+2014-01-05 16:24:14,832--INFO--main--==========EXPORTING CACHED MODELS===========
+2014-01-05 16:24:14,838--INFO--data_io--Cached object already exists with given filename, archiving old object to: Cache/Archive/segment_models--01-05-14_1621.pkl
+2014-01-05 16:24:29,703--INFO--data_io--New object cached to: Cache/segment_models.pkl
+2014-01-05 16:24:29,705--INFO--main--===MERGING TEST PREDICTIONS FROM SEGMENTS===
+2014-01-05 16:24:33,688--INFO--data_io--File already exists with given filename, archiving old file to: Output/Archive/bryan_test_predictions--01-05-14_1627.csv
+2014-01-05 16:24:34,271--INFO--data_io--Predictions saved: bryan_test_predictions.csv
+2014-01-05 16:24:34,272--INFO--main--********Program ran successfully. Exiting********
+2014-01-05 16:34:57,210--INFO--<ipython-input-178-38d3a94050a0>--FUCK
+2014-01-05 16:35:22,779--INFO--<ipython-input-7-38d3a94050a0>--FUCK
+2014-01-05 16:36:33,532--INFO--<ipython-input-8-0d881c8d2c4c>--FUCK2
+2014-01-05 16:36:38,401--INFO--<ipython-input-9-9cef1f1c45e1>--FUCK3
+2014-01-05 16:37:18,704--INFO--<ipython-input-11-e2b12e9782a5>--FUCK3 ASDF
+2014-01-05 16:37:22,588--INFO--<ipython-input-12-b118c606a5f6>--FUCK4 ASDF
+2014-01-05 16:37:59,009--INFO--main--********New program instance started********
+2014-01-05 16:37:59,009--INFO--utils--=============LOADING SETTINGS===============
+2014-01-05 16:37:59,009--INFO--utils--ENVIRONMENT SETTINGS: 
+2014-01-05 16:37:59,009--INFO--utils--{u'cv_method': u'april', u'export_cached_models': u'y', u'export_cv_predictions_new_models': u'n', u'file_data_train': u'Data/train_addr_inc_pop.csv', u'use_cached_data': u'y', u'export_cached_features': u'n', u'export_cv_predictions_all_models': u'n', u'export_cv_predictions_total': u'n', u'file_data_test': u'Data/test_addr_inc_pop.csv', u'dir_submissions': u'Output/', u'export_predictions_all_models': u'n', u'export_predictions_total': u'y', u'file_model_settings': u'MODELS.json', u'export_predictions_new_models': u'n', u'dir_cache': u'Cache/'}
+2014-01-05 16:37:59,010--INFO--main--==========LOADING CACHED FEATURES===========
+2014-01-05 16:38:05,233--INFO--data_io--Successfully loaded object from: Cache/dfTrn.pkl
+2014-01-05 16:38:10,677--INFO--data_io--Successfully loaded object from: Cache/dfTest.pkl
+2014-01-05 16:38:10,701--INFO--main--=========LOADING CACHED MODELS==============
+2014-01-05 16:38:11,755--INFO--data_io--Successfully loaded object from: Cache/segment_models.pkl
+2014-01-05 16:38:11,755--INFO--main--=======INITIALIZING UN-CACHED MODELS========
+2014-01-05 16:38:11,756--INFO--main--=======GENERATING TEST PREDICTIONS==========
+2014-01-05 16:38:11,756--INFO--main--Cached test predictions found for model chicago_other_cmts.  Using cached predictions.
+2014-01-05 16:38:11,756--INFO--main--Cached test predictions found for model richmond_views.  Using cached predictions.
+2014-01-05 16:38:11,756--INFO--main--Cached test predictions found for model remote_api_views.  Using cached predictions.
+2014-01-05 16:38:11,756--INFO--main--Cached test predictions found for model oakland_other_cmts.  Using cached predictions.
+2014-01-05 16:38:11,756--INFO--main--Cached test predictions found for model oakland_other_votes.  Using cached predictions.
+2014-01-05 16:38:11,756--INFO--main--Cached test predictions found for model new_haven_cmts.  Using cached predictions.
+2014-01-05 16:38:11,757--INFO--main--Cached test predictions found for model richmond_votes.  Using cached predictions.
+2014-01-05 16:38:11,757--INFO--main--Cached test predictions found for model new_haven_votes.  Using cached predictions.
+2014-01-05 16:38:11,757--INFO--main--Cached test predictions found for model oakland_other_views.  Using cached predictions.
+2014-01-05 16:38:11,757--INFO--main--Cached test predictions found for model chicago_other_views.  Using cached predictions.
+2014-01-05 16:38:11,759--INFO--main--Cached test predictions found for model chicago_other_votes.  Using cached predictions.
+2014-01-05 16:38:11,759--INFO--main--Cached test predictions found for model new_haven_views.  Using cached predictions.
+2014-01-05 16:38:11,759--INFO--main--Cached test predictions found for model richmond_cmts.  Using cached predictions.
+2014-01-05 16:38:11,759--INFO--main--==========EXPORTING CACHED MODELS===========
+2014-01-05 16:38:11,763--INFO--data_io--Cached object already exists with given filename, archiving old object to: Cache/Archive/segment_models--01-05-14_1624.pkl
+2014-01-05 16:38:35,450--INFO--main--********New program instance started********
+2014-01-05 16:38:35,450--INFO--utils--=============LOADING SETTINGS===============
+2014-01-05 16:38:35,450--INFO--utils--ENVIRONMENT SETTINGS: 
+2014-01-05 16:38:35,450--INFO--utils--{u'cv_method': u'april', u'export_cached_models': u'y', u'export_cv_predictions_new_models': u'n', u'file_data_train': u'Data/train_addr_inc_pop.csv', u'use_cached_data': u'y', u'export_cached_features': u'n', u'export_cv_predictions_all_models': u'n', u'export_cv_predictions_total': u'n', u'file_data_test': u'Data/test_addr_inc_pop.csv', u'dir_submissions': u'Output/', u'export_predictions_all_models': u'n', u'export_predictions_total': u'y', u'file_model_settings': u'MODELS.json', u'export_predictions_new_models': u'n', u'dir_cache': u'Cache/'}
+2014-01-05 16:38:35,451--INFO--main--==========LOADING CACHED FEATURES===========
+2014-01-05 16:38:41,686--INFO--data_io--Successfully loaded object from: Cache/dfTrn.pkl
+2014-01-05 16:35:02,303--INFO--main--********New program instance started********
+2014-01-05 16:35:02,303--INFO--utils--=============LOADING SETTINGS===============
+2014-01-05 16:35:02,303--INFO--utils--ENVIRONMENT SETTINGS: 
+2014-01-05 16:35:02,303--INFO--utils--{u'cv_method': u'april', u'export_cached_models': u'y', u'export_cv_predictions_new_models': u'n', u'file_data_train': u'Data/train_addr_inc_pop.csv', u'use_cached_data': u'y', u'export_cached_features': u'n', u'export_cv_predictions_all_models': u'n', u'export_cv_predictions_total': u'n', u'file_data_test': u'Data/test_addr_inc_pop.csv', u'dir_submissions': u'Output/', u'export_predictions_all_models': u'n', u'export_predictions_total': u'y', u'file_model_settings': u'MODELS.json', u'export_predictions_new_models': u'n', u'dir_cache': u'Cache/'}
+2014-01-05 16:35:02,304--INFO--main--==========LOADING CACHED FEATURES===========
+2014-01-05 16:35:09,639--INFO--data_io--Successfully loaded object from: Cache/dfTrn.pkl
+2014-01-05 16:35:16,116--INFO--data_io--Successfully loaded object from: Cache/dfTest.pkl
+2014-01-05 16:35:16,140--INFO--main--=========LOADING CACHED MODELS==============
+2014-01-05 16:35:50,132--INFO--<console>--TEST TEST TEST
+2014-01-05 16:36:54,205--INFO--main--********New program instance started********
+2014-01-05 16:36:54,205--INFO--utils--=============LOADING SETTINGS===============
+2014-01-05 16:36:54,205--INFO--utils--ENVIRONMENT SETTINGS: 
+2014-01-05 16:36:54,206--INFO--utils--{u'cv_method': u'april', u'export_cached_models': u'y', u'export_cv_predictions_new_models': u'n', u'file_data_train': u'Data/train_addr_inc_pop.csv', u'use_cached_data': u'y', u'export_cached_features': u'n', u'export_cv_predictions_all_models': u'n', u'export_cv_predictions_total': u'n', u'file_data_test': u'Data/test_addr_inc_pop.csv', u'dir_submissions': u'Output/', u'export_predictions_all_models': u'n', u'export_predictions_total': u'y', u'file_model_settings': u'MODELS.json', u'export_predictions_new_models': u'n', u'dir_cache': u'Cache/'}
+2014-01-05 16:36:54,206--INFO--main--==========LOADING CACHED FEATURES===========
+2014-01-05 16:37:01,529--INFO--data_io--Successfully loaded object from: Cache/dfTrn.pkl
+2014-01-05 16:37:07,971--INFO--data_io--Successfully loaded object from: Cache/dfTest.pkl
+2014-01-05 16:37:07,994--INFO--main--=========LOADING CACHED MODELS==============
+2014-01-05 16:37:09,285--INFO--data_io--Successfully loaded object from: Cache/segment_models.pkl
+2014-01-05 16:37:09,287--INFO--main--=======INITIALIZING UN-CACHED MODELS========
+2014-01-05 16:37:09,288--INFO--main--=======GENERATING TEST PREDICTIONS==========
+2014-01-05 16:37:09,288--INFO--main--Cached test predictions found for model chicago_other_cmts.  Using cached predictions.
+2014-01-05 16:37:09,288--INFO--main--Cached test predictions found for model richmond_views.  Using cached predictions.
+2014-01-05 16:37:09,288--INFO--main--Cached test predictions found for model remote_api_views.  Using cached predictions.
+2014-01-05 16:37:09,288--INFO--main--Cached test predictions found for model oakland_other_cmts.  Using cached predictions.
+2014-01-05 16:37:09,288--INFO--main--Cached test predictions found for model oakland_other_votes.  Using cached predictions.
+2014-01-05 16:37:09,288--INFO--main--Cached test predictions found for model new_haven_cmts.  Using cached predictions.
+2014-01-05 16:37:09,289--INFO--main--Cached test predictions found for model richmond_votes.  Using cached predictions.
+2014-01-05 16:37:09,289--INFO--main--Cached test predictions found for model new_haven_votes.  Using cached predictions.
+2014-01-05 16:37:09,289--INFO--main--Cached test predictions found for model oakland_other_views.  Using cached predictions.
+2014-01-05 16:37:09,289--INFO--main--Cached test predictions found for model chicago_other_views.  Using cached predictions.
+2014-01-05 16:37:09,289--INFO--main--Cached test predictions found for model chicago_other_votes.  Using cached predictions.
+2014-01-05 16:37:09,289--INFO--main--Cached test predictions found for model new_haven_views.  Using cached predictions.
+2014-01-05 16:37:09,289--INFO--main--Cached test predictions found for model richmond_cmts.  Using cached predictions.
+2014-01-05 16:37:09,290--INFO--main--==========EXPORTING CACHED MODELS===========
+2014-01-05 16:37:09,297--INFO--data_io--Cached object already exists with given filename, archiving old object to: Cache/Archive/segment_models--01-05-14_1624.pkl
+2014-01-05 16:37:24,167--INFO--data_io--New object cached to: Cache/segment_models.pkl
+2014-01-05 16:37:24,169--INFO--main--===MERGING TEST PREDICTIONS FROM SEGMENTS===
+2014-01-05 16:37:28,188--INFO--data_io--File already exists with given filename, archiving old file to: Output/Archive/bryan_test_predictions--01-05-14_1624.csv
+2014-01-05 16:37:28,775--INFO--data_io--Predictions saved: bryan_test_predictions.csv
+2014-01-05 16:37:28,775--INFO--main--********Program ran successfully. Exiting********
+2014-01-05 16:42:46,622--INFO--<console>--TEST TEST TEST
+2014-01-05 16:43:35,865--INFO--<console>--TEST TEST TEST
+2014-01-05 16:43:37,223--INFO--<console>--TEST TEST TEST
+2014-01-05 16:46:24,394--INFO--<console>--TEST TEST TEST
+2014-01-05 16:46:25,337--INFO--<console>--TEST TEST TEST
+2014-01-05 16:46:26,041--INFO--<console>--TEST TEST TEST
+2014-01-05 16:46:26,595--INFO--<console>--TEST TEST TEST
+2014-01-05 16:46:27,132--INFO--<console>--TEST TEST TEST
+2014-01-05 16:46:28,103--INFO--<console>--TEST TEST TEST
+2014-01-05 16:47:10,497--INFO--<console>--TEST TEST TEST
+2014-01-05 16:47:10,922--INFO--<console>--TEST TEST TEST
+2014-01-05 16:47:11,309--INFO--<console>--TEST TEST TEST
+2014-01-05 16:47:34,881--INFO--<console>--TEST TEST TEST
+2014-01-05 16:47:35,287--INFO--<console>--TEST TEST TEST
+2014-01-05 16:47:35,677--INFO--<console>--TEST TEST TEST
+2014-01-05 16:52:11,911--INFO--<console>--TEST TEST TEST
+2014-01-05 16:52:13,200--INFO--<console>--TEST TEST TEST
+2014-01-05 16:52:14,237--INFO--<console>--TEST TEST TEST

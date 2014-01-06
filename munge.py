@@ -1,29 +1,34 @@
-'''
+"""
 Functions for data loading, cleaning, and merging data
-'''
+"""
 __author__ = 'Bryan Gregory'
 __email__ = 'bryan.gregory1@gmail.com'
 __date__ = '11-19-2013'
 
+#Internal modules
+import utils
+#Start logger to record all info, warnings, and errors to Logs/logfile.log
+log = utils.start_logging(__name__)
+
+#External modules
 import numpy as np
 import json
-import re
 import datetime
 
 #Clean the data of inconsistencies, bad date fields, bad data types, nested columns, etc.
 def clean(df):
     #----Convert created_time to date object ----#
-    df['created_time'] = [datetime.datetime.strptime(x, "%m/%d/%Y %H:%M") for x in df.created_time]
+    df['created_time'] = [datetime.datetime.strptime(x, '%m/%d/%Y %H:%M') for x in df.created_time]
 
     #-----Parse time from date----#
     df['created_date'] = [x.date() for x in df.created_time]
     df['created_time'] = [x.time() for x in df.created_time]
-    #df['created_date'] = [datetime.datetime.strptime(x[:10], "%Y-%m-%d") for x in df['created_time_orig']]
-    #df['created_time'] = [datetime.datetime.strptime(x[11:], "%H:%M:%S") for x in df['created_time_orig']]
+    #df['created_date'] = [datetime.datetime.strptime(x[:10], '%Y-%m-%d') for x in df['created_time_orig']]
+    #df['created_time'] = [datetime.datetime.strptime(x[11:], '%H:%M:%S') for x in df['created_time_orig']]
     df['month'] = [str(x.month) for x in df['created_date']]
 
     #---Fill short or missing text data----#
-    df['description']=["___missing___" if len(str(df['description'][idx])) < 4 else df['description'][idx] for idx in df.index]
+    df['description']=['___missing___' if len(str(df['description'][idx])) < 4 else df['description'][idx] for idx in df.index]
 
     #---Fill missing categorical data with NA---#
     df['tag_type'] = df.tag_type.fillna('NA')
@@ -51,7 +56,7 @@ def clean(df):
 
     #----Transform target variables to allow predictions in RMSE space----#
     if 'num_votes' in df.keys():
-        for target in ["num_views","num_votes","num_comments"]:
+        for target in ['num_views','num_votes','num_comments']:
             df[target] = np.log(df[target] + 1)
 
     #----Convert data types-----#
@@ -86,7 +91,7 @@ def segment_data(dfTrn,dfTest,segment):
         #due to marginally better CV performance with remote_api issues left in training set
         dfTrn = dfTrn[dfTrn.city == segment]
         dfTest = dfTest[dfTest.city == segment]
-        #dfTest = dfTest[np.logical_and(dfTest.city == segment,dfTest.source != 'remote_api_created')]
+        dfTest = dfTest[np.logical_and(dfTest.city == segment,dfTest.source != 'remote_api_created')]
     if segment in ['Chicago']:
         dfTrn = dfTrn[np.logical_and(dfTrn.city == segment,dfTrn.source != 'remote_api_created')]
         dfTest = dfTest[np.logical_and(dfTest.city == segment,dfTest.source != 'remote_api_created')]

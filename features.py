@@ -1,10 +1,16 @@
-'''
+"""
 Functions for hand crafting features
-'''
+"""
 __author__ = 'Bryan Gregory'
 __email__ = 'bryan.gregory1@gmail.com'
 __date__ = '11-19-2013'
 
+#Internal modules
+import utils
+#Start logger to record all info, warnings, and errors to Logs/logfile.log
+log = utils.start_logging(__name__)
+
+#External modules
 from sklearn.feature_extraction import text, DictVectorizer
 from sklearn import  preprocessing
 from scipy.sparse import coo_matrix, hstack, vstack
@@ -12,7 +18,6 @@ import numpy as np
 import pandas as pd
 from datetime import datetime
 from sklearn import neighbors
-import numpy as np
 
 def add(df):
     #-----Add all currently used features to the given dataframe-----#
@@ -225,7 +230,7 @@ def numerical(dfTrn, dfTest, model_features):
             model_features[feature][1] = standardize(dfTest,[feature])
 
 def sub_feature(df,feature1, feature2, values):
-    """
+    """Substitute one list of features for another, within a given subset.
     feature1 = feature to replace feature2
     feature2 = feature to be replaced
     values = values of feature2 for which when true, sub in the corresponding feature1
@@ -235,16 +240,15 @@ def sub_feature(df,feature1, feature2, values):
             df[feature2][idx] = str(df[feature1][idx])
 
 def knn_thresholding(df, column, threshold=15, k=3):
-    """
-   Cluster rare samples in data[column] with frequency less than
-   threshold with one of k-nearest clusters
+    """Cluster rare samples in data[column] with frequency less than
+    threshold with one of k-nearest clusters
 
-   parameters:
+    parameters:
        data - pandas.DataFrame containing colums: latitude, longitude, column
        column - the name of the column to threshold
        threshold - the minimum sample frequency
        k - the number of k-neighbors to explore when selecting cluster partner
-   """
+    """
     def ids_centers_sizes(data):
         dat = np.array([(i, data.latitude[data[column]==i].mean(),
                         data.longitude[data[column]==i].mean(),

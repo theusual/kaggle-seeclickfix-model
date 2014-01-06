@@ -1,15 +1,22 @@
-'''
+"""
 Functions for data IO
-'''
+"""
 __author__ = 'Bryan Gregory'
 __email__ = 'bryan.gregory1@gmail.com'
 __date__ = '09-06-2013'
 
+#Internal modules
+import utils
+#Start logger to record all info, warnings, and errors to Logs/logfile.log
+log = utils.start_logging(__name__)
+
+#External modules
 import json
 import csv
 import gc
 import pandas as pd
 import time
+import os
 from datetime import datetime
 from sklearn.externals import joblib
 
@@ -37,36 +44,61 @@ def load_flatfile_to_df(file_path, delimiter=''):
     else:
         return pd.read_csv(file_path, delimiter)
 
-def save_predictions(dfTest,model,note=''):
-    timestamp = datetime.now().strftime("%m-%d-%y_%H%M")
-    filename = 'Submits/'+timestamp+'--'+model.model_name+'_'+model.classifier_name+'_'+note+'.csv'
+def save_predictions(df,target,model_name='',directory='Submits/',estimator_class='',note=''):
+    timestamp = datetime.now().strftime('%m-%d-%y_%H%M')
+    filename = directory+timestamp+'--'+model_name+'_'+estimator_class+'_'+note+'.csv'
     #---Perform any manual predictions cleanup that may be necessary---#
 
-    #save predictions
+    #Save predictions
     try:
-        dfTest[model.target] = [x[0] for x in dfTest[model.target]]
+        df[target] = [x[0] for x in df[target]]
     except IndexError:
-        dfTest[model.target] = [x for x in dfTest[model.target]]
-    dfTest.ix[:,['id',model.target]].to_csv(filename, index=False)
-    print 'Submission file saved as ',filename
+        df[target] = [x for x in df[target]]
+    df.ix[:,['id',target]].to_csv(filename, index=False)
+    log.info('Submission file saved: %s' % filename)
 
-def save_predictions_benchmark(dfTest_Benchmark,benchmark_name):
-    timestamp = datetime.now().strftime("%d-%m-%y_%H%M")
-    filename = 'Submissions/'+timestamp+'--'+benchmark_name+'.csv'
-    #save predictions
-    dfTest_Benchmark.ix[:,['RecommendationId','benchmark_'+benchmark_name]].to_csv(filename,cols=['RecommendationId','stars'], index=False)
-    print 'Submission file saved as ',filename
+def save_combined_predictions(df,directory,filename,note=''):
+    #If previous combined predictions already exist, archive existing ones by renaming to append datetime
+    try:
+        modified_date = time.strptime(time.ctime(os.path.getmtime(directory+filename)), '%a %b %d %H:%M:%S %Y')
+        modified_date = datetime.fromtimestamp(time.mktime(modified_date)).strftime('%m-%d-%y_%H%M')
+        archived_file = directory+'Archive/'+filename[:len(filename)-4]+'--'+modified_date+'.csv'
+        os.rename(directory+filename,archived_file)
+        log.info('File already exists with given filename, archiving old file to: '+ archived_file)
+    except WindowsError:
+        pass
+    #Save predictions
+    df.to_csv(directory+filename, index=False)
+    log.info('Predictions saved: %s' % filename)
 
-def save_cached_object(clf,filename):
-    timestamp = datetime.now().strftime("%d-%m-%y_%H%M")
-    filename = 'Cache/'+timestamp+'--'+filename+'.pkl'
-    joblib.dump(clf, filename, compress=9)
-    print 'Object saved as /Cache/',filename
+def save_cached_object(object, filename, directory='Cache/'):
+    """Save cached objects in pickel format using joblib compression.
+       If a previous cached file exists, then get its modified date and append it to filename and archive it
+    """
+    if filename[-4:] != '.pkl':
+        filename = filename+'.pkl'
+    try:
+        modified_date = time.strptime(time.ctime(os.path.getmtime(directory+filename)), '%a %b %d %H:%M:%S %Y')
+        modified_date = datetime.fromtimestamp(time.mktime(modified_date)).strftime('%m-%d-%y_%H%M')
+        archived_file = directory+'Archive/'+filename[:len(filename)-4]+'--'+modified_date+'.pkl'
+        os.rename(directory+filename,archived_file)
+        log.info('Cached object already exists with given filename, archiving old object to: '+ archived_file)
+    except WindowsError:
+        pass
+    joblib.dump(object, directory+filename, compress=9)
+    log.info('New object cached to: '+directory+filename)
 
-def load_cached_object(filename):
-    return joblib.load(filename)
+def load_cached_object(filename, directory='Cache/'):
+    if filename[-4:] != '.pkl':
+        filename = filename+'.pkl'
+    try:
+        object = joblib.load(directory+filename)
+        log.info('Successfully loaded object from: '+directory+filename)
+    except IOError:
+        log.info('Cached object does not exist: '+directory+filename)
+    return object
 
-def save_text_features( output_file, feature_names ):
+def save_text_features(output_file, feature_names):
 	o_f = open( output_file, 'wb' )
-	feature_names = "\n".join( feature_names )
+	feature_names = '\n'.join( feature_names )
 	o_f.write( feature_names )

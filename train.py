@@ -1,11 +1,17 @@
-'''
-Functions for training classifiers, performing cross validation, and making predictions
-'''
+"""
+Functions for training estimators, performing cross validation, and making predictions
+"""
 __author__ = 'Bryan Gregory'
 __email__ = 'bryan.gregory1@gmail.com'
 __date__ = '11-19-2013'
 
+#Internal modules
+import utils
+#Start logger to record all info, warnings, and errors to Logs/logfile.log
+log = utils.start_logging(__name__)
 import ml_metrics
+
+#External modules
 import time
 from datetime import datetime
 from sklearn import (metrics, cross_validation, linear_model, preprocessing)
@@ -47,8 +53,8 @@ def cross_validate_kfold(mtxTrn,mtxTarget,model,folds=5,SEED=42,test_size=.15,pr
     fold_scores = []
     SEED = SEED *  time.localtime().tm_sec
     start_time = datetime.now()
-    print "K-Fold CV started at:", datetime.now().strftime("%m-%d-%y %H:%M")
-    print "=============================================================================================================="
+    log.info('K-Fold CV started at: %s' % (datetime.now().strftime('%m-%d-%y %H:%M')))
+    utils.line_break()
     #If predictions are wanted, initialize the dict so that its length will match all records in the training set,
     #even if not all records are predicted during the CV (randomness is a bitch)
     if pred_fg == 'true':
@@ -67,12 +73,12 @@ def cross_validate_kfold(mtxTrn,mtxTarget,model,folds=5,SEED=42,test_size=.15,pr
             test_cv = sparse.csr_matrix(test_cv)[:,1:]
         #----------Hyperparameter optimization------#
         try:
-            model.classifier.fit(train_cv, y_target)
-            preds = model.classifier.predict(test_cv)
+            model.estimator.fit(train_cv, y_target)
+            preds = model.estimator.predict(test_cv)
         except TypeError:
-            model.classifier.fit(train_cv.todense(), y_target)
-            preds = model.classifier.predict(test_cv.todense())
-        preds = model.classifier.predict(test_cv)
+            model.estimator.fit(train_cv.todense(), y_target)
+            preds = model.estimator.predict(test_cv.todense())
+        preds = model.estimator.predict(test_cv)
         #----------Post processing rules----------#
         #If target variable has been transformed, transform predictions back to original state
         preds = [np.exp(x)-1 for x in preds]
@@ -87,7 +93,7 @@ def cross_validate_kfold(mtxTrn,mtxTarget,model,folds=5,SEED=42,test_size=.15,pr
         ##For each fold, score the prediction by measuring the error using the chosen error metric
         score = ml_metrics.rmsle(y_true, preds)
         fold_scores += [score]
-        print "RMLSE (fold %d/%d): %f" % (i + 1, folds, score)
+        log.info('RMLSE (fold %d/%d): %f' % (i + 1, folds, score))
         ##IF we want to record predictions, then for each fold add the predictions to the cv_preds dict for later output
         if pred_fg == 'true':
             for i in range(0,test_cv2.shape[0]):
@@ -97,20 +103,20 @@ def cross_validate_kfold(mtxTrn,mtxTarget,model,folds=5,SEED=42,test_size=.15,pr
                     cv_preds[test_cv2.getcol(0).toarray()[i][0]] = [preds[i]]
     ##Now that folds are complete, calculate and print the results
     finish_time = datetime.now()
-    print "Total mean: %f" % (np.mean(fold_scores))
-    print "Total std dev: %f" % (np.std(fold_scores))
-    print "Total max/min: %f/%f" % (np.max(fold_scores),np.min(fold_scores))
-    print "=============================================================================================================="
-    print "K-Fold CV completed at: %s.  Total runtime: %s" % (datetime.now().strftime("%m-%d-%y %H:%M"),str(finish_time-start_time))
-    print "=============================================================================================================="
+    log.info('Prediction metrics: mean=%f, std dev=%f, min/max= %f/%f' %
+            (np.mean(fold_scores)), (np.max(fold_scores),np.std(fold_scores),np.min(fold_scores),np.max(fold_scores)))
+    utils.line_break()
+    log.info('K-Fold CV completed at: %s.  Total runtime: %s' % (datetime.now().strftime('%m-%d-%y %H:%M'),
+                                                              str(finish_time-start_time)))
+    utils.line_break()
     if pred_fg == 'true':
         return cv_preds
 
 #---Temporal cross validation---#
 def cross_validate_temporal(mtxTrn,mtxTest,mtxTrnTarget,mtxTestTarget,model):
     start_time = datetime.now()
-    print "Temporal CV started at:", datetime.now().strftime("%m-%d-%y %H:%M")
-    print "=============================================================================================================="
+    log.info('Temporal CV started at: %s' % (datetime.now().strftime('%m-%d-%y %H:%M')))
+    utils.line_break()
     train_cv = mtxTrn
     test_cv = mtxTest
     y_target = mtxTrnTarget
@@ -120,11 +126,11 @@ def cross_validate_temporal(mtxTrn,mtxTest,mtxTrnTarget,mtxTestTarget,model):
     #--------Hyperparameter optimization---------#
     #Make predictions
     try:
-        model.classifier.fit(train_cv, y_target)
-        preds = model.classifier.predict(test_cv)
+        model.estimator.fit(train_cv, y_target)
+        preds = model.estimator.predict(test_cv)
     except TypeError:
-        model.classifier.fit(train_cv.todense(), y_target)
-        preds = model.classifier.predict(test_cv.todense())
+        model.estimator.fit(train_cv.todense(), y_target)
+        preds = model.estimator.predict(test_cv.todense())
     #----------Post processing rules----------#
     #If target variable has been transformed, transform predictions back to original state
     preds = [np.exp(x)-1 for x in preds]
@@ -139,21 +145,21 @@ def cross_validate_temporal(mtxTrn,mtxTest,mtxTrnTarget,mtxTestTarget,model):
     ##score the prediction by measuring the error using the chosen error metric
     score = ml_metrics.rmsle(y_true, preds)
     finish_time = datetime.now()
-    print "Error Measure:" , score
-    print "Prediction mean: %f" % (np.mean(preds))
-    print "Prediction std dev: %f" % (np.std(preds))
-    print "Prediction max/min: %f/%f" % (np.max(preds),np.min(preds))
-    print "=============================================================================================================="
-    print "Temporal CV completed at: %s.  Total runtime: %s" % (datetime.now().strftime("%m-%d-%y %H:%M"),str(finish_time-start_time))
-    print "=============================================================================================================="
+    log.info('Error Measure:' , score)
+    log.info('Prediction metrics: mean=%f, std dev=%f, min/max= %f/%f' %
+               (np.mean(preds)), (np.max(preds),np.std(preds),np.min(preds),np.max(preds)))
+    utils.line_break()
+    log.info('Temporal CV completed at: %s.  Total runtime: %s' \
+          % (datetime.now().strftime('%m-%d-%y %H:%M'),str(finish_time-start_time)))
+    utils.line_break()
     return preds
 
 def cross_validate_using_benchmark(benchmark_name, dfTrn, mtxTrn,mtxTarget,model,folds=5,SEED=42,test_size=.15):
     fold_scores = []
     SEED = SEED *  time.localtime().tm_sec
     start_time = datetime.now()
-    print "Benchmark CV started at:", datetime.now().strftime("%m-%d-%y %H:%M")
-    print "=============================================================================================================="
+    log.info('Benchmark CV started at: %s' % (datetime.now().strftime('%m-%d-%y %H:%M')))
+    utils.line_break()
     for i in range(folds):
         #For each fold, create a test set (test_holdout) by randomly holding out X% of the data as CV set, where X is test_size (default .15)
         train_cv, test_cv, y_target, y_true = cross_validation.train_test_split(mtxTrn, mtxTarget, test_size=test_size, random_state=SEED*i+10)
@@ -169,33 +175,32 @@ def cross_validate_using_benchmark(benchmark_name, dfTrn, mtxTrn,mtxTarget,model
         if benchmark_name =='9999':
             #find user avg stars mean
             benchmark_preds = [9999 for x in test_cv]
-        print 'Using benchmark %s:' % (benchmark_name)
+        log.info('Using benchmark %s:' % (benchmark_name))
         #For this CV fold, measure the error
         score = ml_metrics.rmsle(y_true, benchmark_preds)
         #print score
         fold_scores += [score]
-        print "RMSLE (fold %d/%d): %f" % (i + 1, folds, score)
+        log.info('RMSLE (fold %d/%d): %f' % (i + 1, folds, score))
 
     ##Now that folds are complete, calculate and print the results
     finish_time = datetime.now()
-    print "Prediction mean: %f" % (np.mean(fold_scores))
-    print "Prediction std dev: %f" % (np.std(fold_scores))
-    print "Prediction max/min: %f/%f" % (np.max(fold_scores),np.min(fold_scores))
-    print "=============================================================================================================="
-    print "CV completed at: %s.  Total runtime: %s" % (datetime.now().strftime("%m-%d-%y %H:%M"),str(finish_time-start_time))
-    print "=============================================================================================================="
+    log.info('Prediction metrics: mean=%f, std dev=%f, min/max= %f/%f' %
+            (np.mean(fold_scores)), (np.max(fold_scores),np.std(fold_scores),np.min(fold_scores),np.max(fold_scores)))
+    utils.line_break()
+    log.info('CV completed at: %s.  Total runtime: %s' % (datetime.now().strftime('%m-%d-%y %H:%M'),
+                                                       str(finish_time-start_time)))
+    utils.line_break()
 
 def predict(mtxTrn,mtxTarget,mtxTest,dfTest,model):
     start_time = datetime.now()
-    print "Model predictions started at:", datetime.now().strftime("%m-%d-%y %H:%M")
-    print "=============================================================================================================="
+    log.info('Predictions started at: %s' % (datetime.now().strftime('%m-%d-%y %H:%M')))
     try:
         #make predictions on test data and store them in the test data frame
-        model.classifier.fit(mtxTrn, mtxTarget)
-        dfTest[model.target] = [x for x in model.classifier.predict(mtxTest)]
+        model.estimator.fit(mtxTrn, mtxTarget)
+        dfTest[model.target] = [x for x in model.estimator.predict(mtxTest)]
     except TypeError:
-        model.classifier.fit(mtxTrn.todense(), mtxTarget)
-        dfTest[model.target] = [x for x in model.classifier.predict(mtxTest.todense())]
+        model.estimator.fit(mtxTrn.todense(), mtxTarget)
+        dfTest[model.target] = [x for x in model.estimator.predict(mtxTest.todense())]
     #---------Post processing rules--------------#
     #If target variable has been transformed, transform predictions back to original state
     dfTest[model.target] = [np.exp(x) - 1 for x in dfTest[model.target]]
@@ -207,14 +212,13 @@ def predict(mtxTrn,mtxTarget,mtxTest,dfTest,model):
         dfTest[model.target] = [1 if x < 1 else x for x in dfTest[model.target]]
     else:
         dfTest[model.target] = [0 if x < 0 else x for x in dfTest[model.target]]
-    #print "Coefs for",model.classifier_name,model.estimator.coef_
+    #print 'Coefs for',model.estimator_name,model.estimator.coef_
     finish_time = datetime.now()
-    print "Prediction mean: %f" % dfTest[model.target].mean()
-    print "Prediction std dev: %f" % dfTest[model.target].std()
-    print "Prediction max/min: %f/%f" % (dfTest[model.target].max(),dfTest[model.target].min())
-    print "=============================================================================================================="
-    print "Predictions completed at: %s.  Total runtime: %s" % (datetime.now().strftime("%m-%d-%y %H:%M"),str(finish_time-start_time))
-    print "=============================================================================================================="
+    log.info('Prediction metrics: mean=%f, std dev=%f, min/max= %f/%f' %
+        (np.mean(dfTest[model.target]), np.std(dfTest[model.target]),np.min(dfTest[model.target]),
+         np.max(dfTest[model.target])))
+    log.info('Predictions completed at: %s.  Total runtime: %s' % (datetime.now().strftime('%m-%d-%y %H:%M'),
+                                                                str(finish_time-start_time)))
     return dfTest
 
 #---Calculate the variance between ground truth and the mean of the CV predictions.----#
